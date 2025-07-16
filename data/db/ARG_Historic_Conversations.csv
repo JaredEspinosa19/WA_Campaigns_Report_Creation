@@ -1,109 +1,132 @@
-﻿conversation_id,mobile,date,campaing_id,conversation_category,conversation_feeling,conversation,conversation_need,support_type
-wamid.HBgNNTQ5MTE2OTAyMjg3OBUCABIYIEIyQ0Y0ODY4QkJGNjY5MjYzQjY4Q0I4MzMwNUFFNzZGAA==,5491169022878,2025-05-26 17:08:00,,Automática,Positiva,Felicidades en tu dia!!,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDI1MDA1NhUCABIYIDMyQUYwMkY1MzBCNjY2MkU3NDY0NjJBQzdERkYzNTQyAA==,5491140250056,2025-05-26 10:04:00,,Escrita,Neutral,"Saluden a los valijas ??
-Recurso multimedia enviado: image/jpeg",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzgxNjQwOTU3NBUCABIYIEREQzQ4QUVGRUYxRERDNEY3MTVFMUY3REE0MzM1RDZGAA==,5493816409574,2025-05-26 06:38:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRTA1MkNFNzM0NDQxMEQxNjdBAA==,525580051703,2025-05-15 10:26:00,,Escrita,Neutral,Hola,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDA4MzYyNRUCABIYFDNBQ0M1RkVFNUQzOUMzNDlDNDlCAA==,5491144083625,2025-05-14 05:24:00,,Escrita,Positiva,"Buen día, quisiera saber si tenemos APM en el Hospital Elizalde. Soy Miriam Bonadeo, jefa de Unidad de Consultorios Externos de Clínica Pediátrica. Gracias",Información,Asistencia Técnica
-wamid.HBgNNTQ5MzU0NzU5NzU1MhUCABIYFDNBRkRGNzM5MjU2Njc4MDUzOTcwAA==,5493547597552,2025-05-13 12:42:00,,Automática,Neutral,"Programa definitivo, en unos 10 días confirmamos asistentes ",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzU0NzU5NzU1MhUCABIYFDNBMEFEQkYzQUI4NDI4ODY2RUJEAA==,5493547597552,2025-05-13 12:42:00,,Automática,Neutral,"Progama Eencuentro Medico Alta Gracia.pdf
-Recurso multimedia enviado: application/pdf",Solicitud de recurso,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTYxNDgwNRUCABIYIDE1N0E1RTQxN0UyQUNCQzQ0OEYwMTkwNDk1REE3NDE0AA==,5492215614805,2025-05-12 18:05:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBN0M0RTFBODc1MUI5NEFCNTFGAA==,5492216022134,2025-05-09 07:34:00,,Automática,Neutral,Recurso multimedia enviado: video/mp4,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBRTI3RkNGN0ZFNUQwNzYwQThCAA==,5492216022134,2025-05-09 07:34:00,,Automática,Neutral,"1° Ateneo | Centro de Formación Profesional - Centro Médico Climed
-
-Creemos que la capacitación continua es fundamental para brindar la mejor atención a nuestros pacientes. Por eso, inauguramos este espacio de formación e innovación para manten",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NDAyMzExMhUCABIYIEUxOTZGM0VFQzZBOUY4QzdCMDdGMzM3NTJCQjdGM0FFAA==,5491164023112,2025-04-28 13:48:00,,Escrita,Neutral,"Hola San necesito q hagas un informe justificando el cambio de leche. Te envío acá lo q pide OSDE.
-Firmado y sellado",Solicitud de informe justificativo,Asistencia Personal
-wamid.HBgNNTQ5MTE2NDAyMzExMhUCABIYIDQ2MDA2NEU2N0M0OEIwQkVGMUNFQkZFNUY3NEEzMUVDAA==,5491164023112,2025-04-28 13:48:00,,Automática,Neutral,"61076323604 SOL KRASNIANSKY
-Recibidos
+conversation_id,mobile_number,conversation_date,campaing_id,conversation,conversation_category,conversation_feeling,conversation_need,support_type
+01J0R8M47VK1R9TPQC2HF61MTP,5493515216986,2024-06-19 06:47:00,,Hola cómo estás? Quería pedirte si llegan a tener becas para el congreso anual de pediatría. Muchas gracias!,Escrita,Positiva,Solicitud de información,Asistencia Técnica
+01J15C801VHS8RYEABPP5F7BFN,5491154639288,2024-06-24 09:01:00,,Buenos dias,Automática,Neutral,,Asistencia Técnica
+01J1QFZ2572FND7MGH9DWH6ZT2,5492901478660,2024-07-01 09:52:00,,,Escrita,Neutral,,Asistencia Técnica
+01J3NDXP5VJD2R79H2A0YF0DBH,5492215561163,2024-07-25 11:09:00,,Si,Escrita,Neutral,,Asistencia Técnica
+01J3TYN6G3C4CRPBG10BE2FHQV,5491144700861,2024-07-27 14:38:00,,1 para si,Escrita,Neutral,,Asistencia Técnica
+01J3ZFNS9XRQNTF46QYXY3J3G0,5491139049332,2024-07-29 08:52:00,,"Hola necesito comunicarme con alguien de vacunas antigripales
+Me podrían pasar algún contacto",Escrita,Positiva,Comunicación,Asistencia Personal
+01J41TWCYVP4H5BZ94YP8W46QJ,5491144700861,2024-07-30 06:47:00,,"
 
 
-'Asistencia Domiciliaria OSDE' via Solicitud de Evaluacion
-Adjuntos
-16:24 (hace 10 minutos)
-para Solicitud
+",Escrita,Positiva,Agradecimiento,Asistencia Personal
+01J42V5MTRA0YNXSSG0K81YW6Q,5492216022134,2024-07-30 16:11:00,,,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mjk4NDUwMDUwMBUCABIYFDNBOEY1MUNENzFE,5492984500500,2024-08-02 12:42:00,,"Hola, buenas tardes. Dra Venchi Rosana, hematóloga de General Roca. Río Negro. Quería saber de algún visitador de la zona. Gracias",Automática,Positiva,Contactar a un representante,Asistencia Personal
+wamid.HBgNNTQ5MTEzNjA3MzA0NxUCABIYFDNBMEY1NTM3QUNE,5491136073047,2024-08-09 14:58:00,,"Buenas tardes
+No sé qué problema tendría pero no estoy pudiendo ingresar a la cuenta de página de uds para acceder a los diferentes artículos, en este caso los de la Ada",Escrita,Negativa,Solicita ayuda,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNjM3MTI2NBUCABIYIDE4OTIxRTYzOURE,5492616371264,2024-08-13 08:23:00,,1,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NDYzOTI4OBUCABIYIDk2ODMyODRBOTBG,5491154639288,2024-08-20 12:33:00,,Buenas tardes,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTM1NjEwMRUCABIYIENBNDZBQ0Q2RkVF,5491161356101,2024-09-16 07:09:00,,1,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNTEwMDQ2NBUCABIYFDNBQUNGMDkxRjI0,5492615100464,2024-09-17 07:22:00,,"Hola buenos días, me das acceso, aparece esto",Escrita,Negativa,Problema,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDE2NjczMRUCABIYIEIwNkVCOENCMDJB,5491144166731,2024-10-31 15:00:00,,"Se comunicó con el Dr. Fernando Fernández.
+Su mensaje será respondido a la brevedad
 
-Estimados buenas tardes
+Para consultas de turnos y horarios
+www.cmlibertador.com
+O comunicarse al consultorio 4743-5909 / 4742-9487
 
-desde asesoría médica , solicita que se justifique el cambio d",Solicita justificación de un cambio,Asistencia Personal
-wamid.HBgNNTQ5MjkxNjQ5MjYwNxUCABIYFDNBQUU4OUJENzE3NzcwNDAxMjNGAA==,5492916492607,2025-04-28 06:06:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTYxNDgwNRUCABIYIDE4RDRDOUJEMTlENDQwNTAzNUFEOEVDMDM0OTE0RThDAA==,5492215614805,2025-04-23 18:52:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIEI5NzA3NDI4QjQwQ0JGOEE0NjYwRDNDRkFDRjYwMUVFAA==,5491169085500,2025-04-22 09:03:00,,Automática,Neutral,Volver al menú,Volver al menú,Asistencia Técnica
-wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIDYzRkMxRDYwODI4OEIzNDA0QzY5MTA5NTJCRUFGMEFEAA==,5491169085500,2025-04-22 08:59:00,,Escrita,Neutral,Ayuda,Ayuda,Asistencia Personal
-wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIDA1NzUyMTdBMzAxMTZCRENCQzNDNzI5MzYxMzUxRjBBAA==,5491169085500,2025-04-22 08:58:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MzMxNzM0OBUCABIYFDVFOUJDMDY4NDg5Q0M4QzVBRThGAA==,5491153317348,2025-03-28 17:45:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MjY5MDk4MxUCABIYIDdEOUZEQjQwNzY3NTE4QkM5OTZEODg5QzEzMkY5OUJDAA==,5491162690983,2025-03-27 19:43:00,,Escrita,Neutral,??,,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTE2OTUzMRUCABIYFDNBNzUwRUM0OUI4RkQxQ0VFNjk1AA==,5493875169531,2025-03-27 15:58:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzc5NDc1MzE4NxUCABIYFjNFQjBCQTQxNDk3NzI4MTI1RTQ0QjcA,5493794753187,2025-03-27 15:28:00,,Automática,Positiva,gracias!,,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjA2Nzc4OBUCABIYIDgzMDhDRjc0QzgyRjVDRTEyNzg2Q0UxRUUyNDE3MjkzAA==,5493416067788,2025-03-27 15:28:00,,Automática,Positiva,Gracias!!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTU2MTE2MxUCABIYFDNBNzY0NTc5RTIyNzQyRTMyQTM3AA==,5492215561163,2025-03-27 15:08:00,,Escrita,Negativa,Hola de Sanofi no nos visita nadie,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg1NTA3NDM5NhUCABIYIEYwNjJBNEU4OUIxRUQzRDhFM0MyNTA5ODUwQjBDQTg2AA==,5493855074396,2025-03-27 15:07:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzg1NDM4Njk5NxUCABIYIEZFNzk1OUY5RjcwMjlENEY5MDk4MUNEMUZCQkYyOUM5AA==,5493854386997,2025-03-27 15:03:00,,Automática,Positiva,"Gracias por tu mensaje. No puedo atender tu mensaje hasta el día 7 de abril.
-Por recetas y /o derivaciones enviar mensaje al 3855020876 Alejandra Barron.
-O dirigirse a Azahares.",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzgxNTk1NjAyMxUCABIYFDNBRjU4Mzk5MjZCNUU0MUMwNTQwAA==,5493815956023,2025-03-27 15:02:00,,Automática,Positiva,gracias,agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjMxNzQwMjE5NBUCABIYFDJGQjNEMDU0MjA1NkQ3N0U3MDRDAA==,5492317402194,2025-03-27 15:02:00,,Automática,Neutral,"Hola, por recetas y turnos comunicarse al 
-Consultorio correspondiente:
-9 de Julio. Corpus 523636/7/8
-Wa 2317446606.
-Https://consultoriocorpus.wiri.la
-C.Casares. Crek. Soler 21. ?? 2395424665
-Bolivar. Diagnos. Olavarria 99. ?? 2314427087",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzQxMzE3MjEzMBUCABIYIEVGN0U0NzhEREMwMTE0QjI5MzhFQTY5OEM5RTc4MkEwAA==,5493413172130,2025-03-27 15:01:00,,Automática,Positiva,"Gracias por comunicarte con el Buzón electrónico de recetas Pami. Debe enviar:
-*Nombre y apellido
-*DNI
-*N° de afiliado
-*Médico de cabecera
-SOLO EN EL CASO QUE HAYA ALGUNA MODIFICACIÓN EN SUS REMEDIOS INDIQUE CUÁL ES LA MISMA. 
-SÍ ES MEDICAC",Solicita información y especificación sobre modificaciones a medicamentos.,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NzYwNjU4MhUCABIYIDkwOEE3QUMxRThBQTA0Nzc4NDRCOThBOUY0Qjk5MjUwAA==,5491157606582,2025-03-27 15:01:00,,Automática,Positiva,"Gracias por comunicarte! por la alta demanda, no puedo responder mensajes en forma inmediata. 
+El uso de este medio puede ser interpretado c",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjE4MzM2NxUCABIYIDRGQjJGOTg3RTk3,5492216183367,2024-10-31 15:00:00,,"Ante una urgencia concurrir a la guardia más cercana, a la brevedad será respondido su mensaje.",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2NDE1NDU5NxUCABIYFDJGNzc4QkFBOUJB,5491164154597,2024-10-31 15:00:00,,"Gracias por comunicarte. Este Número no es para urgencias. Ante cualquier situación urgente por favor dirigirse a una guardia médica.En este momento no estoy disponible, pero te responderé a la mayor brevedad dentro del horario de mi consulta méd",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE0MDgyNTY4MxUCABIYFDJGQUZDRkEyNEFB,5491140825683,2024-10-31 15:00:00,,"Gracias por comunicarte con Ana Barbarulo. No se realizan consultas por este medio . Las recetas son confeccionadas en el contexto de una consulta clinica. Turnos :  según correspondan a Pilar o Belgrano,  le enviaremos los datos para solicitarlo",Automática,Positiva,ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDgyNTY4MxUCABIYFDJGRTNGMDBFNjkw,5491140825683,2024-10-31 15:00:00,,Gracias por tu mensaje. En este momento no estamos disponibles.,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2Njc4Nzg5NxUCABIYFDJGQjRCNUI2MTBC,5491166787897,2024-10-31 15:00:00,,"*Estimados Pacientes*: para consultas relacionadas a recetas/órdenes, turnos,revisión de Estudios, tratamientos, etc *comunicarse vía mensaje de WhatsApp al 11 7072 7777.*
 
-Para reservar turnos particulares: 
-- Vicente Lopez: 11-4158-7397
-- CABA: 11 2513 7859
+??Turnos Osde Online y Pilar :https://linktr.ee/gastronutri
 
-Consultas vía mail: consultoriofabianavazquez@gmail.com",Agradecimiento por la comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGREU5MEYzOUUzMEI4MDVGODM2AA==,5493816124405,2025-03-27 15:01:00,,Automática,Positiva,"_Gracias por comunicarte_ ??????
+??Para T",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNTgzMzQ4NhUCABIYFDJGRjhFMzA5MzM5,5493415833486,2024-10-31 15:00:00,,"Hola! Te comunicaste con Dra Sandra Mazzetti Por turnos y temas administrativos comunicarse al telef 3412769151 
+Consultorio
+Calle ayacucho 1989 tercero B",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjE4MzM2NxUCABIYIDdDQzBENzczNzlC,5492216183367,2024-10-31 15:00:00,,"Gracias por comunicarte con Romina Adorni. 
 
-Nuestros días de atención: Lunes a Viernes de 8:00 a 16:00 Hs 
+Los turnos los deben solicitar los mismos pacientes a través de los siguientes métodos
 
-*MUY IMPORTANTE* ??
-El número
-??????*3816 48-7597*??????
-de calle Próspero Mena *????fue Hackeado*????!!! 
+Días y horarios de atención
 
-Tiene un logo que dice CIMA
+Hospital Español lunes, jueves, viernes vía web https://www.hospitalespanol.or",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTEzNjE4MzEyNRUCABIYFDNBNTA3QUJBQjZG,5491136183125,2024-10-31 15:01:00,,Genial,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5Mzg4NjMwMzY0OBUCABIYFjNFQjA1MDU5OTY3,5493886303648,2024-10-31 15:01:00,,estamos buscando patrocinadotes,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzg4NjMwMzY0OBUCABIYFjNFQjBDQkMzOEY0,5493886303648,2024-10-31 15:01:00,,hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjc3NDA5MRUCABIYIDI3M0FCN0YyRURF,5493516774091,2024-10-31 15:04:00,,Gracias,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NjM2NDU3OBUCABIYIEEzRDkxODgwQ0Mw,5491166364578,2024-10-31 15:09:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzQ3MTY4NjIxMBUCABIYIDE5OTE1MzNDQUYw,5493471686210,2024-10-31 15:09:00,,Hace años que no me visita sanofi,Escrita,Negativa,Contacto,Asistencia Personal
+wamid.HBgNNTQ5MjIzNTI4MDgzNBUCABIYIDg1Rjk1M0Y4QzYx,5492235280834,2024-10-31 15:10:00,,Me gustaría tener muestras de vuestros productos...gracias,Automática,Positiva,Solicitud de muestras,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjY1Mzk0MBUCABIYFDNBOUQwRkJGNkQz,5493516653940,2024-10-31 15:17:00,,Perfecto,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTQ4NDQ4NhUCABIYIDY2NUYxQkI0RTZB,5493515484486,2024-10-31 15:43:00,,"*Respuesta automática* 
+Estimado paciente para solicitar turnos, recuerde hacerlo con antelación, las agendas se abren los días 20 de cada mes. Comunicarse a CURF 4142121 o Centro Pedrazzoli 4517519. A este número comunicarse solo por urgencias.",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTAwODU1MBUCABIYFDNBMjE3N0M3QzMx,5493875008550,2024-10-31 15:51:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0OTc0MzU4NhUCABIYIEYwNTQ5Rjc4Rjcy,5491149743586,2024-10-31 16:15:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTg0ODU2MBUCABIYFDNBMzQyQTRCMDY0,5493815848560,2024-10-31 16:39:00,,????,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDcyNTQ3OBUCABIYIDQ3MDVCOTBGOUU2,5491140725478,2024-11-01 15:01:00,,"Se ha comunicado con el celular de la Dra Andrea Dimango.Para turnos;recetas o consultas llame al 42003505,42540315. o x wapp al 1122546427.De lu a vi de 10 a 19hs.Las recetas se realizan SOLO en la consulta.No solicite recetas x wapp.",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBNkVBRDM4NkM0,5493764688425,2024-11-01 15:01:00,,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
+Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MjY0ODg0MRUCABIYFDJGOEM2Qjg2RDc1,5491162648841,2024-11-01 15:01:00,,"Gracias por comunicarte, el horario de respuesta rige entre las 8 hs y 19 hs, de lunes a viernes, gracias",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBMTFGRURDRjJG,5493764688425,2024-11-01 15:01:00,,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
+Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTEzMzMxMDc3MxUCABIYIDg4QUQ2RDMwMzA5,5491133310773,2024-11-01 15:01:00,,"Dra. Daniela A Bruno
+Especialista 
+Hematología 
 
-",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGMjMxNUIxNUFEMzU2RDc2NDRFAA==,5493816124405,2025-03-27 15:01:00,,Automática,Neutral,"*Hola!*???? 
+??Consultorio particular 
+Atención Inmediata Lunes 14-16 hs  Paramaribo 888 
+Escribir al 11-25705589
 
-*Se responderá de ? 8:00 a 16:00 Hs*
-Le suplicamos *LEA ??* porque su respuesta puede estar acá
+??Lunes: 9,30-13 hs Las Lomas San lsidro 
+??Martes: 9,00-12hs  Paramaribo 888 San Isid",Automática,Neutral,Información sobre horarios y ubicaciones,Asistencia Técnica
+wamid.HBgNNTQ5MjgwNDcwNTQ5NhUCABIYFDNBNkE5RkRFQjY1,5492804705496,2024-11-01 15:01:00,,"Hola ! Soy Cañadas Nadia médica dermatóloga, en qué puedo ayudarte ? 
 
-Tenga paciencia ?? 
+1- Resultados de estudios envíalos a dermatologa.ayurmed@gmail.com
+2- Consultas ! Envía los datos a 2804957010 
 
-*ESTE ES UN MENSAJE AUTOMÁTICO*
+Estamos en el consultorio CN Dermatología & Estética en c",Automática,Neutral,Consultas y envío de resultados,Asistencia Personal
+wamid.HBgNNTQ5MTE0NDA4MzYyNRUCABIYFDJGOEE0NDdDNTVE,5491144083625,2024-11-01 15:01:00,,"Gracias por comunicarte. Por favor, sin audios. En cuanto pueda, me comunico. Podés mandarme un mail bonadeom@gmail.com
+Gracias ??",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjQ3NDY2NjMzMBUCABIYIDJDQzJFMjRENkYz,5492474666330,2024-11-01 15:01:00,,".Este es un mensaje automático
+Para consultas en Chacabuco solicitar turnos al 2352-470780  La Rioja 158 de 9.30hs a 13.30hs, o podes entrar en la pagina gastoncapodarco.ar y sacar tu turno
+Lunes por la tarde centro cardiologico chacabuco
+Cons",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjgwNDcwNTQ5NhUCABIYFDNBREIwODI0OTRD,5492804705496,2024-11-01 15:01:00,,"Gracias por tu mensaje!  
+El horario de atención es lunes miércoles y viernes de 14-19hs, martes y jueves de 9-12hs.
+Si ya sos paciente y estás agendado podes enviar tus estudios a dermatologa.ayurmed@gmail.com y solicitar o modificar el turno",Automática,Positiva,Solicitud de información,Asistencia Técnica
+wamid.HBgNNTQ5Mzc2NDI3MDkyNBUCABIYIDIyQzE5OEFFNkQw,5493764270924,2024-11-01 15:01:00,,Gracias por comunicarte .En este momento no puedo atenderte te escribo más tarde,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjM2NDY5MzA1MRUCABIYFDNBMDQ1OERDNkVB,5492364693051,2024-11-01 15:01:00,,"? Buenos días!  Estimados pacientes para solicitud de  TURNOS , TRÁMITES ADMINISTRATIVOS y RECETAS,   por MENSAJE de TEXTO de   WhatsApp al 2364534112 de  Lunes a Viernes, de 10 a 17 hs.",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzc3NzU3NTcxMBUCABIYIEU1MDlDMTlCQUMx,5493777575710,2024-11-01 15:05:00,,???? Dra Joerin . Pediatra de Corrientes,Automática,Neutral,Pedir información,Asistencia Técnica
+wamid.HBgNNTQ5MzUyNTU0NDM3OBUCABIYIDFFNjY4REM3NDE0,5493525544378,2024-11-01 15:05:00,,Gracias,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MjMxNzQwMjE5NBUCABIYFDJGRDQ3NTZDODAz,5492317402194,2024-11-01 15:06:00,,"Gracias por comunicarte, por recetas y turnos comunicarse al consultorio correspondiente.
+Corpus. 2317523636. 2317446606
+Crek 2395424665
+Diagnos 2314427087",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNTA1ODcwNRUCABIYFDNBNjUzNDUwRDg5,5493815058705,2024-11-01 15:07:00,,"Ok , muchas gracias",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzc5NDg2ODgyMxUCABIYIDQxQjJDNzcxOTRC,5493794868823,2024-11-01 15:07:00,,Gracias Sanofi Arg siempre atentos.,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjEzODM4MRUCABIYIEI4RjJDQTU4RDQ2,5493516138381,2024-11-01 15:11:00,,"Ok, muchas gracias",Automática,Positiva,agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTY0Njc3MBUCABIYIDZDRjc1MjVDNEE4,5493815646770,2024-11-01 15:18:00,,Perfecto,Automática,Positiva,ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQwMjgxOBUCABIYIDFCNTNEMjJBMUY0,5493814402818,2024-11-01 15:32:00,,Gracias!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjkxNDc3NDQ0ORUCABIYIDM1NDk1RUQ3OTI4,5492914774449,2024-11-01 15:37:00,,Gracias !!!!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDc2QkJCN0JBREI1,5493434508848,2024-11-02 08:16:00,,Zi,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIEREQ0I3NzQyRDQ4,5493434508848,2024-11-02 08:16:00,,"No se hi,o quilombo",Escrita,Neutral,No aplica,Asistencia Técnica
+wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDA3RDdCRjk1QzE3,5493434508848,2024-11-02 08:16:00,,No te asustes,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIEREMkU3QzA3MDBD,5493434508848,2024-11-02 08:16:00,,Si,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDdCMEI2NDlBQzhC,5493434508848,2024-11-02 16:32:00,,Perdon me equivoque,Escrita,Neutral,Solicita disculpas,Asistencia Técnica
+wamid.HBgNNTQ5Mzc1NTQzMzMxMRUCABIYIEZGMDI4RTVEQzUy,5493755433311,2024-11-04 16:29:00,,"Gracias por comunicarte con Biolacsrl. ¿Cómo podemos ayudarte?
 
-??No se dan turnos en este número.
-??No recibimos llamadas.
-??No envia",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzU2NDQ3MDAwMBUCABIYIDVEN0I2NjMxMTY2ODZFMzUwMEQ2RTFBNTIwQTc4NzQwAA==,5493564470000,2025-03-27 15:01:00,,Automática,Neutral,"No sé realizan recetas, planillas.ni se ortogan turno por  este medio,para estos fines comunicarse al 434922 o con secretaria Fabiana,este teléfono es solo para consultas de urgencia!",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDIyQUE0NDM4MEMzM0M0RTU4QjI3Q0Q1RjU4RDM1RDMzAA==,5491151797569,2025-03-27 15:01:00,,Automática,Neutral,Horario de atención de 7 a 19 hs de lunes a viernes. De 8 a 12 hs los sábados.,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MzMxNjg5MBUCABIYIDFGQTI1RkJEQUJBQUI4NUNDNUNDODM1Qzc3QUUxRDA5AA==,5491153316890,2025-03-27 15:01:00,,Automática,Neutral,"*Respuesta automática* 
-Estoy de vacaciones. Me reintegro el 08/04/25
-Por urgencias, pacientes de FEM, contactar a la Dra Mariela Schonfeld doctoramarielaenlomas@gmail.com",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg3NDA4NjkxNxUCABIYIDY5Rjg5QjEzRTdGRDAyMTM4MUY3REE3QzIzREEwMDM0AA==,5493874086917,2025-03-27 15:01:00,,Automática,Positiva,Gracias por comunicarte con Lourdes Loutayf. ¿Cómo podemos ayudarte?,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2NTY4NTEyOBUCABIYFDJGM0MxOTZEMjlFNzVBOEJFMDBCAA==,5491165685128,2025-03-27 15:01:00,,Automática,Neutral,"Te comunicaste con tu doc! Éste es mi número personal, déjame tu inquietud con respecto a tu salud y te responderé en cuanto pueda. 
+??IMPORTANTE??Graba mi número de telefono en tus contactos para poder recibir mis mensajes de otra forma no te llegaran
 
-Los turnos o recetas por favor solicítalos por WhatsApp al *11 6966-4334* para atenderte virtual , en Caballit",Solicitud de comunicación,Asistencia Personal
-wamid.HBgNNTQ5MjY2NDU3MjM4OBUCABIYFDJGN0U1QTBCODg5NkYyMzMwNzlGAA==,5492664572388,2025-03-27 15:01:00,,Automática,Neutral,"Hola, gracias por su contacto; el horario laboral es de 9 a 17 hs de lunes a viernes. 
+Te podés comunicar también a los fijos:
 
-Es una respuesta automática.  *RE ENVÍE SU MENSAJE, por favor, en ese horario. Sino lo hace no lo veré*. 
-
-Antes de hacerlo, tenga en cuenta que:
-- Mi lí",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NDEzNTA5NRUCABIYIDcxODNFMDAwQUZERUM5QjFBNTI2MzE2QTg1QUExQjEwAA==,5491154135095,2025-03-27 15:01:00,,Automática,Neutral,"Lugares de atención.
+03755 406908/4",Automática,Positiva,Comunicación personalizada,Asistencia Personal
+wamid.HBgNNTQ5MjkxNjQ0OTc1NRUCABIYIDgzRDQ3MTBGODc5,5492916449755,2024-11-04 16:29:00,,"Para turnos y papeles (recetas, pedidos de estudios, etc) comunicarse con el Htal Italiano (wa 2915353475), CEMASUR (cemasur.com.ar o mail centromamariosur@gmail.com)  o MERIDIEM (2915320828).",Automática,Neutral,Informacion,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTQ3NDYzOBUCABIYIDlEQzlFOEExNTY2,5491151474638,2024-11-04 16:29:00,,Sobre cuestiones administrativas y turnos comunicarse con la secretaria.,Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzUxMjMxMTY2ORUCABIYIDhFQ0FCN0FCQUFC,5493512311669,2024-11-04 16:29:00,,"*Mensaje automático*
+Hola! Me encuentro de licencia por vacaciones, cuando esté de regreso me contacto! ??",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzg3MjI1OTYyMxUCABIYIEMwQ0MxMUUwMEU0,5493872259623,2024-11-04 16:29:00,,"Hola . No se hacen consultas , no se dan turnos ni se reciben estudios por esta vía. Por Turnos y consultas comunicarse al 3875600466/3874675854",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNTI2MzczMhUCABIYIEE3OTFGQzUxQzUw,5492615263732,2024-11-04 16:29:00,,"Mensaje automático. 
+1) Por turnos llamar de lunes a jueves al 2614258928. Al Centro Médico Chacras o al Hospital Universitario. Sin excepción.
+2) Por recetas enviar los datos correspondientes y el detalle de lo que requiere.
+3) Si no he respo",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIEUyRDc2QTQ2NDU2,5493512215289,2024-11-04 16:29:00,,Gracias por comunicarte con Endocrinóloga Garayalde María. ¿Cómo podemos ayudarte? Nos pondremos en contacto con usted tan pronto sea posible ??,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNTI3NjgwNhUCABIYIEM1MENCNDM2NkNB,5493815276806,2024-11-04 16:29:00,,Ok gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NDEzNTA5NRUCABIYIDc5NjlCOUZENzZE,5491154135095,2024-11-04 16:29:00,,"Lugares de atención.
 
 Miércoles. 9 a 12 hs ASIMRA. Paso 86. Tel. 423422
 
@@ -114,439 +137,109 @@ Bolívar 125   Tel 430567
 Viernes 11.30 a 15 hs
 bolívar 148. Tel 422252
 
-TURNOS WEB en Bolívar 125 y",Informacion,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NDg3MDExMxUCABIYIDc4MTk1NEIyNUE2RTBENkI5MzJDRUNENjU3Q0QxOThGAA==,5493874870113,2025-03-27 15:01:00,,Automática,Neutral,"Me encuentro fuera de mi horario de atención (9-16 hs).
-                  *Respuesta automática*",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGMDAzNUIxMkQzOThBQTcxRDc3AA==,5492284575748,2025-03-27 15:01:00,,Automática,Neutral,"????NO ESTOY TRABAJANDO HASTA EL 23/04 
-Este celular no es para urgencias  ni para sacar turnos ,
-No enviar mensajes de audio , por favor. Muchas gracias 
+TURNOS WEB en Bolívar 125 y",Automática,Neutral,Información sobre lugares de atención,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIDM5N0U5RTU2NEJD,5493512215289,2024-11-04 16:29:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible ??.",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MzMxNjg5MBUCABIYIDhGMjAxODc3Mzgz,5491153316890,2024-11-04 16:29:00,,"*Respuesta automática* 
+Estoy en un congreso. Me reintegro el 12/11/24.
+Por urgencias o recetas contactar a doctoramarielaenlomas@gmail.com",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5Mzc3NzU3NTc4NxUCABIYFDNBNTdBQzg1RDA3,5493777575787,2024-11-04 16:29:00,,"Gracias por comunicarte con Julieta Pitton. Por favor, haznos saber cómo podemos ayudarte. Si desea un turno recuerde aclarar su nombre y apellido y si el turno lo prefiere por la mañana o por la tarde.",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjY2NDU3MjM4OBUCABIYFDNBNzU1NEMzMkM5,5492664572388,2024-11-04 16:29:00,,"Hola, gracias por su contacto; el horario laboral es de 9 a 17 hs de lunes a viernes. 
 
-Por Turnos en Olavarría:  
-teléfono fijo : 2284-410511
-Mensaje al WA 2284524267 
-En",Información,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIEQ4NjA3N0EwM0ExNTYxMDE5QjY3MzZCM0U1OUQ0REREAA==,5493416583575,2025-03-27 15:01:00,,Automática,Positiva,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680.
+Es un mensaje automático.  *RE ENVÍE SU MENSAJE, por favor, en ese horario. Sino lo hace no lo veré*. 
+
+Antes de hacerlo, tenga en cuenta que:
+- Mi línea",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTYyOTc2NBUCABIYIDcyQThGQjk5NjJB,5493875629764,2024-11-04 16:29:00,,Ok ok muchas grac!!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjM2NDU3NTE1NxUCABIYIDU2N0U3M0ZBQ0U2,5492364575157,2024-11-04 16:29:00,,"Gracias por comunicarte con el Dr. Pablo Pizzala. En este momento me encuentro atendiendo. Déjame tu mensaje y te responderé cuanto antes.
+Gracias!",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzc3NzU3NTc4NxUCABIYFDNBN0Q1NEQxMUEz,5493777575787,2024-11-04 16:29:00,,"Gracias por tu mensaje. En este momento no estamos disponibles, pero te responderemos tan pronto regresemos.",Automática,Positiva,Contacto,Asistencia Personal
+wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGREM2M0RBRjA1,5493816124405,2024-11-04 16:29:00,,"*?? LEER*?????? *MUY IMPORTANTE*
+Sólo mensajes de WhatsApp- ??*NO* ?? llamadas. *NO* ??? Audios.
+Horario de Hoy de ? *11:00 a 19:00 Hs*
+
+*VACACIONES* del 09/11 al 09/12*
+
+*_NO SE DAN TURNOS en este número sólo estará disponible para ENVIO D",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1Mzc0Mjc3NBUCABIYFDJGNEEzMDVGMDU0,5491153742774,2024-11-04 16:29:00,,"Por turnos comuníquese a los teléfonos 1168092774 ( 9 a 15 hs) y 1130481705 (14 a 20 hs). Por temas administrativos y recetas al mail: consultoriodrasarto@gmail.com. Por  favor, no insista por este teléfono. Este teléfono es solo para “Urgencias",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIDZBRTVFMkFCOUVG,5493416583575,2024-11-04 16:29:00,,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680. 
 Para recetas electrónicas deja número de DNI  y los medicamentos que necesitas. En el curso de las 72 ha horas siguientes serán realizadas.
-Muchas gracias",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGNDc3ODlGQ0Y5RkNBQjgxM0IyAA==,5492284575748,2025-03-27 15:01:00,,Automática,Neutral,"???? NO ESTOY TRABAJANDO HASTA EL 23/04 
-Este celular no es para urgencias ni para turnos.  Por favor , no enviar audios.  Muchas gracias 
+Muchas gracias",Automática,Positiva,Comunicacion,Asistencia Personal
+wamid.HBgNNTQ5MTE1MTQ3NDYzOBUCABIYIEM4NDIwQjEyRUYw,5491151474638,2024-11-04 16:29:00,,"Hola.
+Si tiene una urgencia no espere mi respuesta, consulte a una guardia. 
+No envien mensajes de voz ni mensajes muy largos. 
+Respondo con parte de mi tiempo libre, como iniciativa  para acompañar a los pacientes que reciben quimioterapia. ",Escrita,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzc2NDg5MjQyNRUCABIYIEFFRDUxMkMwNjNC,5493764892425,2024-11-04 16:29:00,,"Hola , no se responden consultas ni  se dan turnos,comunicarse al 3765430283 o al wats 3764/697395",Escrita,Negativa,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzc2NDg5MjQyNRUCABIYIDhDRDRDRDhBNDBC,5493764892425,2024-11-04 16:29:00,,"Gracias por comunicarte ,para turnos y consultas llamar al  3765/430283 o Wats 3764/697395",Automática,Positiva,Turnos y consultas,Asistencia Personal
+wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIDREQzIxRUJBNkZG,5493416583575,2024-11-04 16:29:00,,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680.
+Para recetas electrónicas deja número de DNI  y los medicamentos que necesitas. En el curso de las 72 ha horas siguientes serán realizadas.
+Muchas gracias",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2MTYzMDM4MRUCABIYFDNBNkNFRUVGREY4,5491161630381,2024-11-04 16:29:00,,"*Estimado paciente:* Si tiene una urgencia por favor diríjase a la guardia.
+Sí necesita una receta ,certificado, pedido de análisis, o llenado de planilla deberá solicitar un turno (virtual o presencial).
+Consultorio privado : 
+serenare :+54 9",Automática,Neutral,Solicitud de información,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NzM1NjEzNxUCABIYIEEyRDZDQzIyRkMx,5491167356137,2024-11-04 16:29:00,,"Estimado, gracias por su mensaje. 
+Su consulta será respondida de lunes a viernes 8 a 21hs.
 
-Turnos en Olavarria: 
-Teléfono fijo : 2284-410511
-Por WA : 2284-524267
-???? o puede sacar a través d",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBRUMxQjk2RTVCNzkzQTVGNDk2AA==,5491140881757,2025-03-10 06:18:00,,Automática,Neutral,Vacunas,,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBMzc3RDE0MENCOEM2RUE3RkI4AA==,5491140881757,2025-03-10 06:18:00,,Automática,Neutral,Campus Sanofi,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBNUJBRDgyMjk1M0Y1QTVDNjgxAA==,5491140881757,2025-03-10 06:17:00,,Automática,Neutral,Volver al menú,,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBOUUxQkU5Q0ZGMDk0Q0YxQ0Q0AA==,5491140881757,2025-03-10 06:17:00,,Automática,Neutral,Endocrinología,Más información,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBMzkxQjI4QjE2NzkwOEJCNzY4AA==,5491140881757,2025-03-10 06:17:00,,Automática,Neutral,Campus Sanofi,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBNUJBN0QzREQ4MzQxMTY0RjY1AA==,5491140881757,2025-03-10 06:16:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTQ5MTE2OTMwOTU5MxUCABIYIDgyN0IxOEVDMTZGODcxRkE2QUIxQzZDQTZBNzAwQ0RDAA==,5491169309593,2025-03-08 08:27:00,,Escrita,Neutral,https://www.mercadolibre.com.ar/balanza-digital-bano-personal-corporal-personas-180-kg-sensor-temperatura-femmto-bws01/p/MLA15503957?pdp_filters=item_id%3AMLA1154216485#sid%3Dshare%26wid%3DMLA1154216485,Solicitud de Información,Asistencia Técnica
-wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0FCNjFDMDM4MEQ1QTU5NTAxRUMA,573128438532,2025-03-04 10:05:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0E4NDU1QjQ3OTNFMkFCMDAzNjcA,573128438532,2025-03-04 09:57:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBMEMzODVEMjQyN0M2MEFDRDRBAA==,527224001278,2025-02-26 08:07:00,,Automática,Neutral,Cardiovascular,,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBRkVCNkZFQ0YyMjgwQTcyNUMwAA==,527224001278,2025-02-26 08:06:00,,Automática,Neutral,Campus Sanofi,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBODA5Qjg0NUI4MUE5NUMyM0E5AA==,527224001278,2025-02-26 08:06:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NTE0MTg4MBUCABIYIEE5RkJDQ0E4MzkzOUI1QjRDMTY4MkFEMTBBRERFMUI0AA==,5491155141880,2025-02-25 18:11:00,,Escrita,Positiva,Hola!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTBEODc2QzgyRTQxRjA1MjFBAA==,525580051703,2025-02-25 17:48:00,,Escrita,Neutral,Hola,N/A,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBOUEwOUVDMkQwRDlDRDk3RjcyAA==,527224001278,2025-02-25 14:44:00,,Automática,Neutral,Cardiovascular,Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIDFENDIzMTE2QzY3MzU0M0JGM0UxNzc4QzJGQjlCQUMwAA==,5491156338661,2025-02-25 10:23:00,,Automática,Neutral,Necesito contactarme con algún APM,Contacto con APM,Asistencia Personal
-wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIEJGNDQ0NzExRjAyNUEyQkE0RTQ0RjkxODBGRDZDMUJBAA==,5491156338661,2025-02-25 10:22:00,,Automática,Neutral,Soy el Dr.Bertorello del Hospital Argerich,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIDQwRTc2MDY2NDdBQzc4MTYyM0RDRkM1RDUwQkJGQ0U5AA==,5491156338661,2025-02-25 10:22:00,,Automática,Positiva,Buenas tardes,Ninguna identificada,Asistencia Técnica
-wamid.HBgNNTIxNTU1OTMwMjE5MhUCABIYIDcwN0I0QUM4MTI0Mjg2NkFERDk3QUU5M0UzMUFFRjIxAA==,525559302192,2025-02-20 17:20:00,,Automática,Neutral,Volver al menú,Volver al menú,Asistencia Técnica
-wamid.HBgNNTIxNTU1OTMwMjE5MhUCABIYIEUwOUVFNjY4MEY3QjA5NkRFRDNCNkNBNDkxODkyQUZGAA==,525559302192,2025-02-20 17:16:00,,Automática,Neutral,Farmacovigilancia,Solicitud de información,Asistencia Técnica
-wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0FGQzI2QTg4OTI2RjYzNzA3MDYA,573128438532,2025-02-20 16:51:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQkFGOEQxMkQxRTc4NTA0NEEwAA==,525580051703,2025-02-20 16:27:00,,Automática,Neutral,Inmunología,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTIzMkNCNEJCMzYzNTA5ODMzAA==,525580051703,2025-02-20 16:27:00,,Automática,Neutral,Enfermedades Raras,Pedir más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNzdFRTBBOEZERkJFOTIzMEM2AA==,525580051703,2025-02-20 16:27:00,,Automática,Neutral,Endocrinología,más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQjVDQkNGNzBCMTMxQjA4NzFBAA==,525580051703,2025-02-20 16:27:00,,Automática,Neutral,Cardiovascular,Pedir mas información,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBOTQ4NUU0M0YxNzBDRUFEM0JGAA==,527224001278,2025-02-20 16:26:00,,Automática,Neutral,Campus Sanofi,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRDAwNjZCNjRFQURFQUU0QTRDAA==,525580051703,2025-02-20 16:26:00,,Automática,Neutral,Campus Sanofi,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTIzOEFDRDg4ODkyRjZBMUQyAA==,525580051703,2025-02-20 15:28:00,,Escrita,Neutral,Ayuda,Solicitud de ayuda general,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzZCQkU3NjNCQjY4MDlENzUzAA==,525580051703,2025-02-20 15:28:00,,Automática,Neutral,Volver al menú,Volver al menú,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOUExNDBFODYyNTNGQjVCMjg0AA==,525580051703,2025-02-20 15:27:00,,Automática,Neutral,Farmacovigilancia,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRTQ0RkRCOUMxQUI5MEI4RDdFAA==,525580051703,2025-02-20 15:27:00,,Escrita,Neutral,Ayuda,Solicitud de ayuda general,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOEU4Mzg3NTY5MUVFMDFGODQ1AA==,525580051703,2025-02-20 15:27:00,,Automática,Neutral,Conozca más,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTY1MDJFRTkyQzVDMTRCNkM1AA==,525580051703,2025-02-20 15:27:00,,Automática,Neutral,Campus Sanofi,Ninguna identificada,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBQkE1MkFCQzE5MzMzNzU1RUY0AA==,527224001278,2025-02-20 15:26:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNzI1MkExNUQ1M0M5REM0OURBAA==,525580051703,2025-02-20 15:26:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBQ0Q2RDIzMkMxQUUwMDNGRkVEAA==,527224001278,2025-02-20 15:25:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMUY2QjJGRENFQTlFRDE1NkUyAA==,525580051703,2025-02-20 15:15:00,,Escrita,Neutral,Ayuda,Solicitud de ayuda,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMDI2NjYyQjAxN0Q0RDNCQjJEAA==,525580051703,2025-02-20 15:15:00,,Automática,Neutral,Conozca más,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMkE0NTRDQjA0NEUxN0U4RDRDAA==,525580051703,2025-02-20 15:15:00,,Automática,Neutral,Farmacovigilancia,Información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODYzRDE0N0NFNEE0OTQzRDc2AA==,525580051703,2025-02-20 15:15:00,,Escrita,Neutral,Ayuda,Solicitud de ayuda,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMEY0NzhENEQ4MzNGRTAwN0Y2AA==,525580051703,2025-02-20 15:15:00,,Automática,Neutral,Volver al menú,Volver al menú,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzgwMDYxMEY5MTEwRTg0ODQ3AA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Inmunología,Más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMDFGMUFFMDQxQzNGMTI5NzRFAA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Cardiovascular,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNUZENkZCMUM5MUNCQzk5RjM0AA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Endocrinología,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMTUwRUYxRjYyMjM2NUEyNUU4AA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Enfermedades Raras,Más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQkZCNDE5NDMxMUY2MDBFQjNDAA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Oncología,Pedir más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBREJCMjVCRTlDMUM5ODcwRDE5AA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Trasplantes,Más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNUU4RDI4MDcxMDA5QjEwNjJBAA==,525580051703,2025-02-20 15:14:00,,Automática,Neutral,Vacunas,Más información,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDVDOEIwREU2MkVEOUEzQzAxAA==,525580051703,2025-02-20 15:13:00,,Automática,Neutral,Campus Sanofi,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzRFQzgxRkU0OTZDNEVDRUZDAA==,525580051703,2025-02-20 15:13:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDQzNjIwNzBCRjQ3OTMzNzdBAA==,525580051703,2025-02-20 14:47:00,,Automática,Neutral,Menú,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTI0QjY4QTg4ODFGNkFCNjVGAA==,525580051703,2025-02-20 14:46:00,,Automática,Neutral,Volver al menú,Volver al menú,Asistencia Personal
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQTgzQkFEMjA5MUJGNEJGRTAxAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Endocrinología,Información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRUFBQTY2NDcwQ0ExRDM3NTAwAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Inmunología,Más Información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMkU4RkIxMzc2Q0NBQkI0QUJDAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Enfermedades Raras,Informacion,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzE3QzkzOTJFRDQzN0I5ODYwAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Cardiovascular,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTYzQzQxNUExRjY5Q0E3RDZEAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Oncología,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMTAxMUZFQkNDNjc1RUE5NkM0AA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Trasplantes,Más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNjlEMEQ0MDIzNjAxQTVERDkzAA==,525580051703,2025-02-20 14:45:00,,Automática,Neutral,Vacunas,Informacion,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDRDMjVBMkMxQTZCQURGNjZBAA==,525580051703,2025-02-20 14:20:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODgwRTdCNkQxNEFDNzBEOTVDAA==,525580051703,2025-02-20 14:20:00,,Automática,Neutral,Campus Sanofi,,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODY1MjI1NEIyNjM0RTY5ODkxAA==,525580051703,2025-02-20 14:12:00,,Automática,Neutral,Cardiovascular,Más información,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTIyNUI1MjgzNEY3NkIyMDNGAA==,525580051703,2025-02-20 13:39:00,,Automática,Neutral,Campus Sanofi,N/A,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDhFNDZFQkI5MTBFMDQ1M0RDAA==,525580051703,2025-02-20 13:38:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBNTkyM0YzQ0JFMTQ4MUY4NkIzAA==,527224001278,2025-02-19 15:03:00,,Automática,Neutral,"Hol
-Hol",N/A,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBNzkwMDg4QzBGOEE2Njg2QURFAA==,527224001278,2025-02-19 14:53:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMEZDRUYwQzI1NUY1RUMxQkQyAA==,525580051703,2025-02-18 16:47:00,,Automática,Neutral,Campus Sanofi Cono Sur,Ninguna identificada,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTZBRjUxOEVEQjQzQUZFNUU4AA==,525580051703,2025-02-18 16:47:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBRDc4NTBGQ0U5MjA3MEIyQzEyAA==,527224001278,2025-02-18 15:57:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNDk1MTUwOBUCABIYIEM3NTNDQ0YxQjg2RDBDNzQxMTdGNEM5MzU3QjNCQkMyAA==,5492214951508,2025-02-07 15:42:00,,Automática,Neutral,"Buen día soy el Dr Bertoni Facundo Otorrinolaringologo de la ciudad de La Plata ( Hospital Alejandro Korn y privado).
-Necesitaría información sobre protocolo para biológicos en rinosinusitis crónica ya que tengo pacientes que podrían beneficiars",Pedir información adicional,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMjIwNjAzORUCABIYIDJBMEE4OUFFQ0MyMTRBREU0RjRBRTE4MTc0OTE4NUUyAA==,5493512206039,2025-01-17 15:28:00,,Escrita,Neutral,Ayuda,Solicitud de ayuda,Asistencia Personal
-wamid.HBgNNTQ5MzUxMjIwNjAzORUCABIYIDcxNTU3OUVDRkE3OEI5QzkwQTYxOTg1M0EzMEZBQjZFAA==,5493512206039,2025-01-17 15:27:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMjAwOEJFMzJGNDk2MjQ0RTE5AA==,525580051703,2025-01-14 15:01:00,,Escrita,Neutral,Hola,,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTU3NzE2ORUCABIYIEE3NTMzMEU0MUVBMTA5MEQ0NTdDQjNFQTBFQTQyOEQ3AA==,5493515577169,2024-12-31 05:55:00,,Escrita,Positiva,https://www.facebook.com/share/p/9iFR8VxecSecXLdE/,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk4MzQ2MzU5MRUCABIYIDBBQzhDNUE3MzMwOTI3QTg3MUZDMjFFOUU3NDZGMTBBAA==,5492983463591,2024-12-27 07:39:00,,Automática,Positiva,Recibí las insulinas rebien!!! Gracias ??,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNDcxNjk4MBUCABIYIDlBMDE4Njc4OUMyRjkyRkI0MzM5MTg4RDg0OEYwNkREAA==,5492614716980,2024-12-24 13:52:00,,Automática,Positiva,"Felices Fiestas
-Recurso multimedia enviado: image/jpeg",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIDU0NTdDMjYyMEMwMDQ4MzU0QkY4REM3RDU3OUUzRTc1AA==,5492616992562,2024-12-11 10:25:00,,Escrita,Neutral,Soy médica hematología,Información,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIEYyODkwMThDQ0FCNjM0ODRDQkU1MjZGOTcyNDA0OUY5AA==,5492616992562,2024-12-11 10:25:00,,Automática,Neutral,Necesito contactarme con visitador medico en la región de Cuyo Argentina,Contacto con un visitador médico,Asistencia Personal
-wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIDA0QjM5QkY1OUE5NzRBMkY2REUzRjlENjNCQ0JBODg0AA==,5492616992562,2024-12-11 10:24:00,,Automática,Positiva,Buenas tardes,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBQUREQTE2MzREODgwOUMzMThDAA==,5492216022134,2024-12-06 09:56:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBOUYwNkI5ODhCMUZCMkVEMDdGAA==,5492216022134,2024-12-06 09:56:00,,Automática,Neutral,"Nos complace anunciar la apertura de una nueva sede de Centro Médico Climed, ubicado en calle 50 esq. 18 en la ciudad de La Plata. Este trascendental  paso nos permite expandir nuestros servicios y ofrecer nuevos espacios especializados en la pre",,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NDAzOTI4NBUCABIYIEVFNkM1QTEzQzRDNjA2Njc2RTE5ODQ2MDE2QTM4RkY4AA==,5493874039284,2024-12-05 18:12:00,,Escrita,Neutral,Escribo para solicitar  para el paciente  información,Solicitud de información,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NDAzOTI4NBUCABIYIDQ2QzRBQzZBNUFBMTFFOEEzNEQ5OTMzOUE0MEE4RUJBAA==,5493874039284,2024-12-05 18:11:00,,Automática,Positiva,Buenas tardes,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDVFRkE5QjFDQjAzMkJFNzJGNjI3AA==,5491161617505,2024-12-05 05:06:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDNBOUZENUNENzVBMTNDNzRGMDk3AA==,5491161617505,2024-12-04 17:31:00,,Escrita,Positiva,Quisiera asistir al evento de Neuromusculares del Dr DeVito,Quisiera asistir al evento de Neuromusculares del Dr DeVito,Asistencia Personal
-wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDNBNDFENUIwMjZDOTNBNDlDRkNCAA==,5491161617505,2024-12-04 14:01:00,,Automática,Positiva,Hola buenas tardes,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1OTA0NDY2NhUCABIYFDNBN0YyODE3NTExNENBRkZCOEJCAA==,5491159044666,2024-11-26 13:23:00,,Escrita,Neutral,"Buenas tardes !
-Quería saber si siguen enviándonos muestras/ kit para hacer análisis de la gota para enfermedad de Pompe?",Pedir información,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTUyNDI2NRUCABIYIEU1RDg3OTgwQzc1MUMyNUJFQTA2Nzk0NkNEQTJGQkE0AA==,5493515524265,2024-11-21 12:09:00,,Automática,Neutral,Recurso multimedia enviado: audio/ogg; codecs=opus,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDVBNjg0OUE2QzlBRkJFRTZDRkIyMjA3OTMzOTgzOTIzAA==,5493704896554,2024-11-20 11:34:00,,Automática,Positiva,dese ya muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDIxRjlBOEI2RkQ2MTE1MUY4MUM2Q0FDRUEwMDZDMDg2AA==,5493704896554,2024-11-20 11:33:00,,Automática,Neutral,necesito comunicarme con un APM tema dosaje  A1AT,Comunicación con un APM sobre dosaje A1AT,Asistencia Personal
-wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDMyRjk5QTY1RTkyQkIyQkI5REVCMzY5Q0RFMkI2NzRBAA==,5493704896554,2024-11-20 11:31:00,,Escrita,Neutral,hola gente,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTUyNDI2NRUCABIYIDE5MUM2M0E4NDhFRjEwNkNGN0Y3RDMwOUQ2NDZCNjBBAA==,5493515524265,2024-11-19 09:47:00,,Automática,Neutral,Recurso multimedia enviado: audio/ogg; codecs=opus,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTk0MTk5ORUCABIYIDBGRDZCQTZDQzg3RDgxMzgzRTBBREEwNzAwNUJGMEMwAA==,5493875941999,2024-11-19 08:23:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTk0MTk5ORUCABIYIDU2NjNFMURDNkU5NjA5QUQzNDBEMjZFMEI3RTJBQ0Y1AA==,5493875941999,2024-11-19 08:20:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEE3QTE3NjVGMzJDODIzNzlGM0NGRDIwQzc5OTI4RjkxAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEQyMzRFNzlFODEwRjQyQUQzRTlGQ0I3Rjk2NTgyODk4AA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIENDRUY3REUwRkE5MzVERjVBRkVDQTMzNzVFNjJBN0Y1AA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIDEyNDRBOUFFMzREMkI1RUQ3RDVEREFDRTY3RDY2M0ZCAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEYxREE3NUM1QjZBQjA4OTI2NzAwNDgzQzgwMTg3REQxAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIDQwMEM1MjUwRUU2QjEzRUVDRkI3QzhFOTJDRjE3NjFFAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEMyRENDRjZDOUYyNkM5MjhGM0FCMDZGQjA4M0MwQkFGAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEI3Rjc4QzBENDM3MTlEQzFBNjdBRTgyNjI2OUZFMjRGAA==,5493814485231,2024-11-17 14:24:00,,Escrita,Neutral,Recurso multimedia enviado: image/jpeg,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIENEQkRFNEQ0MDI2MkFDQUY2QzY5NTFFOEVFQTk5QjFBAA==,5493814485231,2024-11-17 14:24:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDMwOUMzNTg0MkFENTI4NzAyQjBGRkIzNDgyQ0I0QkZGAA==,5493815720348,2024-11-14 12:58:00,,Escrita,Neutral,????,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MTE0OTA4NRUCABIYFDNBQzlEOTI2QjY2REE3NjkyOEZEAA==,5491151149085,2024-11-14 11:17:00,,Automática,Positiva,Completamente de acuerdo,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQwMjgxOBUCABIYIDUzODQ0RjYzRTI0NTg2RTc4NTY1QjkyRUJFQzc3MjBEAA==,5493814402818,2024-11-14 11:06:00,,Automática,Neutral,"Saludos desde el Comité de Pie Diabetico de la Sociedad Argentina de Diabetes . Dra Casen . Hospital Centro de Salud .
-Recurso multimedia enviado: image/jpeg",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDExNDI1OBUCABIYIEVBNkJDMTM1MzFCOTk0QTAwOUY5OEY4NTgyMDdENTAxAA==,5491144114258,2024-11-14 11:02:00,,Automática,Neutral,"*Respuesta automática* 
-ESTE WHATSAPP ES SOLO PARA REALIZAR VIDEOLLAMADAS CON TURNO PREVIO. NO ENVIE ESTUDIOS O MENSAJES, SALVO INDICACION DE LA DRA BLANCO. 
+Para turnos de Nutrición y Diabetes Infantil PRIVADA o por SMG hacer reserva por https://darturnos.com/prestador/turnos/2686 o enviar mensaje al +54 9",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NzEzMDc5MhUCABIYIDU3RjlDRDUyREFB,5491157130792,2024-11-04 16:29:00,,"CENTRO MEDICO HOMEOPATICO
+DR LUS ARIEL 
+???????????? ?????? ???????????????????????????? ????´??????????. ???? ???????????????????? ?????????????????????? ???? ?????????????? ???????
 
-Para RECETAS, CONSULTAS O TURNOS comunicarse en el lugar que se atiende:
-SAN MARTIN",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIDE2ODU3ODlFOUI5MUU3REE3NDM4NDVBREM3QjkyQ0E3AA==,5493512215289,2024-11-14 11:02:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible ??.",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBQjNGRjExQkIzQThBN0MxQUI3AA==,5493764688425,2024-11-14 11:02:00,,Automática,Positiva,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
-Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTMxNzIxMhUCABIYFjNFQjAyN0E3MkE5,5492215317212,2024-11-12 14:11:00,,Automática,Positiva,muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIENEQzAzMDlGQ0Q0,5491151797569,2024-11-12 12:44:00,,Automática,Neutral,Soy Dr Luciano Castiglione,,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDg5REZGQzA4QzM3,5491151797569,2024-11-12 12:44:00,,Automática,Positiva,Buenas tardes,,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDgyN0Q0REY5RkVF,5491151797569,2024-11-12 12:42:00,,Automática,Neutral,Horario de atención de 7 a 19 hs de lunes a viernes. De 8 a 12 hs los sábados.,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMzI5NDIwMRUCABIYIDhDM0UwNDVFMzZD,5493513294201,2024-11-12 12:35:00,,Escrita,Neutral,??,No se puede determinar,Asistencia Técnica
-wamid.HBgNNTQ5MTEzOTQwMjUxMRUCABIYIEE4NTJBNTlCRkI0,5491139402511,2024-11-12 12:07:00,,Automática,Neutral,"*Respuesta automática* 
-Estaré fuera de Bs As hasta el 20 de Noviembre, con conectividad limitada. En caso de necesitar recetas, órdenes de estudios o programar consultas comunicarse de Lunes a Viernes  de 9 a 21 horas al Instituto  Cardiovascul",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzUxNTEzNDgxMBUCABIYFDNBOTVCRTFBQjNG,5493515134810,2024-11-12 12:03:00,,Escrita,Neutral,????,Sin información,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTkwNjg4MBUCABIYFDNBNjY2Q0M0OTlE,5493815906880,2024-11-12 11:46:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE1ODUxNzcyNxUCABIYIEU3RUFFMzdERDI0,5491158517727,2024-11-12 11:33:00,,Escrita,Neutral,"Buenas tardes!
-Soy de Esquel. Aquí tienen visitador médico?",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzM2NDI1NTE1NhUCABIYFDNBM0Q0QTdDRUFG,5493364255156,2024-11-12 11:32:00,,Automática,Positiva,"Gracias por comunicarse con la Dra. Maria Padulo su mensaje sera respondido a la brevedad1) Para TURNOS puede sacarlos por la web o de forma telefonica *  www.institutosn.com.ar* 0336 -44326242) Para confección de RECETAS indicar medicacion, dni",Comunicacion,Asistencia Personal
-wamid.HBgNNTQ5MjMyNjQ2NTU1MRUCABIYIDM5NDNBRDQzMTJF,5492326465551,2024-11-12 11:31:00,,Automática,Positiva,"NO SE ESCUCHAN AUDIOS!!!
-Hola gracias por comunicarse! Este es un mensaje automático del consultorio de la dra Victoria Coomans. 
-Martes CERRADO
-- turnos por whatapp.
-- Si es una urgencia consultar por guardia 
-- por recetas o consultas deje",Consulta,Asistencia Personal
-wamid.HBgNNTQ5Mjk0NDY5MjcyNxUCABIYIEQ2MTY0MzQxNzY1,5492944692727,2024-11-12 11:31:00,,Automática,Positiva,"Gracias por comunicarse con el dr. Ramón Derqui.
+""Excelencia en salud""
+Equipo profesional de renombre
+",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2Nzk4NTc3OBUCABIYIEZFNkEwNEY1OENF,5491167985778,2024-11-04 16:29:00,,Gracias por comunicarse le responderé a la brevedad ??,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTA5MzU4OBUCABIYFDNBRjJGRDE1MUMz,5493875093588,2024-11-04 16:29:00,,"Hola,cómo estás? Soy la doctora Loren Tanjilevich. Para información sobre tratamiento y precios. Debe solicitar una consulta y ahí se le explicara los tratamientos adecuado de cada paciente. El turno lo solicita por este medio. Muchas Gracias.",Automática,Positiva,Información sobre tratamiento y precios,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTA5MzU4OBUCABIYFDNBQ0VENzU2RkJE,5493875093588,2024-11-04 16:29:00,,"Hola,cómo estás? Soy la doctora Loren Tanjilevich. Para información sobre tratamiento y precios. Debe solicitar una consulta y ahí se le explicara los tratamientos adecuado de cada paciente. El turno lo solicita por este medio. Muchas Gracias.",Automática,Positiva,Informacion,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNTI2MzczMhUCABIYIEVBMzAwOTEyRTg5,5492615263732,2024-11-04 16:29:00,,Mensaje automático. Por turnos llamar de lunes a jueves de 16 a 20hs al 2614258928.,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzU3MTYxMzk1MBUCABIYIDk3MTU5NEE2RjEy,5493571613950,2024-11-04 16:29:00,,"Gracias por tu mensaje. En este momento no podemos responder. Si es por una consulta, solicitar turno a la clinica savio, sanatorio de la cañada o clinica santa maria. No medico ni hago consultas por este medio.",Automática,Positiva,Solicitar turno,Asistencia Personal
+wamid.HBgNNTQ5MzUxNTE3OTY3MxUCABIYIDc2MUFCNTI1OUM2,5493515179673,2024-11-04 16:29:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NzEzMDc5MhUCABIYIDIwNDlBRjgzOEY0,5491157130792,2024-11-04 16:29:00,,Suelo responder con rapidez siempre y cuando el mensaje sea de interés????,Escrita,Neutral,Solicitud de información,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTIzMDAxORUCABIYIDU5QUI0QzQ2NEVF,5491161230019,2024-11-04 16:29:00,,"Estimados Pacientes:
 
- TURNOS:
+?Días y Horario de atención: Lunes a viernes de 8 a 16 hs, Sanatorio Pasteur, 1er piso.
 
-VLA.
-Centro médico San Camilo: 2944 495939.  Web: sancamiloconsultorios.wiri.la
+? Los turnos se dan a través de la secretaría del sanatorio.
 
-SMA. 
-Cto Médico los Andes: 
-+54 9 11 6830-7677",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjMyNjQ2NTU1MRUCABIYIDVFRTNDRDJDNTQz,5492326465551,2024-11-12 11:31:00,,Automática,Positiva,"NO SE ESCUCHAN AUDIOS!!!
-Hola gracias por comunicarse! Este es un mensaje automático del consultorio de la dra Victoria Coomans. 
-- por recetas o consultas deje su mensaje
-- Si es una urgencia consultar por guardia 
-Tu consulta sera respondid",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2Nzg2MTkwNBUCABIYIDRBREJBQkI2REQx,5491167861904,2024-11-12 11:31:00,,Automática,Neutral,"Se comunico con el celular del Dr. Cesar Robles B. Médico Hematólogo.
-Atiende únicamente con turno, de lunes a viernes de 08:00 - 15:00 horas en los consultorios externos del Hospital César Milstein.
-Para sacar turno en el formato presencial, d",Más información,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjkxMjI5MRUCABIYFDNBNEQ3MjMyQjk2,5493416912291,2024-11-12 11:31:00,,Automática,Neutral,"Hola, si escribiste para realizar una consulta, interpretación de análisis o recetas electrónicas por este medio la consulta debe ser abonada como tal. Valor $10000 . Abonar en el siguiente alias: flor.pusillico
-Enviar luego comprobante, gracias",Pago de consulta,Asistencia Personal
-wamid.HBgNNTQ5MjYxNTkzNzk1ORUCABIYIEJFQzAyNzJDNjk3,5492615937959,2024-11-12 11:31:00,,Automática,Positiva,Gracias por comunicarte con DRA GABRIELA FRANCICA. ¿Cómo podemos ayudarte?,No identificada,Asistencia Técnica
-wamid.HBgNNTQ5MzQyNDQyMTUxORUCABIYIDUyQzY2MTNEMDQw,5493424421519,2024-11-12 09:57:00,,Automática,Positiva,Buen día,Ninguna identificada,Asistencia Técnica
-wamid.HBgNNTQ5MzQyNDQyMTUxORUCABIYIDMyMDgxN0UyNjk5,5493424421519,2024-11-12 09:57:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,No aplica,Asistencia Técnica
-wamid.HBgNNTQ5Mzc1NjQ1ODIxOBUCABIYIDlCMTg0RTQ0OUVB,5493756458218,2024-11-11 18:49:00,,Automática,Neutral,https://checkout.pagos360.com/771a010c-a08e-11ef-a3e8-0a58a9feac02/card/debit,,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MDI4MTgyMhUCABIYIDMwMDg4MDBENjZD,5491150281822,2024-11-08 13:37:00,,Automática,Positiva,Ok,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDIwMjgyNhUCABIYIENGREI1ODIzNjE3,5491144202826,2024-11-07 17:08:00,,Automática,Positiva,Graciassssss,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTIyNjAzNRUCABIYIDExNDk3MTkyRTMy,5492215226035,2024-11-07 15:29:00,,Escrita,Neutral,??,Sin información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1OTg5OTM1ORUCABIYFDNBMDUzRkQzNUJF,5491159899359,2024-11-07 14:48:00,,Escrita,Neutral,????????,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNTc2NjY3MRUCABIYIDMwNUI2RkFFOTJE,5493415766671,2024-11-07 14:18:00,,Escrita,Negativa,Nadie me visita,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzUxMjgxMjQxNRUCABIYFDNBNUE1MkVFQ0NC,5493512812415,2024-11-07 13:45:00,,Automática,Positiva,Gracias!,agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTQ1MDM0MhUCABIYIDQ2ODZENERFN0Uw,5492215450342,2024-11-07 13:23:00,,Automática,Neutral,Agendado,Agendado,Asistencia Técnica
-wamid.HBgNNTQ5MzQ3MjU4NzEyNRUCABIYIEUzMDFDRTRFOTdE,5493472587125,2024-11-07 13:19:00,,Automática,Neutral,"Marcos Juárez, provincia de Córdoba",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDc0NDA5NRUCABIYIDE3REY0MzVCQUE1,5491140744095,2024-11-07 13:17:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzQ3MjU4NzEyNRUCABIYIDAwQzQzN0RFNDkw,5493472587125,2024-11-07 13:14:00,,Escrita,Neutral,"Hace muchos años que desapareció el agente de propaganda médica en nuestra localidad, una lástima.",Ninguna identificada,Asistencia Técnica
-wamid.HBgNNTQ5MTE0OTM5MzI2MRUCABIYIEY0NDU4REJGNUVC,5491149393261,2024-11-07 12:53:00,,Automática,Positiva,Ok gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjQ2OTMwMxUCABIYIDY5RUVEMTgyQkVG,5493416469303,2024-11-07 12:47:00,,Automática,Positiva,Gracias por comunicarte con Doc Vicky Carrillo. ?,agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NTk1MDQwORUCABIYIERENTk2NDI1REE5,5491155950409,2024-11-07 12:45:00,,Escrita,Neutral,??,Indefinido,Asistencia Técnica
-wamid.HBgNNTQ5MTE1OTYwODQ5MxUCABIYIDExRDRCMzkxRUM2,5491159608493,2024-11-07 12:33:00,,Automática,Positiva,Gracias,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2Nzg2NjM5MRUCABIYIDEyQzVCMTE2RUYy,5491167866391,2024-11-07 12:24:00,,Automática,Neutral,Ppdria un apm visitarme?,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2Nzg2NjM5MRUCABIYIDU3RDI3QjMyRkJE,5491167866391,2024-11-07 12:24:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjU1ODMzNBUCABIYIDM0RDcxRTZENjA0,5493516558334,2024-11-07 12:20:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMzAyNzM2ORUCABIYIEZFNzBEMUEyMzZC,5493513027369,2024-11-07 12:16:00,,Automática,Positiva,Gracias ??,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NDcwOTI3NhUCABIYFDNBRUIwNzMyQ0Y5,5492994709276,2024-11-07 12:13:00,,Automática,Positiva,Gracias!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDExMzIwOBUCABIYFDNBNTk1QjQ0Q0JB,5491144113208,2024-11-07 12:13:00,,Automática,Positiva,Graciass,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzg4NTA0MzE1NBUCABIYIEY0REVGOTQ3N0FE,5493885043154,2024-11-07 12:13:00,,Escrita,Neutral,????,No aplica,Asistencia Técnica
-wamid.HBgNNTQ5MTE0OTcxMjM5MBUCABIYFDNBMjU4M0NDQTBG,5491149712390,2024-11-07 12:12:00,,Automática,Positiva,Recibido . Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMzg1OTk3NhUCABIYIDU4MzBCQ0U1RUIz,5493513859976,2024-11-07 12:10:00,,Automática,Positiva,Gracias!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzc2NDI5MDM1NRUCABIYIEQwQTBGNDA5Mzk2,5493764290355,2024-11-07 12:09:00,,Escrita,Neutral,??,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTU3MjczNBUCABIYIDgxMzFFRTYwRkZC,5493815572734,2024-11-07 12:08:00,,Automática,Positiva,Muchas gracias ??,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE2Mjk5NzQ3MhUCABIYIDIyNjFGQTA0NTNE,5491162997472,2024-11-07 12:05:00,,Automática,Positiva,Perfecto gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTkwMzMwNxUCABIYIDY2RUM4NzU5RTI4,5491161903307,2024-11-07 12:04:00,,Automática,Positiva,Hola. Gracias.,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NTA2OTM1MBUCABIYIDBDMTA2NEQ4RTcy,5491165069350,2024-11-07 12:04:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no puedo responder pero lo haré lo antes posible. 
-ATENCIÓN en el POLO 1 Pilar los  LUNES por la tarde
-Solicitar turno los días  lunes, miércoles y viernes de 9 a 15 hs Gracias??",Solicitud de contacto y programación de turno,Asistencia Personal
-wamid.HBgNNTQ5MTE0NDIwMjgyNhUCABIYIENCNUFBOTEyODFG,5491144202826,2024-11-07 12:04:00,,Automática,Positiva,"Gracias por comunicarte! Por la alta demanda de consultas me resulta imposible responder de forma inmediata.
+?En caso de urgencia dirigirse a la guardia??. 
 
-Para turnos/consultas llamar al 47947244 
-Los Lunes, Martes y Jueves de 14 a 19 hs.
-Los Miércoles de 9:30 a 13:30 hs.
-Juan de Garay",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2NTA2OTM1MBUCABIYIEI0NkFFQzA0NjhD,5491165069350,2024-11-07 12:04:00,,Automática,Positiva,Gracias por comunicarte con la Dra Laura Caruso. Dejame tu mensaje,Contacto,Asistencia Personal
-wamid.HBgNNTQ5MTEzNzc4NzY2MxUCABIYIEI1MEZEN0QyMkU1,5491137787663,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte con DRA PERALTA XIMENA. 
-AUTO MENSAJE!!!!??
-
-URGENCIA ?? GUARDIA
-
-No se dan sobre turnos
-
-Recetas (dni y obra social, con tiempo medicación y cantidad)
- se retiran rivadavia 14252 Ramos Mejía DIM
-O digital
-
-HONO",Quieren que alguien se comunique,Asistencia Personal
-wamid.HBgNNTQ5MjgwNDU0MDgzMRUCABIYFDJGMzJBODc4Qjc1,5492804540831,2024-11-07 12:02:00,,Automática,Neutral,"!Hola! Este número es personal. 
-
-??No respondo consultas médicas de ningún tipo.
-
-En www.mariapresman.com.ar podes solicitar turnos o enviar consultas.        
-
-¡Saludos!",Solicitud de contacto/información,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDE1MTg3ORUCABIYFDJGMUJERDE1OTBC,5491144151879,2024-11-07 12:02:00,,Automática,Positiva,Agradecemos su contacto y le informamos que este mensaje está siendo gestionado por el Dr. LOPRESTI y su secretaria. *NO ENVIAR AUDIOS* Le daremos respuesta dentro de las 72 hs. Para programar consultas particulares o CONSULTAS VIRTUALES se puede,Informacion,Asistencia Técnica
-wamid.HBgNNTQ5MTEzNzc4NzY2MxUCABIYIEFFRDY0M0Y2RkZG,5491137787663,2024-11-07 12:02:00,,Automática,Neutral,"En este momento no te puedo atender cuando me desocupe te respondo??????
-LUNES PACIENCIA????",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MjI4NDY2MDc3ORUCABIYIDQ1NzZDQzNCNENE,5492284660779,2024-11-07 12:02:00,,Automática,Neutral,"*Respuesta automática* 
-MENSAJE AUTOMÁTICO 
-
-POR FAVOR NO UTILIZAR ESTE MEDIO PARA REALIZAR CONSULTAS MÉDICAS.
-
-CERRADO DÍAS VIERNES
-
-
-Solicitud de turnos sólo por:
-
-www.artritispiel.com",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjY2NDI1NTg0NRUCABIYIEFFNTQ4NjE2MDk0,5492664255845,2024-11-07 12:02:00,,Automática,Neutral,"Hola, para turnos  WSP  CERHU
-266 433-6996 /
-INNOVA 2665028293. HORARIOS de atención en perfil.... RECUERDE q las consultas por este medio son un Servicio por lo tanto llevan ORDEN MEDICA PREVIA?? y un horario prudencial x favor.
- NO contestar",Más información,Asistencia Técnica
-wamid.HBgNNTQ5Mzg2NTI0ODAzNxUCABIYFDJGNzk2NDgxMzAz,5493865248037,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por tu mensaje. 
-Los turnos son programados por este medio.
-Para solicitud de turnos en el horario de 8-11 hs /  16-18hs de lunes a viernes. 
-No se realiza consultas médicas por WhatsApp",Información sobre programación de turnos,Asistencia Técnica
-wamid.HBgNNTQ5Mjk0NDYwNzQzNBUCABIYFDJGRkE1QUZCNTIy,5492944607434,2024-11-07 12:02:00,,Automática,Neutral,"MENSAJE DE RESPUESTA AUTOMÁTICA:
-Las consultas por este medio tienen un costo de $10.000. Las visitas domiciliarias $100.000. La transferencia debe realizarse al siguiente alias: gris.crear.rezo.mp 
-Una vez acreditado el pago,me comunicaré con",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MjIyOTE1NxUCABIYIDg4N0Y0RDg1QzY4,5491162229157,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible.",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDQ5OTczNBUCABIYFDJGMTgzOTE2QzQ5,5491144499734,2024-11-07 12:02:00,,Automática,Negativa,MENSAJE AUTOMÁTICO Por favor no dejes mensajes de Audio! En  estos tiempos no puedo escucharlos!,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg2NTI0ODAzNxUCABIYFDJGOUUwRUM4Qjgw,5493865248037,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte con Dra Jorgelina Choquis, ENDOCRINOLOGA INFANTIL
-Atención a Pacientes menores de 20 años, de lunes -viernes, menos miércoles, horario 18:30-20:30.
-Consultorio San Expedito calle Obispo Colombres 2373, Concepción (TUC).",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1OTYyMjY1MhUCABIYIEE5ODAyRTg1MEZG,5491159622652,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no puedo responder. 
-
-?? Si se trata de una Emergencia, llama a este mismo número. 
-
-?? Por turnos, aclará
-* Nombre y apellido del paciente
-* si es para French 3571 (Palermo) o Ciudad de la Paz 2426 (",Solicitud de información sobre requisitos.,Asistencia Técnica
-wamid.HBgNNTQ5MzUzNjU3NjAyMhUCABIYIDg4RTc4RDk1NjBF,5493536576022,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte con Jorgelina Nicola.
-Realizo consultorio en CENTRO MEDICO LISANDRO DE LA TORRE días LUNES, MIERCOLES Y VIERNES a partir de las 14.30 hs.
-Turnos por wps:comunícate a *353-4528062*
-
-JUEVES en Neonacer ( cañada) a partir",Información sobre disponibilidad y contacto,Asistencia Técnica
-wamid.HBgNNTQ5MjY0NTY1Njk5MxUCABIYIDQwMDhCRUVBMTc5,5492645656993,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte , en breve responderemos.",Comunicacion,Asistencia Personal
-wamid.HBgNNTQ5MTE1Mzc2NTAyORUCABIYIDExNDU5N0E1QjE0,5491153765029,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por tu mensaje.
-En este momento no me encuentro disponible.
-
-Para turnos o consultas comunicarse a los lugares de atencion:
-
-*Consultas:*
-CLM: 9 de julio 3365. Tel 342 4521789. Whatsapp 3425093322
-
-*Electromiografias:*
-Instituto",contacto,Asistencia Personal
-wamid.HBgNNTQ5MTE1Mzc2NTAyORUCABIYIEE4RTJBNEUyQUEy,5491153765029,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte.
-Respondere tu consulta a la brevedad
-Para turnos comunicarse a los lugares de atencion:
-
-*Consultas:*
-CLM: 9 de julio 3365. Tel 342 4521789. Whatsapp 3425093322
-
-*Electromiografias:*
-Instituto Rizzoli: Belgrano 31",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg3NDA4NjkxNxUCABIYIDRBOTE3NkYyMTNE,5493874086917,2024-11-07 12:02:00,,Automática,Positiva,Gracias por comunicarte con Lourdes Loutayf. ¿Cómo podemos ayudarte?,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2NTY4NTEyOBUCABIYFDJGRTcxNTFFNkJB,5491165685128,2024-11-07 12:02:00,,Automática,Neutral,"Te comunicaste con tu doc! Éste es mi número personal, déjame tu inquietud con respecto a tu salud y te responderé en cuanto pueda. 
-
-Los turnos o recetas por favor solicítalos por WhatsApp al *11 6966-4334* para atenderte virtual , en Caballit",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTEzNDgyODQyMhUCABIYFDJGMzBBMDg1N0Ix,5491134828422,2024-11-07 12:02:00,,Automática,Positiva,Gracias por comunicarte con la Dra Eugenia Balbuena. Por favor deje su mensaje será contestado a la brevedad.,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNzUyOTQ4MBUCABIYFDJGMTk4MzZGNkFF,5493517529480,2024-11-07 12:02:00,,Automática,Neutral,Hola!! ??Te comunicaste con el Consultorio de Pediatria. Si necesitas un turno entra al link que te dejo abajo en donde tenes disponible la agenda y la información de obras sociales y costos de las consultas. Cualquier otra duda que tengas escrib,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEyMjgwNzA2MRUCABIYIDdEN0Q2NTY0OTlF,5491122807061,2024-11-07 12:02:00,,Automática,Positiva,"Hola, no puedo atender en este momento. Para consultas médicas presenciales, virtuales, renovación  de órdenes y o prescripciones médicas solicite turno y presupuesto a la secretaria al mail  turnosdraseguranatalia@gmail.com  Muchas gracias!",Solicitar turno y presupuesto,Asistencia Personal
-wamid.HBgNNTQ5MzgxNjY1NzAzNhUCABIYFDJGRENBMTU5OUE1,5493816657036,2024-11-07 12:02:00,,Automática,Neutral,"Buenos días ! No se realizan consultas por este nro. 
-Para turnos u otra consulta: +54 9 381 546 0373 ( centro)+ 54 9 3812480000 ( YB) Muchas gracias.",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjYxMjA4NjAzOBUCABIYFDJGREU4OTNFNkJE,5492612086038,2024-11-07 12:02:00,,Automática,Positiva,"Gracias por comunicarte con Eugenia Quartara. 
-??Horario consultorio 
-Eugenia Quartara 
-??CRiSE
-Belgrano 846 Cdad 
-??Lunes de 9 a 17
-??Martes de 9 a 13 hs 
-??Miércoles de 9 a 17hs
-- [x]  Jueves de 9 a 13 hs 
-
-??Viernes de 9 a 15 hs
-
-P",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1ODYwNTkwMBUCABIYIEI2Q0Q1ODRBRTlE,5491158605900,2024-11-06 11:22:00,,Automática,Positiva,Gracias,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjYzNDMzMzExNxUCABIYIEQ1NTE4MEJERkIz,5492634333117,2024-11-06 10:50:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTk4OTYzNRUCABIYIDIwMzM0MjBFMTE2,5491161989635,2024-11-06 09:13:00,,Automática,Neutral,Recurso multimedia enviado: image/jpeg,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzQ0NDUzNDIyNRUCABIYIEQyNDc3QzgzM0Yz,5493444534225,2024-11-06 04:30:00,,Automática,Positiva,Buen dia genial de pediatria,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEzODUzOTkxNxUCABIYIENCMUJBQTQ2OEU3,5491138539917,2024-11-05 18:30:00,,Escrita,Neutral,??,,Asistencia Técnica
-wamid.HBgNNTQ5MzQ3NjU4OTUyNhUCABIYIEVBQzA4Q0E2NUNF,5493476589526,2024-11-05 17:54:00,,Automática,Positiva,Ok,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgwNDU2MTEwMhUCABIYFDNGODM0Qjg1OUMz,5493804561102,2024-11-05 17:15:00,,Escrita,Neutral,??,,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NTMxNzk4MBUCABIYIDk4NDFBNzM4MDRG,5492995317980,2024-11-05 17:11:00,,Automática,Positiva,Muchas gracias.,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzg1NTA3NDM5NhUCABIYIEM5NjFCNkJBNDQ2,5493855074396,2024-11-05 17:11:00,,Automática,Positiva,Muchas gracias,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEzMzQyOTMzMxUCABIYIEMzQjcyOUQwMEFF,5491133429333,2024-11-05 17:10:00,,Automática,Positiva,Ok,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDQ4NDcxMBUCABIYIDU2NzM1OUIxNjAw,5491144484710,2024-11-05 17:10:00,,Automática,Positiva,"Bien, gracias",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTIyMjkzORUCABIYIDA1NzdDODhCNTlF,5492215222939,2024-11-05 17:09:00,,Automática,Positiva,"Gracias por tu mensaje! 
-El horario para turnos es de lunes a viernes de 15 a 18hs.
-POR FAVOR debe enviar el msj en el horario de atención, si fuera el caso de cancelación indique el N°6 u otras consultas el N°5 (solo se abordará un msj que req",Información horaria,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTIyMjkzORUCABIYIDY3NEQ5NEMwNEE0,5492215222939,2024-11-05 17:09:00,,Automática,Neutral,"HOLA! 
-Para poder abordar su msj a la brevedad en el HORARIO DE ATENCIÓN puede dejarnos los siguientes datos:
-? Especifique motivo: 
-1- Turno médico con el apellido del Dr. 
-2 - Consulta
-3 - Entrega de estudios.
-4 - Rehabilitación.
-5 - Dir",Solicitud de datos para atención personalizada,Asistencia Personal
-wamid.HBgNNTQ5MzQxNTQxNzQ1OBUCABIYFDNBOUQwMkQ5OTU5,5493415417458,2024-11-05 17:07:00,,Automática,Positiva,Ok,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTc1NDQ3OBUCABIYIDlDMTcxODZDOUQz,5493815754478,2024-11-05 17:07:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBMkM1QzIxMzk2,5492995712655,2024-11-05 17:06:00,,Automática,Positiva,Porque desde que se alejó el anterior no tuve novedades gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBNjFDOEY2NTQ1,5492995712655,2024-11-05 17:06:00,,Escrita,Neutral,Quería saber si tienen representante en Río Negro,Quere saber si hay representante en Río Negro,Asistencia Personal
-wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBODQ3ODNDRjQ2,5492995712655,2024-11-05 17:06:00,,Automática,Neutral,Buenas tardes soy Javier Silvera médico diabetologo,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjkxNTM0MTI5ORUCABIYIEM0MzAzNUVCRTA2,5492915341299,2024-11-05 17:05:00,,Escrita,Neutral,????,Sin información,Asistencia Técnica
-wamid.HBgNNTQ5MzQxMjE2NjE4NRUCABIYFDNBRjc4QjE2RDBC,5493412166185,2024-11-05 17:05:00,,Automática,Positiva,Ok,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NDk0MDQzMBUCABIYIEY0OUU5MzgzNEY1,5491154940430,2024-11-05 17:04:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDEyOTMxNRUCABIYIDk4NTU0RUMwM0Mw,5491144129315,2024-11-05 17:04:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDk1N0M3N0NEQ0ZE,5493815720348,2024-11-05 17:04:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDY1MTk5NTgzQjQ2,5493815720348,2024-11-05 17:04:00,,Automática,Positiva,De acuerdo,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEzMDUzMzU5MhUCABIYFDJGNjczOTE4RjhG,5491130533592,2024-11-05 17:03:00,,Automática,Positiva,Gracias por tu mensaje. Los turnos de dermatologia se solicitan por la web docturno.com. La agenda se abre el último día hábil de cada mes para el mes siguiente a las 8 am. No se realizan consultas ni recetas virtuales. Por esta vía solo turnos d,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzYyNDcwODQ4ORUCABIYFDNBQkMwMDJCRTlE,5493624708489,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte con la Dra Estela Fiad. 
-
-Si es para una consulta médica o solicitar turno, envía un mensaje de WhatsApp al 
-
-3624-039449
-
-Que tengas lindo día !",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2OTMyNjI3MBUCABIYFDNBNkJDRkQzNjhE,5491169326270,2024-11-05 17:03:00,,Automática,Neutral,"*Mensaje automático* 
-
-*?El horario para realizar consultas es de lunes a viernes (días hábiles) de 9 a 13hs* NO ENVIAR AUDIOS, NO LLAMADAS* 
-
-?Solo se responderán las consultas enviadas en el horario de atención. 
-**Para urgencias concurrir",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NzYyMTU5MBUCABIYIDRGNTUyODE4QURC,5491167621590,2024-11-05 17:03:00,,Automática,Neutral,"CONSULTORIO MEDICO
-DE LA DRA. CAROLINA MARCOVSKY.
-
-DERMATOLOGIA Y ESTETICA:
-Dra Carolina Marcovsky
-- jueves de 14 hs a 17.45 hs
-- viernes de 10 hs a 14.15 hs.
-Dra Belén Luongo
-- lunes de 10 hs a 13.30 hs
-- miércoles de 14 hs a 17.30 hs.",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzg1NTEzMjg5MRUCABIYIEI2NEYxQTBDRkU2,5493855132891,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte con Dr Juan Taboada, en unos instantes le contestaré.",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NDU4MzQ1NRUCABIYIEMwQThFNzA2OUI0,5491154583455,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder. Para consultas, recetas, ordenes o turnos enviar mil a carlascian@icloud.com",consulta,Asistencia Personal
-wamid.HBgNNTQ5MjY2NDM0MjQ3ORUCABIYFDJGNERFQ0U1QUU3,5492664342479,2024-11-05 17:03:00,,Automática,Neutral,"?? ATENCIÓN 
-Este es un MENSAJE AUTOMÁTICO. No estoy trabajando ahora. Si quedó algo pendiente reenvíe su mensaje de WhatsApp en mi horario de trabajo, de lunes a viernes de 9 a 17 hs. al 2665271559. Este no es medio de Consulta de urgencia. Su",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg1NDIwNDU1NxUCABIYFDJGODFGQzZDOTQ3,5493854204557,2024-11-05 17:03:00,,Automática,Neutral,"Puede sacar un turno las 24hs por la web: https://patient.consultoriomovil.net/patient/web/rubisz/
-
-Redes sociales: 
-
-Sígueme en Instagram: https:// t.ly/oWr5 
-
-Sígueme en Facebook: https:// t.ly/D2mU",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGMzZGOEE1NjMx,5492284575748,2024-11-05 17:03:00,,Automática,Positiva,Turnos en consultorio Olavarria: ???? a través de Docturnos o llamando al 02284 -410511????????Este celular no es para urgencias ??Muchas Gracias !??,No identificada,Asistencia Técnica
-wamid.HBgNNTQ5MTEyNjk1NDE4NxUCABIYIDJCQzkxNkMyOTAy,5491126954187,2024-11-05 17:03:00,,Automática,Positiva,"Hola!!! Soy Analia Bravo Garcia Médica Infectológa Y Emprendedora Oficial en ESSEN ?? un placer para mí asesorarte!!! En qué te puedo ayudar? 
-
-??  *Mi página:* 
-https://the-essen-family.com.ar 
-
-??  *Seguime en:* 
-https://instagram.com/the",Información,Asistencia Técnica
-wamid.HBgNNTQ5MjQ5NDY3NTE4NBUCABIYIDRBNDg1RENEQzZC,5492494675184,2024-11-05 17:03:00,,Automática,Neutral,"*Andrea Campión Endocrinóloga Infantil*??
-
- *Para solicitar Turnos??comunicarse aquí*??
-??TANDIL: Maipú 1035 cel 2494475585 (solo llamadas????) o?? www.gpmtandil.com.ar (8,30 a 20 hs)
-
-??AZUL: San Martín 294. Tel 2281499008 (8-18hs)??
-
-??",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjQ5NDY3NTE4NBUCABIYIDM3MTgwOEM2NkEy,5492494675184,2024-11-05 17:03:00,,Automática,Neutral,"* PARA SOLICITAR TURNOS*:
-?? *TANDIL*: Consultorios Grupo Pediátrico Modelo Maipú 1035 
-?? 2494475585 (sólo llamadas) o ?? www.gpmtandil.com.ar (de 8,30hs a 20 hs)
-??*AZUL*: Consultorio de Imágenes Médicas San Martín 294 ?? 2281499008 (de 8 a",,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NTAzNzU5OBUCABIYIEUwMDcyMjAyN0Yx,5491155037598,2024-11-05 17:03:00,,Automática,Neutral,"?? Hola,enseguida te respondo.",,Asistencia Técnica
-wamid.HBgNNTQ5MTE1Nzk4MzE5NBUCABIYIDU4RkNGMjVGOERG,5491157983194,2024-11-05 17:03:00,,Automática,Positiva,"Hola! Gracias por tu mensaje!
-Como puedo ayudarte?
-Déjame tu consulta y ni pueda me pondre en contacto!",Contacto,Asistencia Personal
-wamid.HBgNNTQ5MzUxMjY2OTYzMRUCABIYIDc2Q0U2M0M4OEFC,5493512669631,2024-11-05 17:03:00,,Automática,Positiva,Gracias por tu mensaje. En este momento no puedo contestar.Por informes o pedidos escribir email a florencia.pabletich@hospitalprivadosa.com.ar o solicitar un turno a +54 9 351 590-3919,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzUxMjY2OTYzMRUCABIYIEZEMjEzN0FGQURC,5493512669631,2024-11-05 17:03:00,,Automática,Positiva,Gracias por tu mensaje. En este momento no puedo contestar. Por informes o pedidos escribir email a florencia.pabletich@hospitalprivadosa.com.ar o solicitar un turno a +54 9 351 590-3919,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MDI0ODUzNRUCABIYIEZERDM4Q0VCOUVE,5491160248535,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no puedo responder,  lo haré lo antes posible. No audios por favor",Contactar,Asistencia Personal
-wamid.HBgNNTQ5MjM1MjQwMjMwMhUCABIYFDJGODk5MkVERTk5,5492352402302,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte.
-El consultorio se encuentra abierto de  de lunes a jueves de 9 a 11 hs y de 14:30 a 18:30 hs
-WhatsApp 2352 541322 para turnos",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NzYyMTU5MBUCABIYIEUxMkFFQzQ3MDBD,5491167621590,2024-11-05 17:03:00,,Automática,Neutral,"Para turnos por favor envíenos un mensaje con su nombre completo y disponibilidad horaria y le contestaremos a la brevedad con una propuesta de turno.
-Puede solicitar las recetas por whatsapp y cuando estén preparadas les avisaremos para que pas",Información,Asistencia Técnica
-wamid.HBgNNTQ5Mjk3NTQ4Njk0NhUCABIYFDJGMTg4QjQ4REZC,5492975486946,2024-11-05 17:03:00,,Automática,Positiva,Gracias por comunicarse .No se recibe ningun tipo de consulta por Whastapp,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzQxNTA0MjI5OBUCABIYIDcyREMyMjJFOTFB,5493415042298,2024-11-05 17:03:00,,Automática,Neutral,"Recibido, contestaré próximamente
-Daniel Martin",,Asistencia Técnica
-wamid.HBgNNTQ5MjIzNDU0ODY2NhUCABIYIDQ5MUNGQUMxMUU2,5492234548666,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte con Farmacia Dominguez Lay. 
-Te responderemos en breve.
-
-¿En qué podemos ayudarte?
-
-Te recordamos que nuestro horario de atencion es de Lunes a Sabados de 9:00 a 13:00 y de 16:00 a 20:00 Hs.
-Feriados de 10:00 a 13:00",Solicita asistencia general,Asistencia Personal
-wamid.HBgNNTQ5MjIxNTkxMzUzMRUCABIYFDJGRjNBNjc2REM0,5492215913531,2024-11-05 17:03:00,,Automática,Neutral,"* Este es un mensaje automático de WhatsApp*  
+Gracias. Saludos",Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5Mzc5NDc1NDcwOBUCABIYIDY1MkRDMTIxOEQ0,5493794754708,2024-11-04 16:29:00,,Gracias por comunicarte. A la brevedad me pondré en contacto ????,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzUzMjQ2NjA3NxUCABIYFDNBRDEyQzc4MThB,5493532466077,2024-11-04 16:30:00,,Recibido y a tu disposición .,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1Mzg5NzIwNhUCABIYIDA4N0ZDRDc5QjhF,5491153897206,2024-11-04 16:30:00,,Ok,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjY2NDY5NDk5ORUCABIYIEI0NDg2MzM4Njk0,5492664694999,2024-11-04 16:30:00,,????,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNTMzMTg1NxUCABIYIEQ5RkYyN0JGQkND,5492615331857,2024-11-04 16:30:00,,En este momento no podré atender. En breve se le responderá. Muchas gracias,Automática,Positiva,respuesta,Asistencia Personal
+wamid.HBgNNTQ5MjYxNTMzMTg1NxUCABIYIDBFQTYzNkM2OEM5,5492615331857,2024-11-04 16:30:00,,No sé escucharán AUDIOS. Gracias,Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NDczMjU3MxUCABIYFjNFQjBGNUFCMkI1,5493874732573,2024-11-04 16:31:00,,MUCHAS GRACIAS¡¡¡,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTMxNjU5OBUCABIYIDlCMzc2MTk0MkYy,5493515316598,2024-11-04 16:36:00,,????,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mjk1NDM0MDYxMBUCABIYIDcxQTEzNjk2MjhB,5492954340610,2024-11-04 16:36:00,,Buenas tardes muchas gracias ??,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTk1Njg1OBUCABIYFDNBODg4ODc4QTVE,5491161956858,2024-11-04 16:37:00,,Recibido muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzcwNDY5MzYwMBUCABIYIDFFM0E0OTJBNDhF,5493704693600,2024-11-04 16:38:00,,Graciass!,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mjk2NjYzMDQ3MhUCABIYFDNBMUQ4NzA4QjYx,5492966630472,2024-11-04 16:38:00,,Y visitador para Río Gallegos,Automática,Neutral,Solicitud de visita,Asistencia Personal
+wamid.HBgNNTQ5MTE1NjU4NTQxMRUCABIYFDNBRDQwQUU0RjMx,5491156585411,2024-11-04 16:43:00,,Graciasssss,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDEwNDAwNBUCABIYIDNFNTY1M0ZGOTc4,5491144104004,2024-11-04 16:47:00,,Gracias por la invitación!!! ??,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MTEzNjg2NDM2NBUCABIYIDI4MDhFOEU0OTQ4,5491136864364,2024-11-04 16:48:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNjQwODY5ORUCABIYFDNBMzE3QjNBNDQx,5493416408699,2024-11-04 16:48:00,,Hola gracias!!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjkxNjQ4MDc0MhUCABIYIDBFMzMzOTBDOEI2,5492916480742,2024-11-04 16:52:00,,Ok ..graciassss,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzU3MTYxMzk1MBUCABIYIDVBMjVFOUM0QzRB,5493571613950,2024-11-04 16:53:00,,Muchas gracias,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjMzNDc2NhUCABIYIEMyRkY4MUUxQjhB,5493516334766,2024-11-04 17:10:00,,Ok !!??,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjYzNDY2MjgwMhUCABIYIDgwNkJEMEJEOTM5,5492634662802,2024-11-04 17:11:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCAyMDY4NUU5MjYzODc3,56991822763,2024-11-04 17:14:00,,Tengo una paciente,Escrita,Neutral,Información,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA5QTE0QkI4Nzg4Q0FC,56991822763,2024-11-04 17:14:00,,Duda,Escrita,Neutral,Información,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA5NTI1M0FDN0Y0NDYw,56991822763,2024-11-04 17:14:00,,Que esta en seguimiento,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCBDMDg2NjgwRkEwOEIw,56991822763,2024-11-04 17:14:00,,Pero me dijeron que tenia q mandar un mail?,Escrita,Neutral,Pedir información,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCAzOEZGNzQ5MkJDMUEx,56991822763,2024-11-04 17:14:00,,Super,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA2RDFCMTA3RDRFRTY2,56991822763,2024-11-04 17:14:00,,Holaaaa,Escrita,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDEzNzQ3ORUCABIYIDUwMzREQUYzNDQ2,5491144137479,2024-11-04 17:21:00,,"Recibido, gracias!",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzg1NDczODA1OBUCABIYFDNBNzcxMDNGNjkz,5493854738058,2024-11-04 17:26:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjM0ODYzORUCABIYFDNBQTU2NjY4MThE,5493516348639,2024-11-04 17:32:00,,Muchas Gracias! A,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNDE4ODUzMxUCABIYIDMyRkJEMEU3MkNC,5492614188533,2024-11-04 17:32:00,,??????,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTEzMDAwMDgwORUCABIYIDgwNjA5MkNFQzBC,5491130000809,2024-11-04 18:12:00,,Muchas gracias!!!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDA5MDE3NBUCABIYIDA3OEQ5RjA4Q0Yz,5493814090174,2024-11-04 18:55:00,,Gracias!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk5NTA0OTk2OBUCABIYIEU3MjA3OEE3MjJC,5492995049968,2024-11-04 20:22:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDc0MTQ5MxUCABIYIDI1M0VDQTYxOTFG,5491140741493,2024-11-05 07:29:00,,Muchas Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk3NTQ4Njk0NhUCABIYFDJGMTg4QjQ4REZC,5492975486946,2024-11-05 17:03:00,,Gracias por comunicarse .No se recibe ningun tipo de consulta por Whastapp,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjIxNTkxMzUzMRUCABIYFDJGM0Y4NTExQUMw,5492215913531,2024-11-05 17:03:00,,"* Este es un mensaje automático de WhatsApp*  
 
 *Por resultados de estudios, consultas o recetas* 
 
@@ -555,45 +248,15 @@ envíe un mail a primerpiso@ipensa.com o comuniquesé al 0221 4271189/90/91 int 
 
 *MEPRIN*
 15 nro 873 entre 49 y 50
-221 6909833",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjI0MzE2NhUCABIYIDRFODQ0OEQwOEZC,5492216243166,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte con Celina Braggio. 
-Este es un teléfono de uso personal.
+221 6909833",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjIzNDU0ODY2NhUCABIYIDQyRDk3REIyNEM5,5492234548666,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible.
 
-PARA TURNOS, RECETAS,CONSULTAS.
-??
-2494622408
-??
-https://sanatoriotandil.com.ar
-???
-consultoriosintegrados@sanatoriotandilsa.com.ar
-
-MUCHAS GRACIAS!",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NDg0MjI4ORUCABIYIDMxM0JBREU3QTlF,5491164842289,2024-11-05 17:03:00,,Automática,Neutral,"ESTE ES UN MENSAJE AUTOMATICO
-
-Para solicitar recetas o  turnos con la Dra De Andrea comunicarse a este número por ws los días 
-LUNES Y MIERCOLES
- de 0930 a 1600 hs
-
-MARTES Y JUEVES días de atencion presencial de 0930 a 1330 hs
-
-NO SE ATI",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NzYwNjU4MhUCABIYIDRDMkQ0MTNCRUFG,5491157606582,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte! por la alta demanda, no puedo responder mensajes en forma inmediata. 
-
-Para reservar turnos particulares: 
-- Vicente Lopez: 11-4158-7397
-- CABA: 4811-6741/ 4813-0234
-
-Consultas vía mail: consultoriofabianavazquez@gm",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NDU5ODgxMxUCABIYFDJGM0NEODcyNTA4,5492994598813,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por comunicarte con Dr Zabert. Por favor, quiero saber cómo puedo ayudarte, comunícate con mis secretarias vía mail:cetsrlzabert@gmail.com, WhatsApp +5492996080775 o al fijo: 4481180",Quiero saber cómo puedo ayudarte,Asistencia Personal
-wamid.HBgNNTQ5MzQxMzM2MTUyNhUCABIYIDgxNThDQjJERTY4,5493413361526,2024-11-05 17:03:00,,Automática,Neutral,Esto es un mensaje automático. Por favor escríbame de lunes a viernes de 8 a 20 h. Gracias!,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGQjVEQzFGQkVF,5492284575748,2024-11-05 17:03:00,,Automática,Positiva,"Este es un mensaje automático 
-
-Turnos  en Olavarria:  ??2284-410511 o a través de Docturnos. ????????. 
-Muchas gracias!!!!",No aplica,Asistencia Técnica
-wamid.HBgNNTQ5MjIxMzUwODE4MhUCABIYIDQyNTNCMDI1NTY2,5492213508182,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Les recordamos que sólo se otorgan turnos. No se hacen consultas médicas, certificados ni recetas por WhatsApp. Para turnos, también puede comunicarse",Información,Asistencia Técnica
-wamid.HBgNNTQ5MjIxMzUwODE4MhUCABIYIEEyNUUwOEQ3M0Q2,5492213508182,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Les recordamos que no se hacen consultas, certificados ni recetas por WhatsApp. Para turnos, se puede comunicar también al 221 5224946.",N/A,Asistencia Técnica
-wamid.HBgNNTQ5Mzc5NDU5NTcyORUCABIYIEU5MDVFOUE4NzYy,5493794595729,2024-11-05 17:03:00,,Automática,Positiva,Gracias por comunicarte con el consultorio de la  Dra Carola Canteros Reumatologa Pediatra. ¿Cómo podemos ayudarte?,Contacto,Asistencia Personal
-wamid.HBgNNTQ5MzQwNzQzMDY2NRUCABIYIEI1MjE2OTJEMUEw,5493407430665,2024-11-05 17:03:00,,Automática,Neutral,"Hola!! ?? 
+Te recordamos que nuestro horario de atencion es de Lunes a Sabados de 9:00 a 13:00 y de 16:00 a 20:00 Hs.",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTEzMDIzNTg2MxUCABIYFDJGRTFCMDk5MDY2,5491130235863,2024-11-05 17:03:00,,"??????Se ha comunicado con la Dra. Eliana Calegari (Neumonologa ).
+????En este momento no lo puedo atender.
+*Hospital Fernandez*: martes a viernes ?? turnos 147 Atención.
+Consultorio Berazategui *Semya*(Osde y Particular ) días Miércoles de 16",Automática,Neutral,Solicitud de informacion sobre disponibilidad y horarios.,Asistencia Personal
+wamid.HBgNNTQ5MzQwNzQzMDY2NRUCABIYIEI1MjE2OTJEMUEw,5493407430665,2024-11-05 17:03:00,,"Hola!! ?? 
 
 ?Turnos sólo por la app?
                       ??
@@ -606,16 +269,11 @@ ____________________________
 
 ??? Envia datos al Whatsapp:  
    
-          ??  3407496579",,Asistencia Técnica
-wamid.HBgNNTQ5MTEzMDIzNTg2MxUCABIYFDJGRTFCMDk5MDY2,5491130235863,2024-11-05 17:03:00,,Automática,Neutral,"??????Se ha comunicado con la Dra. Eliana Calegari (Neumonologa ).
-????En este momento no lo puedo atender.
-*Hospital Fernandez*: martes a viernes ?? turnos 147 Atención.
-Consultorio Berazategui *Semya*(Osde y Particular ) días Miércoles de 16",Solicitud de informacion sobre disponibilidad y horarios.,Asistencia Personal
-wamid.HBgNNTQ5MzUxNTQ4MDg5MRUCABIYIDdFMjhERjA1RUVE,5493515480891,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no puedo responder, a la brevedad posible contestaré. Saludos",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIzNDU0ODY2NhUCABIYIDQyRDk3REIyNEM5,5492234548666,2024-11-05 17:03:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible.
-
-Te recordamos que nuestro horario de atencion es de Lunes a Sabados de 9:00 a 13:00 y de 16:00 a 20:00 Hs.",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNTkxMzUzMRUCABIYFDJGM0Y4NTExQUMw,5492215913531,2024-11-05 17:03:00,,Automática,Neutral,"* Este es un mensaje automático de WhatsApp*  
+          ??  3407496579",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mzc5NDU5NTcyORUCABIYIEU5MDVFOUE4NzYy,5493794595729,2024-11-05 17:03:00,,Gracias por comunicarte con el consultorio de la  Dra Carola Canteros Reumatologa Pediatra. ¿Cómo podemos ayudarte?,Automática,Positiva,Contacto,Asistencia Personal
+wamid.HBgNNTQ5MjIxMzUwODE4MhUCABIYIEEyNUUwOEQ3M0Q2,5492213508182,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Les recordamos que no se hacen consultas, certificados ni recetas por WhatsApp. Para turnos, se puede comunicar también al 221 5224946.",Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MjIxMzUwODE4MhUCABIYIDQyNTNCMDI1NTY2,5492213508182,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Les recordamos que sólo se otorgan turnos. No se hacen consultas médicas, certificados ni recetas por WhatsApp. Para turnos, también puede comunicarse",Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTkxMzUzMRUCABIYFDJGRjNBNjc2REM0,5492215913531,2024-11-05 17:03:00,,"* Este es un mensaje automático de WhatsApp*  
 
 *Por resultados de estudios, consultas o recetas* 
 
@@ -624,104 +282,453 @@ envíe un mail a primerpiso@ipensa.com o comuniquesé al 0221 4271189/90/91 int 
 
 *MEPRIN*
 15 nro 873 entre 49 y 50
-221 6909833",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE0MDc0MTQ5MxUCABIYIDI1M0VDQTYxOTFG,5491140741493,2024-11-05 07:29:00,,Automática,Positiva,Muchas Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk5NTA0OTk2OBUCABIYIEU3MjA3OEE3MjJC,5492995049968,2024-11-04 20:22:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDA5MDE3NBUCABIYIDA3OEQ5RjA4Q0Yz,5493814090174,2024-11-04 18:55:00,,Automática,Positiva,Gracias!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTEzMDAwMDgwORUCABIYIDgwNjA5MkNFQzBC,5491130000809,2024-11-04 18:12:00,,Automática,Positiva,Muchas gracias!!!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjM0ODYzORUCABIYFDNBQTU2NjY4MThE,5493516348639,2024-11-04 17:32:00,,Automática,Positiva,Muchas Gracias! A,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNDE4ODUzMxUCABIYIDMyRkJEMEU3MkNC,5492614188533,2024-11-04 17:32:00,,Escrita,Neutral,??????,N/A,Asistencia Técnica
-wamid.HBgNNTQ5Mzg1NDczODA1OBUCABIYFDNBNzcxMDNGNjkz,5493854738058,2024-11-04 17:26:00,,Escrita,Neutral,??,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDEzNzQ3ORUCABIYIDUwMzREQUYzNDQ2,5491144137479,2024-11-04 17:21:00,,Automática,Positiva,"Recibido, gracias!",Agradecimiento,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCAyMDY4NUU5MjYzODc3,56991822763,2024-11-04 17:14:00,,Escrita,Neutral,Tengo una paciente,Información,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA5QTE0QkI4Nzg4Q0FC,56991822763,2024-11-04 17:14:00,,Escrita,Neutral,Duda,Información,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA2RDFCMTA3RDRFRTY2,56991822763,2024-11-04 17:14:00,,Escrita,Positiva,Holaaaa,Ninguna,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCAzOEZGNzQ5MkJDMUEx,56991822763,2024-11-04 17:14:00,,Escrita,Neutral,Super,,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCA5NTI1M0FDN0Y0NDYw,56991822763,2024-11-04 17:14:00,,Automática,Neutral,Que esta en seguimiento,Ninguna,Asistencia Técnica
-wamid.HBgLNTY5OTE4MjI3NjMVAgASGCBDMDg2NjgwRkEwOEIw,56991822763,2024-11-04 17:14:00,,Escrita,Neutral,Pero me dijeron que tenia q mandar un mail?,Pedir información,Asistencia Técnica
-wamid.HBgNNTQ5MjYzNDY2MjgwMhUCABIYIDgwNkJEMEJEOTM5,5492634662802,2024-11-04 17:11:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjMzNDc2NhUCABIYIEMyRkY4MUUxQjhB,5493516334766,2024-11-04 17:10:00,,Automática,Neutral,Ok !!??,,Asistencia Técnica
-wamid.HBgNNTQ5MzU3MTYxMzk1MBUCABIYIDVBMjVFOUM0QzRB,5493571613950,2024-11-04 16:53:00,,Automática,Positiva,Muchas gracias,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjkxNjQ4MDc0MhUCABIYIDBFMzMzOTBDOEI2,5492916480742,2024-11-04 16:52:00,,Automática,Positiva,Ok ..graciassss,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjQwODY5ORUCABIYFDNBMzE3QjNBNDQx,5493416408699,2024-11-04 16:48:00,,Automática,Positiva,Hola gracias!!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTEzNjg2NDM2NBUCABIYIDI4MDhFOEU0OTQ4,5491136864364,2024-11-04 16:48:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDEwNDAwNBUCABIYIDNFNTY1M0ZGOTc4,5491144104004,2024-11-04 16:47:00,,Automática,Positiva,Gracias por la invitación!!! ??,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NjU4NTQxMRUCABIYFDNBRDQwQUU0RjMx,5491156585411,2024-11-04 16:43:00,,Automática,Positiva,Graciasssss,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzcwNDY5MzYwMBUCABIYIDFFM0E0OTJBNDhF,5493704693600,2024-11-04 16:38:00,,Automática,Positiva,Graciass!,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mjk2NjYzMDQ3MhUCABIYFDNBMUQ4NzA4QjYx,5492966630472,2024-11-04 16:38:00,,Automática,Neutral,Y visitador para Río Gallegos,Solicitud de visita,Asistencia Personal
-wamid.HBgNNTQ5MTE2MTk1Njg1OBUCABIYFDNBODg4ODc4QTVE,5491161956858,2024-11-04 16:37:00,,Automática,Positiva,Recibido muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mjk1NDM0MDYxMBUCABIYIDcxQTEzNjk2MjhB,5492954340610,2024-11-04 16:36:00,,Automática,Positiva,Buenas tardes muchas gracias ??,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTMxNjU5OBUCABIYIDlCMzc2MTk0MkYy,5493515316598,2024-11-04 16:36:00,,Escrita,Neutral,????,,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NDczMjU3MxUCABIYFjNFQjBGNUFCMkI1,5493874732573,2024-11-04 16:31:00,,Automática,Positiva,MUCHAS GRACIAS¡¡¡,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MTE1Mzg5NzIwNhUCABIYIDA4N0ZDRDc5QjhF,5491153897206,2024-11-04 16:30:00,,Automática,Positiva,Ok,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUzMjQ2NjA3NxUCABIYFDNBRDEyQzc4MThB,5493532466077,2024-11-04 16:30:00,,Automática,Neutral,Recibido y a tu disposición .,,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNTMzMTg1NxUCABIYIEQ5RkYyN0JGQkND,5492615331857,2024-11-04 16:30:00,,Automática,Positiva,En este momento no podré atender. En breve se le responderá. Muchas gracias,respuesta,Asistencia Personal
-wamid.HBgNNTQ5MjYxNTMzMTg1NxUCABIYIDBFQTYzNkM2OEM5,5492615331857,2024-11-04 16:30:00,,Automática,Positiva,No sé escucharán AUDIOS. Gracias,Información,Asistencia Técnica
-wamid.HBgNNTQ5MjY2NDY5NDk5ORUCABIYIEI0NDg2MzM4Njk0,5492664694999,2024-11-04 16:30:00,,Escrita,Neutral,????,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NzEzMDc5MhUCABIYIDIwNDlBRjgzOEY0,5491157130792,2024-11-04 16:29:00,,Escrita,Neutral,Suelo responder con rapidez siempre y cuando el mensaje sea de interés????,Solicitud de información,Asistencia Técnica
-wamid.HBgNNTQ5MTE1Mzc0Mjc3NBUCABIYFDJGNEEzMDVGMDU0,5491153742774,2024-11-04 16:29:00,,Automática,Neutral,"Por turnos comuníquese a los teléfonos 1168092774 ( 9 a 15 hs) y 1130481705 (14 a 20 hs). Por temas administrativos y recetas al mail: consultoriodrasarto@gmail.com. Por  favor, no insista por este teléfono. Este teléfono es solo para “Urgencias",Información,Asistencia Técnica
-wamid.HBgNNTQ5MzU3MTYxMzk1MBUCABIYIDk3MTU5NEE2RjEy,5493571613950,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder. Si es por una consulta, solicitar turno a la clinica savio, sanatorio de la cañada o clinica santa maria. No medico ni hago consultas por este medio.",Solicitar turno,Asistencia Personal
-wamid.HBgNNTQ5MjYxNTI2MzczMhUCABIYIEVBMzAwOTEyRTg5,5492615263732,2024-11-04 16:29:00,,Automática,Neutral,Mensaje automático. Por turnos llamar de lunes a jueves de 16 a 20hs al 2614258928.,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTA5MzU4OBUCABIYFDNBQ0VENzU2RkJE,5493875093588,2024-11-04 16:29:00,,Automática,Positiva,"Hola,cómo estás? Soy la doctora Loren Tanjilevich. Para información sobre tratamiento y precios. Debe solicitar una consulta y ahí se le explicara los tratamientos adecuado de cada paciente. El turno lo solicita por este medio. Muchas Gracias.",Informacion,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTA5MzU4OBUCABIYFDNBRjJGRDE1MUMz,5493875093588,2024-11-04 16:29:00,,Automática,Positiva,"Hola,cómo estás? Soy la doctora Loren Tanjilevich. Para información sobre tratamiento y precios. Debe solicitar una consulta y ahí se le explicara los tratamientos adecuado de cada paciente. El turno lo solicita por este medio. Muchas Gracias.",Información sobre tratamiento y precios,Asistencia Técnica
-wamid.HBgNNTQ5MTE2Nzk4NTc3OBUCABIYIEZFNkEwNEY1OENF,5491167985778,2024-11-04 16:29:00,,Automática,Positiva,Gracias por comunicarse le responderé a la brevedad ??,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NzEzMDc5MhUCABIYIDU3RjlDRDUyREFB,5491157130792,2024-11-04 16:29:00,,Automática,Neutral,"CENTRO MEDICO HOMEOPATICO
-DR LUS ARIEL 
-???????????? ?????? ???????????????????????????? ????´??????????. ???? ???????????????????? ?????????????????????? ???? ?????????????? ???????
+221 6909833",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGQjVEQzFGQkVF,5492284575748,2024-11-05 17:03:00,,"Este es un mensaje automático 
 
-""Excelencia en salud""
-Equipo profesional de renombre
-",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MTE2NzM1NjEzNxUCABIYIEEyRDZDQzIyRkMx,5491167356137,2024-11-04 16:29:00,,Automática,Positiva,"Estimado, gracias por su mensaje. 
-Su consulta será respondida de lunes a viernes 8 a 21hs.
+Turnos  en Olavarria:  ??2284-410511 o a través de Docturnos. ????????. 
+Muchas gracias!!!!",Automática,Positiva,No aplica,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjI0MzE2NhUCABIYIDRFODQ0OEQwOEZC,5492216243166,2024-11-05 17:03:00,,"Gracias por comunicarte con Celina Braggio. 
+Este es un teléfono de uso personal.
 
-Para turnos de Nutrición y Diabetes Infantil PRIVADA o por SMG hacer reserva por https://darturnos.com/prestador/turnos/2686 o enviar mensaje al +54 9",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTYzMDM4MRUCABIYFDNBNkNFRUVGREY4,5491161630381,2024-11-04 16:29:00,,Automática,Neutral,"*Estimado paciente:* Si tiene una urgencia por favor diríjase a la guardia.
-Sí necesita una receta ,certificado, pedido de análisis, o llenado de planilla deberá solicitar un turno (virtual o presencial).
-Consultorio privado : 
-serenare :+54 9",Solicitud de información,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIDREQzIxRUJBNkZG,5493416583575,2024-11-04 16:29:00,,Automática,Positiva,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680.
-Para recetas electrónicas deja número de DNI  y los medicamentos que necesitas. En el curso de las 72 ha horas siguientes serán realizadas.
-Muchas gracias",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzc2NDg5MjQyNRUCABIYIDhDRDRDRDhBNDBC,5493764892425,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por comunicarte ,para turnos y consultas llamar al  3765/430283 o Wats 3764/697395",Turnos y consultas,Asistencia Personal
-wamid.HBgNNTQ5Mzc2NDg5MjQyNRUCABIYIEFFRDUxMkMwNjNC,5493764892425,2024-11-04 16:29:00,,Escrita,Negativa,"Hola , no se responden consultas ni  se dan turnos,comunicarse al 3765430283 o al wats 3764/697395",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIDZBRTVFMkFCOUVG,5493416583575,2024-11-04 16:29:00,,Automática,Positiva,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680. 
-Para recetas electrónicas deja número de DNI  y los medicamentos que necesitas. En el curso de las 72 ha horas siguientes serán realizadas.
-Muchas gracias",Comunicacion,Asistencia Personal
-wamid.HBgNNTQ5MjY2NDU3MjM4OBUCABIYFDNBNzU1NEMzMkM5,5492664572388,2024-11-04 16:29:00,,Automática,Neutral,"Hola, gracias por su contacto; el horario laboral es de 9 a 17 hs de lunes a viernes. 
+PARA TURNOS, RECETAS,CONSULTAS.
+??
+2494622408
+??
+https://sanatoriotandil.com.ar
+???
+consultoriosintegrados@sanatoriotandilsa.com.ar
 
-Es un mensaje automático.  *RE ENVÍE SU MENSAJE, por favor, en ese horario. Sino lo hace no lo veré*. 
+MUCHAS GRACIAS!",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NDg0MjI4ORUCABIYIDMxM0JBREU3QTlF,5491164842289,2024-11-05 17:03:00,,"ESTE ES UN MENSAJE AUTOMATICO
 
-Antes de hacerlo, tenga en cuenta que:
-- Mi línea",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1MTQ3NDYzOBUCABIYIEM4NDIwQjEyRUYw,5491151474638,2024-11-04 16:29:00,,Escrita,Neutral,"Hola.
-Si tiene una urgencia no espere mi respuesta, consulte a una guardia. 
-No envien mensajes de voz ni mensajes muy largos. 
-Respondo con parte de mi tiempo libre, como iniciativa  para acompañar a los pacientes que reciben quimioterapia. ",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE1MTQ3NDYzOBUCABIYIDlEQzlFOEExNTY2,5491151474638,2024-11-04 16:29:00,,Automática,Neutral,Sobre cuestiones administrativas y turnos comunicarse con la secretaria.,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2MTIzMDAxORUCABIYIDU5QUI0QzQ2NEVF,5491161230019,2024-11-04 16:29:00,,Automática,Positiva,"Estimados Pacientes:
+Para solicitar recetas o  turnos con la Dra De Andrea comunicarse a este número por ws los días 
+LUNES Y MIERCOLES
+ de 0930 a 1600 hs
 
-?Días y Horario de atención: Lunes a viernes de 8 a 16 hs, Sanatorio Pasteur, 1er piso.
+MARTES Y JUEVES días de atencion presencial de 0930 a 1330 hs
 
-? Los turnos se dan a través de la secretaría del sanatorio.
+NO SE ATI",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjIzNDU0ODY2NhUCABIYIDQ5MUNGQUMxMUU2,5492234548666,2024-11-05 17:03:00,,"Gracias por comunicarte con Farmacia Dominguez Lay. 
+Te responderemos en breve.
 
-?En caso de urgencia dirigirse a la guardia??. 
+¿En qué podemos ayudarte?
 
-Gracias. Saludos",Información,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNTI2MzczMhUCABIYIEE3OTFGQzUxQzUw,5492615263732,2024-11-04 16:29:00,,Automática,Neutral,"Mensaje automático. 
-1) Por turnos llamar de lunes a jueves al 2614258928. Al Centro Médico Chacras o al Hospital Universitario. Sin excepción.
-2) Por recetas enviar los datos correspondientes y el detalle de lo que requiere.
-3) Si no he respo",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzc5NDc1NDcwOBUCABIYIDY1MkRDMTIxOEQ0,5493794754708,2024-11-04 16:29:00,,Automática,Positiva,Gracias por comunicarte. A la brevedad me pondré en contacto ????,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE1MzMxNjg5MBUCABIYIDhGMjAxODc3Mzgz,5491153316890,2024-11-04 16:29:00,,Automática,Neutral,"*Respuesta automática* 
-Estoy en un congreso. Me reintegro el 12/11/24.
-Por urgencias o recetas contactar a doctoramarielaenlomas@gmail.com",Información,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTI3NjgwNhUCABIYIEM1MENCNDM2NkNB,5493815276806,2024-11-04 16:29:00,,Automática,Positiva,Ok gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTE3OTY3MxUCABIYIDc2MUFCNTI1OUM2,5493515179673,2024-11-04 16:29:00,,Escrita,Neutral,??,N/A,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTYyOTc2NBUCABIYIDcyQThGQjk5NjJB,5493875629764,2024-11-04 16:29:00,,Automática,Positiva,Ok ok muchas grac!!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjM2NDU3NTE1NxUCABIYIDU2N0U3M0ZBQ0U2,5492364575157,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por comunicarte con el Dr. Pablo Pizzala. En este momento me encuentro atendiendo. Déjame tu mensaje y te responderé cuanto antes.
-Gracias!",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NDEzNTA5NRUCABIYIDc5NjlCOUZENzZE,5491154135095,2024-11-04 16:29:00,,Automática,Neutral,"Lugares de atención.
+Te recordamos que nuestro horario de atencion es de Lunes a Sabados de 9:00 a 13:00 y de 16:00 a 20:00 Hs.
+Feriados de 10:00 a 13:00",Automática,Positiva,Solicita asistencia general,Asistencia Personal
+wamid.HBgNNTQ5Mjk5NDU5ODgxMxUCABIYFDJGM0NEODcyNTA4,5492994598813,2024-11-05 17:03:00,,"Gracias por comunicarte con Dr Zabert. Por favor, quiero saber cómo puedo ayudarte, comunícate con mis secretarias vía mail:cetsrlzabert@gmail.com, WhatsApp +5492996080775 o al fijo: 4481180",Automática,Positiva,Quiero saber cómo puedo ayudarte,Asistencia Personal
+wamid.HBgNNTQ5MzQxMzM2MTUyNhUCABIYIDgxNThDQjJERTY4,5493413361526,2024-11-05 17:03:00,,Esto es un mensaje automático. Por favor escríbame de lunes a viernes de 8 a 20 h. Gracias!,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NzYwNjU4MhUCABIYIDRDMkQ0MTNCRUFG,5491157606582,2024-11-05 17:03:00,,"Gracias por comunicarte! por la alta demanda, no puedo responder mensajes en forma inmediata. 
+
+Para reservar turnos particulares: 
+- Vicente Lopez: 11-4158-7397
+- CABA: 4811-6741/ 4813-0234
+
+Consultas vía mail: consultoriofabianavazquez@gm",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGMzZGOEE1NjMx,5492284575748,2024-11-05 17:03:00,,Turnos en consultorio Olavarria: ???? a través de Docturnos o llamando al 02284 -410511????????Este celular no es para urgencias ??Muchas Gracias !??,Automática,Positiva,No identificada,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNTA0MjI5OBUCABIYIDcyREMyMjJFOTFB,5493415042298,2024-11-05 17:03:00,,"Recibido, contestaré próximamente
+Daniel Martin",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTQ4MDg5MRUCABIYIDdFMjhERjA1RUVE,5493515480891,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no puedo responder, a la brevedad posible contestaré. Saludos",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NzYyMTU5MBUCABIYIEUxMkFFQzQ3MDBD,5491167621590,2024-11-05 17:03:00,,"Para turnos por favor envíenos un mensaje con su nombre completo y disponibilidad horaria y le contestaremos a la brevedad con una propuesta de turno.
+Puede solicitar las recetas por whatsapp y cuando estén preparadas les avisaremos para que pas",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTEzMDUzMzU5MhUCABIYFDJGNjczOTE4RjhG,5491130533592,2024-11-05 17:03:00,,Gracias por tu mensaje. Los turnos de dermatologia se solicitan por la web docturno.com. La agenda se abre el último día hábil de cada mes para el mes siguiente a las 8 am. No se realizan consultas ni recetas virtuales. Por esta vía solo turnos d,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MDI0ODUzNRUCABIYIEZERDM4Q0VCOUVE,5491160248535,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no puedo responder,  lo haré lo antes posible. No audios por favor",Automática,Positiva,Contactar,Asistencia Personal
+wamid.HBgNNTQ5MzUxMjY2OTYzMRUCABIYIEZEMjEzN0FGQURC,5493512669631,2024-11-05 17:03:00,,Gracias por tu mensaje. En este momento no puedo contestar. Por informes o pedidos escribir email a florencia.pabletich@hospitalprivadosa.com.ar o solicitar un turno a +54 9 351 590-3919,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjY2OTYzMRUCABIYIDc2Q0U2M0M4OEFC,5493512669631,2024-11-05 17:03:00,,Gracias por tu mensaje. En este momento no puedo contestar.Por informes o pedidos escribir email a florencia.pabletich@hospitalprivadosa.com.ar o solicitar un turno a +54 9 351 590-3919,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE1Nzk4MzE5NBUCABIYIDU4RkNGMjVGOERG,5491157983194,2024-11-05 17:03:00,,"Hola! Gracias por tu mensaje!
+Como puedo ayudarte?
+Déjame tu consulta y ni pueda me pondre en contacto!",Automática,Positiva,Contacto,Asistencia Personal
+wamid.HBgNNTQ5MjQ5NDY3NTE4NBUCABIYIDM3MTgwOEM2NkEy,5492494675184,2024-11-05 17:03:00,,"* PARA SOLICITAR TURNOS*:
+?? *TANDIL*: Consultorios Grupo Pediátrico Modelo Maipú 1035 
+?? 2494475585 (sólo llamadas) o ?? www.gpmtandil.com.ar (de 8,30hs a 20 hs)
+??*AZUL*: Consultorio de Imágenes Médicas San Martín 294 ?? 2281499008 (de 8 a",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjQ5NDY3NTE4NBUCABIYIDRBNDg1RENEQzZC,5492494675184,2024-11-05 17:03:00,,"*Andrea Campión Endocrinóloga Infantil*??
+
+ *Para solicitar Turnos??comunicarse aquí*??
+??TANDIL: Maipú 1035 cel 2494475585 (solo llamadas????) o?? www.gpmtandil.com.ar (8,30 a 20 hs)
+
+??AZUL: San Martín 294. Tel 2281499008 (8-18hs)??
+
+??",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTEyNjk1NDE4NxUCABIYIDJCQzkxNkMyOTAy,5491126954187,2024-11-05 17:03:00,,"Hola!!! Soy Analia Bravo Garcia Médica Infectológa Y Emprendedora Oficial en ESSEN ?? un placer para mí asesorarte!!! En qué te puedo ayudar? 
+
+??  *Mi página:* 
+https://the-essen-family.com.ar 
+
+??  *Seguime en:* 
+https://instagram.com/the",Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NTAzNzU5OBUCABIYIEUwMDcyMjAyN0Yx,5491155037598,2024-11-05 17:03:00,,"?? Hola,enseguida te respondo.",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NDU4MzQ1NRUCABIYIEMwQThFNzA2OUI0,5491154583455,2024-11-05 17:03:00,,"Gracias por tu mensaje. En este momento no podemos responder. Para consultas, recetas, ordenes o turnos enviar mil a carlascian@icloud.com",Automática,Positiva,consulta,Asistencia Personal
+wamid.HBgNNTQ5Mzg1NTEzMjg5MRUCABIYIEI2NEYxQTBDRkU2,5493855132891,2024-11-05 17:03:00,,"Gracias por comunicarte con Dr Juan Taboada, en unos instantes le contestaré.",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NzYyMTU5MBUCABIYIDRGNTUyODE4QURC,5491167621590,2024-11-05 17:03:00,,"CONSULTORIO MEDICO
+DE LA DRA. CAROLINA MARCOVSKY.
+
+DERMATOLOGIA Y ESTETICA:
+Dra Carolina Marcovsky
+- jueves de 14 hs a 17.45 hs
+- viernes de 10 hs a 14.15 hs.
+Dra Belén Luongo
+- lunes de 10 hs a 13.30 hs
+- miércoles de 14 hs a 17.30 hs.",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2OTMyNjI3MBUCABIYFDNBNkJDRkQzNjhE,5491169326270,2024-11-05 17:03:00,,"*Mensaje automático* 
+
+*?El horario para realizar consultas es de lunes a viernes (días hábiles) de 9 a 13hs* NO ENVIAR AUDIOS, NO LLAMADAS* 
+
+?Solo se responderán las consultas enviadas en el horario de atención. 
+**Para urgencias concurrir",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzg1NDIwNDU1NxUCABIYFDJGODFGQzZDOTQ3,5493854204557,2024-11-05 17:03:00,,"Puede sacar un turno las 24hs por la web: https://patient.consultoriomovil.net/patient/web/rubisz/
+
+Redes sociales: 
+
+Sígueme en Instagram: https:// t.ly/oWr5 
+
+Sígueme en Facebook: https:// t.ly/D2mU",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzYyNDcwODQ4ORUCABIYFDNBQkMwMDJCRTlE,5493624708489,2024-11-05 17:03:00,,"Gracias por comunicarte con la Dra Estela Fiad. 
+
+Si es para una consulta médica o solicitar turno, envía un mensaje de WhatsApp al 
+
+3624-039449
+
+Que tengas lindo día !",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjM1MjQwMjMwMhUCABIYFDJGODk5MkVERTk5,5492352402302,2024-11-05 17:03:00,,"Gracias por comunicarte.
+El consultorio se encuentra abierto de  de lunes a jueves de 9 a 11 hs y de 14:30 a 18:30 hs
+WhatsApp 2352 541322 para turnos",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjY2NDM0MjQ3ORUCABIYFDJGNERFQ0U1QUU3,5492664342479,2024-11-05 17:03:00,,"?? ATENCIÓN 
+Este es un MENSAJE AUTOMÁTICO. No estoy trabajando ahora. Si quedó algo pendiente reenvíe su mensaje de WhatsApp en mi horario de trabajo, de lunes a viernes de 9 a 17 hs. al 2665271559. Este no es medio de Consulta de urgencia. Su",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDY1MTk5NTgzQjQ2,5493815720348,2024-11-05 17:04:00,,De acuerdo,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDk1N0M3N0NEQ0ZE,5493815720348,2024-11-05 17:04:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NDk0MDQzMBUCABIYIEY0OUU5MzgzNEY1,5491154940430,2024-11-05 17:04:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDEyOTMxNRUCABIYIDk4NTU0RUMwM0Mw,5491144129315,2024-11-05 17:04:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjkxNTM0MTI5ORUCABIYIEM0MzAzNUVCRTA2,5492915341299,2024-11-05 17:05:00,,????,Escrita,Neutral,Sin información,Asistencia Técnica
+wamid.HBgNNTQ5MzQxMjE2NjE4NRUCABIYFDNBRjc4QjE2RDBC,5493412166185,2024-11-05 17:05:00,,Ok,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBNjFDOEY2NTQ1,5492995712655,2024-11-05 17:06:00,,Quería saber si tienen representante en Río Negro,Escrita,Neutral,Quere saber si hay representante en Río Negro,Asistencia Personal
+wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBMkM1QzIxMzk2,5492995712655,2024-11-05 17:06:00,,Porque desde que se alejó el anterior no tuve novedades gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk5NTcxMjY1NRUCABIYFDNBODQ3ODNDRjQ2,5492995712655,2024-11-05 17:06:00,,Buenas tardes soy Javier Silvera médico diabetologo,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNTQxNzQ1OBUCABIYFDNBOUQwMkQ5OTU5,5493415417458,2024-11-05 17:07:00,,Ok,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTc1NDQ3OBUCABIYIDlDMTcxODZDOUQz,5493815754478,2024-11-05 17:07:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTIyMjkzORUCABIYIDY3NEQ5NEMwNEE0,5492215222939,2024-11-05 17:09:00,,"HOLA! 
+Para poder abordar su msj a la brevedad en el HORARIO DE ATENCIÓN puede dejarnos los siguientes datos:
+? Especifique motivo: 
+1- Turno médico con el apellido del Dr. 
+2 - Consulta
+3 - Entrega de estudios.
+4 - Rehabilitación.
+5 - Dir",Automática,Neutral,Solicitud de datos para atención personalizada,Asistencia Personal
+wamid.HBgNNTQ5MjIxNTIyMjkzORUCABIYIDA1NzdDODhCNTlF,5492215222939,2024-11-05 17:09:00,,"Gracias por tu mensaje! 
+El horario para turnos es de lunes a viernes de 15 a 18hs.
+POR FAVOR debe enviar el msj en el horario de atención, si fuera el caso de cancelación indique el N°6 u otras consultas el N°5 (solo se abordará un msj que req",Automática,Positiva,Información horaria,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDQ4NDcxMBUCABIYIDU2NzM1OUIxNjAw,5491144484710,2024-11-05 17:10:00,,"Bien, gracias",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTEzMzQyOTMzMxUCABIYIEMzQjcyOUQwMEFF,5491133429333,2024-11-05 17:10:00,,Ok,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzg1NTA3NDM5NhUCABIYIEM5NjFCNkJBNDQ2,5493855074396,2024-11-05 17:11:00,,Muchas gracias,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mjk5NTMxNzk4MBUCABIYIDk4NDFBNzM4MDRG,5492995317980,2024-11-05 17:11:00,,Muchas gracias.,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgwNDU2MTEwMhUCABIYFDNGODM0Qjg1OUMz,5493804561102,2024-11-05 17:15:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQ3NjU4OTUyNhUCABIYIEVBQzA4Q0E2NUNF,5493476589526,2024-11-05 17:54:00,,Ok,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTEzODUzOTkxNxUCABIYIENCMUJBQTQ2OEU3,5491138539917,2024-11-05 18:30:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQ0NDUzNDIyNRUCABIYIEQyNDc3QzgzM0Yz,5493444534225,2024-11-06 04:30:00,,Buen dia genial de pediatria,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTk4OTYzNRUCABIYIDIwMzM0MjBFMTE2,5491161989635,2024-11-06 09:13:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjYzNDMzMzExNxUCABIYIEQ1NTE4MEJERkIz,5492634333117,2024-11-06 10:50:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE1ODYwNTkwMBUCABIYIEI2Q0Q1ODRBRTlE,5491158605900,2024-11-06 11:22:00,,Gracias,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNjY1NzAzNhUCABIYFDJGRENBMTU5OUE1,5493816657036,2024-11-07 12:02:00,,"Buenos días ! No se realizan consultas por este nro. 
+Para turnos u otra consulta: +54 9 381 546 0373 ( centro)+ 54 9 3812480000 ( YB) Muchas gracias.",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjYxMjA4NjAzOBUCABIYFDJGREU4OTNFNkJE,5492612086038,2024-11-07 12:02:00,,"Gracias por comunicarte con Eugenia Quartara. 
+??Horario consultorio 
+Eugenia Quartara 
+??CRiSE
+Belgrano 846 Cdad 
+??Lunes de 9 a 17
+??Martes de 9 a 13 hs 
+??Miércoles de 9 a 17hs
+- [x]  Jueves de 9 a 13 hs 
+
+??Viernes de 9 a 15 hs
+
+P",Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE1Mzc2NTAyORUCABIYIDExNDU5N0E1QjE0,5491153765029,2024-11-07 12:02:00,,"Gracias por tu mensaje.
+En este momento no me encuentro disponible.
+
+Para turnos o consultas comunicarse a los lugares de atencion:
+
+*Consultas:*
+CLM: 9 de julio 3365. Tel 342 4521789. Whatsapp 3425093322
+
+*Electromiografias:*
+Instituto",Automática,Positiva,contacto,Asistencia Personal
+wamid.HBgNNTQ5MzUxNzUyOTQ4MBUCABIYFDJGMTk4MzZGNkFF,5493517529480,2024-11-07 12:02:00,,Hola!! ??Te comunicaste con el Consultorio de Pediatria. Si necesitas un turno entra al link que te dejo abajo en donde tenes disponible la agenda y la información de obras sociales y costos de las consultas. Cualquier otra duda que tengas escrib,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTEyMjgwNzA2MRUCABIYIDdEN0Q2NTY0OTlF,5491122807061,2024-11-07 12:02:00,,"Hola, no puedo atender en este momento. Para consultas médicas presenciales, virtuales, renovación  de órdenes y o prescripciones médicas solicite turno y presupuesto a la secretaria al mail  turnosdraseguranatalia@gmail.com  Muchas gracias!",Automática,Positiva,Solicitar turno y presupuesto,Asistencia Personal
+wamid.HBgNNTQ5MTEzNzc4NzY2MxUCABIYIEI1MEZEN0QyMkU1,5491137787663,2024-11-07 12:02:00,,"Gracias por comunicarte con DRA PERALTA XIMENA. 
+AUTO MENSAJE!!!!??
+
+URGENCIA ?? GUARDIA
+
+No se dan sobre turnos
+
+Recetas (dni y obra social, con tiempo medicación y cantidad)
+ se retiran rivadavia 14252 Ramos Mejía DIM
+O digital
+
+HONO",Automática,Positiva,Quieren que alguien se comunique,Asistencia Personal
+wamid.HBgNNTQ5MjI4NDY2MDc3ORUCABIYIDQ1NzZDQzNCNENE,5492284660779,2024-11-07 12:02:00,,"*Respuesta automática* 
+MENSAJE AUTOMÁTICO 
+
+POR FAVOR NO UTILIZAR ESTE MEDIO PARA REALIZAR CONSULTAS MÉDICAS.
+
+CERRADO DÍAS VIERNES
+
+
+Solicitud de turnos sólo por:
+
+www.artritispiel.com",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDE1MTg3ORUCABIYFDJGMUJERDE1OTBC,5491144151879,2024-11-07 12:02:00,,Agradecemos su contacto y le informamos que este mensaje está siendo gestionado por el Dr. LOPRESTI y su secretaria. *NO ENVIAR AUDIOS* Le daremos respuesta dentro de las 72 hs. Para programar consultas particulares o CONSULTAS VIRTUALES se puede,Automática,Positiva,Informacion,Asistencia Técnica
+wamid.HBgNNTQ5MjgwNDU0MDgzMRUCABIYFDJGMzJBODc4Qjc1,5492804540831,2024-11-07 12:02:00,,"!Hola! Este número es personal. 
+
+??No respondo consultas médicas de ningún tipo.
+
+En www.mariapresman.com.ar podes solicitar turnos o enviar consultas.        
+
+¡Saludos!",Automática,Neutral,Solicitud de contacto/información,Asistencia Técnica
+wamid.HBgNNTQ5MTEzNzc4NzY2MxUCABIYIEFFRDY0M0Y2RkZG,5491137787663,2024-11-07 12:02:00,,"En este momento no te puedo atender cuando me desocupe te respondo??????
+LUNES PACIENCIA????",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzg2NTI0ODAzNxUCABIYFDJGNzk2NDgxMzAz,5493865248037,2024-11-07 12:02:00,,"Gracias por tu mensaje. 
+Los turnos son programados por este medio.
+Para solicitud de turnos en el horario de 8-11 hs /  16-18hs de lunes a viernes. 
+No se realiza consultas médicas por WhatsApp",Automática,Positiva,Información sobre programación de turnos,Asistencia Técnica
+wamid.HBgNNTQ5MjY2NDI1NTg0NRUCABIYIEFFNTQ4NjE2MDk0,5492664255845,2024-11-07 12:02:00,,"Hola, para turnos  WSP  CERHU
+266 433-6996 /
+INNOVA 2665028293. HORARIOS de atención en perfil.... RECUERDE q las consultas por este medio son un Servicio por lo tanto llevan ORDEN MEDICA PREVIA?? y un horario prudencial x favor.
+ NO contestar",Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NTY4NTEyOBUCABIYFDJGRTcxNTFFNkJB,5491165685128,2024-11-07 12:02:00,,"Te comunicaste con tu doc! Éste es mi número personal, déjame tu inquietud con respecto a tu salud y te responderé en cuanto pueda. 
+
+Los turnos o recetas por favor solicítalos por WhatsApp al *11 6966-4334* para atenderte virtual , en Caballit",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE1Mzc2NTAyORUCABIYIEE4RTJBNEUyQUEy,5491153765029,2024-11-07 12:02:00,,"Gracias por comunicarte.
+Respondere tu consulta a la brevedad
+Para turnos comunicarse a los lugares de atencion:
+
+*Consultas:*
+CLM: 9 de julio 3365. Tel 342 4521789. Whatsapp 3425093322
+
+*Electromiografias:*
+Instituto Rizzoli: Belgrano 31",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzg3NDA4NjkxNxUCABIYIDRBOTE3NkYyMTNE,5493874086917,2024-11-07 12:02:00,,Gracias por comunicarte con Lourdes Loutayf. ¿Cómo podemos ayudarte?,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjY0NTY1Njk5MxUCABIYIDQwMDhCRUVBMTc5,5492645656993,2024-11-07 12:02:00,,"Gracias por comunicarte , en breve responderemos.",Automática,Positiva,Comunicacion,Asistencia Personal
+wamid.HBgNNTQ5MzUzNjU3NjAyMhUCABIYIDg4RTc4RDk1NjBF,5493536576022,2024-11-07 12:02:00,,"Gracias por comunicarte con Jorgelina Nicola.
+Realizo consultorio en CENTRO MEDICO LISANDRO DE LA TORRE días LUNES, MIERCOLES Y VIERNES a partir de las 14.30 hs.
+Turnos por wps:comunícate a *353-4528062*
+
+JUEVES en Neonacer ( cañada) a partir",Automática,Positiva,Información sobre disponibilidad y contacto,Asistencia Técnica
+wamid.HBgNNTQ5MTEzNDgyODQyMhUCABIYFDJGMzBBMDg1N0Ix,5491134828422,2024-11-07 12:02:00,,Gracias por comunicarte con la Dra Eugenia Balbuena. Por favor deje su mensaje será contestado a la brevedad.,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1OTYyMjY1MhUCABIYIEE5ODAyRTg1MEZG,5491159622652,2024-11-07 12:02:00,,"Gracias por tu mensaje. En este momento no puedo responder. 
+
+?? Si se trata de una Emergencia, llama a este mismo número. 
+
+?? Por turnos, aclará
+* Nombre y apellido del paciente
+* si es para French 3571 (Palermo) o Ciudad de la Paz 2426 (",Automática,Positiva,Solicitud de información sobre requisitos.,Asistencia Técnica
+wamid.HBgNNTQ5Mzg2NTI0ODAzNxUCABIYFDJGOUUwRUM4Qjgw,5493865248037,2024-11-07 12:02:00,,"Gracias por comunicarte con Dra Jorgelina Choquis, ENDOCRINOLOGA INFANTIL
+Atención a Pacientes menores de 20 años, de lunes -viernes, menos miércoles, horario 18:30-20:30.
+Consultorio San Expedito calle Obispo Colombres 2373, Concepción (TUC).",Automática,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDQ5OTczNBUCABIYFDJGMTgzOTE2QzQ5,5491144499734,2024-11-07 12:02:00,,MENSAJE AUTOMÁTICO Por favor no dejes mensajes de Audio! En  estos tiempos no puedo escucharlos!,Automática,Negativa,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2MjIyOTE1NxUCABIYIDg4N0Y0RDg1QzY4,5491162229157,2024-11-07 12:02:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible.",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk0NDYwNzQzNBUCABIYFDJGRkE1QUZCNTIy,5492944607434,2024-11-07 12:02:00,,"MENSAJE DE RESPUESTA AUTOMÁTICA:
+Las consultas por este medio tienen un costo de $10.000. Las visitas domiciliarias $100.000. La transferencia debe realizarse al siguiente alias: gris.crear.rezo.mp 
+Una vez acreditado el pago,me comunicaré con",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NTA2OTM1MBUCABIYIDBDMTA2NEQ4RTcy,5491165069350,2024-11-07 12:04:00,,"Gracias por tu mensaje. En este momento no puedo responder pero lo haré lo antes posible. 
+ATENCIÓN en el POLO 1 Pilar los  LUNES por la tarde
+Solicitar turno los días  lunes, miércoles y viernes de 9 a 15 hs Gracias??",Automática,Positiva,Solicitud de contacto y programación de turno,Asistencia Personal
+wamid.HBgNNTQ5MTE2NTA2OTM1MBUCABIYIEI0NkFFQzA0NjhD,5491165069350,2024-11-07 12:04:00,,Gracias por comunicarte con la Dra Laura Caruso. Dejame tu mensaje,Automática,Positiva,Contacto,Asistencia Personal
+wamid.HBgNNTQ5MTE2MTkwMzMwNxUCABIYIDY2RUM4NzU5RTI4,5491161903307,2024-11-07 12:04:00,,Hola. Gracias.,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDIwMjgyNhUCABIYIENCNUFBOTEyODFG,5491144202826,2024-11-07 12:04:00,,"Gracias por comunicarte! Por la alta demanda de consultas me resulta imposible responder de forma inmediata.
+
+Para turnos/consultas llamar al 47947244 
+Los Lunes, Martes y Jueves de 14 a 19 hs.
+Los Miércoles de 9:30 a 13:30 hs.
+Juan de Garay",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2Mjk5NzQ3MhUCABIYIDIyNjFGQTA0NTNE,5491162997472,2024-11-07 12:05:00,,Perfecto gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTU3MjczNBUCABIYIDgxMzFFRTYwRkZC,5493815572734,2024-11-07 12:08:00,,Muchas gracias ??,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzc2NDI5MDM1NRUCABIYIEQwQTBGNDA5Mzk2,5493764290355,2024-11-07 12:09:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMzg1OTk3NhUCABIYIDU4MzBCQ0U1RUIz,5493513859976,2024-11-07 12:10:00,,Gracias!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0OTcxMjM5MBUCABIYFDNBMjU4M0NDQTBG,5491149712390,2024-11-07 12:12:00,,Recibido . Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mjk5NDcwOTI3NhUCABIYFDNBRUIwNzMyQ0Y5,5492994709276,2024-11-07 12:13:00,,Gracias!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzg4NTA0MzE1NBUCABIYIEY0REVGOTQ3N0FE,5493885043154,2024-11-07 12:13:00,,????,Escrita,Neutral,No aplica,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDExMzIwOBUCABIYFDNBNTk1QjQ0Q0JB,5491144113208,2024-11-07 12:13:00,,Graciass,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMzAyNzM2ORUCABIYIEZFNzBEMUEyMzZC,5493513027369,2024-11-07 12:16:00,,Gracias ??,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNjU1ODMzNBUCABIYIDM0RDcxRTZENjA0,5493516558334,2024-11-07 12:20:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE2Nzg2NjM5MRUCABIYIDEyQzVCMTE2RUYy,5491167866391,2024-11-07 12:24:00,,Ppdria un apm visitarme?,Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2Nzg2NjM5MRUCABIYIDU3RDI3QjMyRkJE,5491167866391,2024-11-07 12:24:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1OTYwODQ5MxUCABIYIDExRDRCMzkxRUM2,5491159608493,2024-11-07 12:33:00,,Gracias,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NTk1MDQwORUCABIYIERENTk2NDI1REE5,5491155950409,2024-11-07 12:45:00,,??,Escrita,Neutral,Indefinido,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNjQ2OTMwMxUCABIYIDY5RUVEMTgyQkVG,5493416469303,2024-11-07 12:47:00,,Gracias por comunicarte con Doc Vicky Carrillo. ?,Automática,Positiva,agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0OTM5MzI2MRUCABIYIEY0NDU4REJGNUVC,5491149393261,2024-11-07 12:53:00,,Ok gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzQ3MjU4NzEyNRUCABIYIDAwQzQzN0RFNDkw,5493472587125,2024-11-07 13:14:00,,"Hace muchos años que desapareció el agente de propaganda médica en nuestra localidad, una lástima.",Escrita,Neutral,Ninguna identificada,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDc0NDA5NRUCABIYIDE3REY0MzVCQUE1,5491140744095,2024-11-07 13:17:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzQ3MjU4NzEyNRUCABIYIEUzMDFDRTRFOTdE,5493472587125,2024-11-07 13:19:00,,"Marcos Juárez, provincia de Córdoba",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTQ1MDM0MhUCABIYIDQ2ODZENERFN0Uw,5492215450342,2024-11-07 13:23:00,,Agendado,Automática,Neutral,Agendado,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjgxMjQxNRUCABIYFDNBNUE1MkVFQ0NC,5493512812415,2024-11-07 13:45:00,,Gracias!,Automática,Positiva,agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNTc2NjY3MRUCABIYIDMwNUI2RkFFOTJE,5493415766671,2024-11-07 14:18:00,,Nadie me visita,Escrita,Negativa,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE1OTg5OTM1ORUCABIYFDNBMDUzRkQzNUJF,5491159899359,2024-11-07 14:48:00,,????????,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTIyNjAzNRUCABIYIDExNDk3MTkyRTMy,5492215226035,2024-11-07 15:29:00,,??,Escrita,Neutral,Sin información,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDIwMjgyNhUCABIYIENGREI1ODIzNjE3,5491144202826,2024-11-07 17:08:00,,Graciassssss,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MDI4MTgyMhUCABIYIDMwMDg4MDBENjZD,5491150281822,2024-11-08 13:37:00,,Ok,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzc1NjQ1ODIxOBUCABIYIDlCMTg0RTQ0OUVB,5493756458218,2024-11-11 18:49:00,,https://checkout.pagos360.com/771a010c-a08e-11ef-a3e8-0a58a9feac02/card/debit,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzQyNDQyMTUxORUCABIYIDMyMDgxN0UyNjk5,5493424421519,2024-11-12 09:57:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,No aplica,Asistencia Técnica
+wamid.HBgNNTQ5MzQyNDQyMTUxORUCABIYIDUyQzY2MTNEMDQw,5493424421519,2024-11-12 09:57:00,,Buen día,Automática,Positiva,Ninguna identificada,Asistencia Técnica
+wamid.HBgNNTQ5MjMyNjQ2NTU1MRUCABIYIDM5NDNBRDQzMTJF,5492326465551,2024-11-12 11:31:00,,"NO SE ESCUCHAN AUDIOS!!!
+Hola gracias por comunicarse! Este es un mensaje automático del consultorio de la dra Victoria Coomans. 
+Martes CERRADO
+- turnos por whatapp.
+- Si es una urgencia consultar por guardia 
+- por recetas o consultas deje",Automática,Positiva,Consulta,Asistencia Personal
+wamid.HBgNNTQ5Mjk0NDY5MjcyNxUCABIYIEQ2MTY0MzQxNzY1,5492944692727,2024-11-12 11:31:00,,"Gracias por comunicarse con el dr. Ramón Derqui.
+
+ TURNOS:
+
+VLA.
+Centro médico San Camilo: 2944 495939.  Web: sancamiloconsultorios.wiri.la
+
+SMA. 
+Cto Médico los Andes: 
++54 9 11 6830-7677",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjMyNjQ2NTU1MRUCABIYIDVFRTNDRDJDNTQz,5492326465551,2024-11-12 11:31:00,,"NO SE ESCUCHAN AUDIOS!!!
+Hola gracias por comunicarse! Este es un mensaje automático del consultorio de la dra Victoria Coomans. 
+- por recetas o consultas deje su mensaje
+- Si es una urgencia consultar por guardia 
+Tu consulta sera respondid",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzQxNjkxMjI5MRUCABIYFDNBNEQ3MjMyQjk2,5493416912291,2024-11-12 11:31:00,,"Hola, si escribiste para realizar una consulta, interpretación de análisis o recetas electrónicas por este medio la consulta debe ser abonada como tal. Valor $10000 . Abonar en el siguiente alias: flor.pusillico
+Enviar luego comprobante, gracias",Automática,Neutral,Pago de consulta,Asistencia Personal
+wamid.HBgNNTQ5MjYxNTkzNzk1ORUCABIYIEJFQzAyNzJDNjk3,5492615937959,2024-11-12 11:31:00,,Gracias por comunicarte con DRA GABRIELA FRANCICA. ¿Cómo podemos ayudarte?,Automática,Positiva,No identificada,Asistencia Técnica
+wamid.HBgNNTQ5MTE2Nzg2MTkwNBUCABIYIDRBREJBQkI2REQx,5491167861904,2024-11-12 11:31:00,,"Se comunico con el celular del Dr. Cesar Robles B. Médico Hematólogo.
+Atiende únicamente con turno, de lunes a viernes de 08:00 - 15:00 horas en los consultorios externos del Hospital César Milstein.
+Para sacar turno en el formato presencial, d",Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTQ5MzM2NDI1NTE1NhUCABIYFDNBM0Q0QTdDRUFG,5493364255156,2024-11-12 11:32:00,,"Gracias por comunicarse con la Dra. Maria Padulo su mensaje sera respondido a la brevedad1) Para TURNOS puede sacarlos por la web o de forma telefonica *  www.institutosn.com.ar* 0336 -44326242) Para confección de RECETAS indicar medicacion, dni",Automática,Positiva,Comunicacion,Asistencia Personal
+wamid.HBgNNTQ5MTE1ODUxNzcyNxUCABIYIEU3RUFFMzdERDI0,5491158517727,2024-11-12 11:33:00,,"Buenas tardes!
+Soy de Esquel. Aquí tienen visitador médico?",Escrita,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNTkwNjg4MBUCABIYFDNBNjY2Q0M0OTlE,5493815906880,2024-11-12 11:46:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTEzNDgxMBUCABIYFDNBOTVCRTFBQjNG,5493515134810,2024-11-12 12:03:00,,????,Escrita,Neutral,Sin información,Asistencia Técnica
+wamid.HBgNNTQ5MTEzOTQwMjUxMRUCABIYIEE4NTJBNTlCRkI0,5491139402511,2024-11-12 12:07:00,,"*Respuesta automática* 
+Estaré fuera de Bs As hasta el 20 de Noviembre, con conectividad limitada. En caso de necesitar recetas, órdenes de estudios o programar consultas comunicarse de Lunes a Viernes  de 9 a 21 horas al Instituto  Cardiovascul",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzUxMzI5NDIwMRUCABIYIDhDM0UwNDVFMzZD,5493513294201,2024-11-12 12:35:00,,??,Escrita,Neutral,No se puede determinar,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDgyN0Q0REY5RkVF,5491151797569,2024-11-12 12:42:00,,Horario de atención de 7 a 19 hs de lunes a viernes. De 8 a 12 hs los sábados.,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDg5REZGQzA4QzM3,5491151797569,2024-11-12 12:44:00,,Buenas tardes,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIENEQzAzMDlGQ0Q0,5491151797569,2024-11-12 12:44:00,,Soy Dr Luciano Castiglione,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTMxNzIxMhUCABIYFjNFQjAyN0E3MkE5,5492215317212,2024-11-12 14:11:00,,muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIDE2ODU3ODlFOUI5MUU3REE3NDM4NDVBREM3QjkyQ0E3AA==,5493512215289,2024-11-14 11:02:00,,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible ??.",Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDExNDI1OBUCABIYIEVBNkJDMTM1MzFCOTk0QTAwOUY5OEY4NTgyMDdENTAxAA==,5491144114258,2024-11-14 11:02:00,,"*Respuesta automática* 
+ESTE WHATSAPP ES SOLO PARA REALIZAR VIDEOLLAMADAS CON TURNO PREVIO. NO ENVIE ESTUDIOS O MENSAJES, SALVO INDICACION DE LA DRA BLANCO. 
+
+Para RECETAS, CONSULTAS O TURNOS comunicarse en el lugar que se atiende:
+SAN MARTIN",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBQjNGRjExQkIzQThBN0MxQUI3AA==,5493764688425,2024-11-14 11:02:00,,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
+Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQwMjgxOBUCABIYIDUzODQ0RjYzRTI0NTg2RTc4NTY1QjkyRUJFQzc3MjBEAA==,5493814402818,2024-11-14 11:06:00,,"Saludos desde el Comité de Pie Diabetico de la Sociedad Argentina de Diabetes . Dra Casen . Hospital Centro de Salud .
+Recurso multimedia enviado: image/jpeg",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTE0OTA4NRUCABIYFDNBQzlEOTI2QjY2REE3NjkyOEZEAA==,5491151149085,2024-11-14 11:17:00,,Completamente de acuerdo,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNTcyMDM0OBUCABIYIDMwOUMzNTg0MkFENTI4NzAyQjBGRkIzNDgyQ0I0QkZGAA==,5493815720348,2024-11-14 12:58:00,,????,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEE3QTE3NjVGMzJDODIzNzlGM0NGRDIwQzc5OTI4RjkxAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEQyMzRFNzlFODEwRjQyQUQzRTlGQ0I3Rjk2NTgyODk4AA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEYxREE3NUM1QjZBQjA4OTI2NzAwNDgzQzgwMTg3REQxAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIENDRUY3REUwRkE5MzVERjVBRkVDQTMzNzVFNjJBN0Y1AA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEMyRENDRjZDOUYyNkM5MjhGM0FCMDZGQjA4M0MwQkFGAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIEI3Rjc4QzBENDM3MTlEQzFBNjdBRTgyNjI2OUZFMjRGAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIENEQkRFNEQ0MDI2MkFDQUY2QzY5NTFFOEVFQTk5QjFBAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIDQwMEM1MjUwRUU2QjEzRUVDRkI3QzhFOTJDRjE3NjFFAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNDQ4NTIzMRUCABIYIDEyNDRBOUFFMzREMkI1RUQ3RDVEREFDRTY3RDY2M0ZCAA==,5493814485231,2024-11-17 14:24:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTk0MTk5ORUCABIYIDU2NjNFMURDNkU5NjA5QUQzNDBEMjZFMEI3RTJBQ0Y1AA==,5493875941999,2024-11-19 08:20:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTk0MTk5ORUCABIYIDBGRDZCQTZDQzg3RDgxMzgzRTBBREEwNzAwNUJGMEMwAA==,5493875941999,2024-11-19 08:23:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTUyNDI2NRUCABIYIDE5MUM2M0E4NDhFRjEwNkNGN0Y3RDMwOUQ2NDZCNjBBAA==,5493515524265,2024-11-19 09:47:00,,Recurso multimedia enviado: audio/ogg; codecs=opus,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDMyRjk5QTY1RTkyQkIyQkI5REVCMzY5Q0RFMkI2NzRBAA==,5493704896554,2024-11-20 11:31:00,,hola gente,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDIxRjlBOEI2RkQ2MTE1MUY4MUM2Q0FDRUEwMDZDMDg2AA==,5493704896554,2024-11-20 11:33:00,,necesito comunicarme con un APM tema dosaje  A1AT,Automática,Neutral,Comunicación con un APM sobre dosaje A1AT,Asistencia Personal
+wamid.HBgNNTQ5MzcwNDg5NjU1NBUCABIYIDVBNjg0OUE2QzlBRkJFRTZDRkIyMjA3OTMzOTgzOTIzAA==,5493704896554,2024-11-20 11:34:00,,dese ya muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTUyNDI2NRUCABIYIEU1RDg3OTgwQzc1MUMyNUJFQTA2Nzk0NkNEQTJGQkE0AA==,5493515524265,2024-11-21 12:09:00,,Recurso multimedia enviado: audio/ogg; codecs=opus,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1OTA0NDY2NhUCABIYFDNBN0YyODE3NTExNENBRkZCOEJCAA==,5491159044666,2024-11-26 13:23:00,,"Buenas tardes !
+Quería saber si siguen enviándonos muestras/ kit para hacer análisis de la gota para enfermedad de Pompe?",Escrita,Neutral,Pedir información,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDNBNDFENUIwMjZDOTNBNDlDRkNCAA==,5491161617505,2024-12-04 14:01:00,,Hola buenas tardes,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDNBOUZENUNENzVBMTNDNzRGMDk3AA==,5491161617505,2024-12-04 17:31:00,,Quisiera asistir al evento de Neuromusculares del Dr DeVito,Escrita,Positiva,Quisiera asistir al evento de Neuromusculares del Dr DeVito,Asistencia Personal
+wamid.HBgNNTQ5MTE2MTYxNzUwNRUCABIYFDVFRkE5QjFDQjAzMkJFNzJGNjI3AA==,5491161617505,2024-12-05 05:06:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NDAzOTI4NBUCABIYIDQ2QzRBQzZBNUFBMTFFOEEzNEQ5OTMzOUE0MEE4RUJBAA==,5493874039284,2024-12-05 18:11:00,,Buenas tardes,Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NDAzOTI4NBUCABIYIEVFNkM1QTEzQzRDNjA2Njc2RTE5ODQ2MDE2QTM4RkY4AA==,5493874039284,2024-12-05 18:12:00,,Escribo para solicitar  para el paciente  información,Escrita,Neutral,Solicitud de información,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBOUYwNkI5ODhCMUZCMkVEMDdGAA==,5492216022134,2024-12-06 09:56:00,,"Nos complace anunciar la apertura de una nueva sede de Centro Médico Climed, ubicado en calle 50 esq. 18 en la ciudad de La Plata. Este trascendental  paso nos permite expandir nuestros servicios y ofrecer nuevos espacios especializados en la pre",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBQUREQTE2MzREODgwOUMzMThDAA==,5492216022134,2024-12-06 09:56:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIDA0QjM5QkY1OUE5NzRBMkY2REUzRjlENjNCQ0JBODg0AA==,5492616992562,2024-12-11 10:24:00,,Buenas tardes,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIDU0NTdDMjYyMEMwMDQ4MzU0QkY4REM3RDU3OUUzRTc1AA==,5492616992562,2024-12-11 10:25:00,,Soy médica hematología,Escrita,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MjYxNjk5MjU2MhUCABIYIEYyODkwMThDQ0FCNjM0ODRDQkU1MjZGOTcyNDA0OUY5AA==,5492616992562,2024-12-11 10:25:00,,Necesito contactarme con visitador medico en la región de Cuyo Argentina,Automática,Neutral,Contacto con un visitador médico,Asistencia Personal
+wamid.HBgNNTQ5MjYxNDcxNjk4MBUCABIYIDlBMDE4Njc4OUMyRjkyRkI0MzM5MTg4RDg0OEYwNkREAA==,5492614716980,2024-12-24 13:52:00,,"Felices Fiestas
+Recurso multimedia enviado: image/jpeg",Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5Mjk4MzQ2MzU5MRUCABIYIDBBQzhDNUE3MzMwOTI3QTg3MUZDMjFFOUU3NDZGMTBBAA==,5492983463591,2024-12-27 07:39:00,,Recibí las insulinas rebien!!! Gracias ??,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MzUxNTU3NzE2ORUCABIYIEE3NTMzMEU0MUVBMTA5MEQ0NTdDQjNFQTBFQTQyOEQ3AA==,5493515577169,2024-12-31 05:55:00,,https://www.facebook.com/share/p/9iFR8VxecSecXLdE/,Escrita,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMjAwOEJFMzJGNDk2MjQ0RTE5AA==,525580051703,2025-01-14 15:01:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjIwNjAzORUCABIYIDcxNTU3OUVDRkE3OEI5QzkwQTYxOTg1M0EzMEZBQjZFAA==,5493512206039,2025-01-17 15:27:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MzUxMjIwNjAzORUCABIYIDJBMEE4OUFFQ0MyMTRBREU0RjRBRTE4MTc0OTE4NUUyAA==,5493512206039,2025-01-17 15:28:00,,Ayuda,Escrita,Neutral,Solicitud de ayuda,Asistencia Personal
+wamid.HBgNNTQ5MjIxNDk1MTUwOBUCABIYIEM3NTNDQ0YxQjg2RDBDNzQxMTdGNEM5MzU3QjNCQkMyAA==,5492214951508,2025-02-07 15:42:00,,"Buen día soy el Dr Bertoni Facundo Otorrinolaringologo de la ciudad de La Plata ( Hospital Alejandro Korn y privado).
+Necesitaría información sobre protocolo para biológicos en rinosinusitis crónica ya que tengo pacientes que podrían beneficiars",Automática,Neutral,Pedir información adicional,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBRDc4NTBGQ0U5MjA3MEIyQzEyAA==,527224001278,2025-02-18 15:57:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTZBRjUxOEVEQjQzQUZFNUU4AA==,525580051703,2025-02-18 16:47:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMEZDRUYwQzI1NUY1RUMxQkQyAA==,525580051703,2025-02-18 16:47:00,,Campus Sanofi Cono Sur,Automática,Neutral,Ninguna identificada,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBNzkwMDg4QzBGOEE2Njg2QURFAA==,527224001278,2025-02-19 14:53:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBNTkyM0YzQ0JFMTQ4MUY4NkIzAA==,527224001278,2025-02-19 15:03:00,,"Hol
+Hol",Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDhFNDZFQkI5MTBFMDQ1M0RDAA==,525580051703,2025-02-20 13:38:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTIyNUI1MjgzNEY3NkIyMDNGAA==,525580051703,2025-02-20 13:39:00,,Campus Sanofi,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODY1MjI1NEIyNjM0RTY5ODkxAA==,525580051703,2025-02-20 14:12:00,,Cardiovascular,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDRDMjVBMkMxQTZCQURGNjZBAA==,525580051703,2025-02-20 14:20:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODgwRTdCNkQxNEFDNzBEOTVDAA==,525580051703,2025-02-20 14:20:00,,Campus Sanofi,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQTgzQkFEMjA5MUJGNEJGRTAxAA==,525580051703,2025-02-20 14:45:00,,Endocrinología,Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRUFBQTY2NDcwQ0ExRDM3NTAwAA==,525580051703,2025-02-20 14:45:00,,Inmunología,Automática,Neutral,Más Información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMkU4RkIxMzc2Q0NBQkI0QUJDAA==,525580051703,2025-02-20 14:45:00,,Enfermedades Raras,Automática,Neutral,Informacion,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNjlEMEQ0MDIzNjAxQTVERDkzAA==,525580051703,2025-02-20 14:45:00,,Vacunas,Automática,Neutral,Informacion,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTYzQzQxNUExRjY5Q0E3RDZEAA==,525580051703,2025-02-20 14:45:00,,Oncología,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzE3QzkzOTJFRDQzN0I5ODYwAA==,525580051703,2025-02-20 14:45:00,,Cardiovascular,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMTAxMUZFQkNDNjc1RUE5NkM0AA==,525580051703,2025-02-20 14:45:00,,Trasplantes,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTI0QjY4QTg4ODFGNkFCNjVGAA==,525580051703,2025-02-20 14:46:00,,Volver al menú,Automática,Neutral,Volver al menú,Asistencia Personal
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDQzNjIwNzBCRjQ3OTMzNzdBAA==,525580051703,2025-02-20 14:47:00,,Menú,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzRFQzgxRkU0OTZDNEVDRUZDAA==,525580051703,2025-02-20 15:13:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNDVDOEIwREU2MkVEOUEzQzAxAA==,525580051703,2025-02-20 15:13:00,,Campus Sanofi,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzgwMDYxMEY5MTEwRTg0ODQ3AA==,525580051703,2025-02-20 15:14:00,,Inmunología,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMDFGMUFFMDQxQzNGMTI5NzRFAA==,525580051703,2025-02-20 15:14:00,,Cardiovascular,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNUZENkZCMUM5MUNCQzk5RjM0AA==,525580051703,2025-02-20 15:14:00,,Endocrinología,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQkZCNDE5NDMxMUY2MDBFQjNDAA==,525580051703,2025-02-20 15:14:00,,Oncología,Automática,Neutral,Pedir más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBREJCMjVCRTlDMUM5ODcwRDE5AA==,525580051703,2025-02-20 15:14:00,,Trasplantes,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNUU4RDI4MDcxMDA5QjEwNjJBAA==,525580051703,2025-02-20 15:14:00,,Vacunas,Automática,Neutral,Más información,Asistencia Personal
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMTUwRUYxRjYyMjM2NUEyNUU4AA==,525580051703,2025-02-20 15:14:00,,Enfermedades Raras,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMUY2QjJGRENFQTlFRDE1NkUyAA==,525580051703,2025-02-20 15:15:00,,Ayuda,Escrita,Neutral,Solicitud de ayuda,Asistencia Personal
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMkE0NTRDQjA0NEUxN0U4RDRDAA==,525580051703,2025-02-20 15:15:00,,Farmacovigilancia,Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMDI2NjYyQjAxN0Q0RDNCQjJEAA==,525580051703,2025-02-20 15:15:00,,Conozca más,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMEY0NzhENEQ4MzNGRTAwN0Y2AA==,525580051703,2025-02-20 15:15:00,,Volver al menú,Automática,Neutral,Volver al menú,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBODYzRDE0N0NFNEE0OTQzRDc2AA==,525580051703,2025-02-20 15:15:00,,Ayuda,Escrita,Neutral,Solicitud de ayuda,Asistencia Personal
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBQ0Q2RDIzMkMxQUUwMDNGRkVEAA==,527224001278,2025-02-20 15:25:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBQkE1MkFCQzE5MzMzNzU1RUY0AA==,527224001278,2025-02-20 15:26:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNzI1MkExNUQ1M0M5REM0OURBAA==,525580051703,2025-02-20 15:26:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTY1MDJFRTkyQzVDMTRCNkM1AA==,525580051703,2025-02-20 15:27:00,,Campus Sanofi,Automática,Neutral,Ninguna identificada,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOUExNDBFODYyNTNGQjVCMjg0AA==,525580051703,2025-02-20 15:27:00,,Farmacovigilancia,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOEU4Mzg3NTY5MUVFMDFGODQ1AA==,525580051703,2025-02-20 15:27:00,,Conozca más,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRTQ0RkRCOUMxQUI5MEI4RDdFAA==,525580051703,2025-02-20 15:27:00,,Ayuda,Escrita,Neutral,Solicitud de ayuda general,Asistencia Personal
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBMzZCQkU3NjNCQjY4MDlENzUzAA==,525580051703,2025-02-20 15:28:00,,Volver al menú,Automática,Neutral,Volver al menú,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTIzOEFDRDg4ODkyRjZBMUQyAA==,525580051703,2025-02-20 15:28:00,,Ayuda,Escrita,Neutral,Solicitud de ayuda general,Asistencia Personal
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBOTQ4NUU0M0YxNzBDRUFEM0JGAA==,527224001278,2025-02-20 16:26:00,,Campus Sanofi,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRDAwNjZCNjRFQURFQUU0QTRDAA==,525580051703,2025-02-20 16:26:00,,Campus Sanofi,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQjVDQkNGNzBCMTMxQjA4NzFBAA==,525580051703,2025-02-20 16:27:00,,Cardiovascular,Automática,Neutral,Pedir mas información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNzdFRTBBOEZERkJFOTIzMEM2AA==,525580051703,2025-02-20 16:27:00,,Endocrinología,Automática,Neutral,más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBOTIzMkNCNEJCMzYzNTA5ODMzAA==,525580051703,2025-02-20 16:27:00,,Enfermedades Raras,Automática,Neutral,Pedir más información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBQkFGOEQxMkQxRTc4NTA0NEEwAA==,525580051703,2025-02-20 16:27:00,,Inmunología,Automática,Neutral,,Asistencia Técnica
+wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0FGQzI2QTg4OTI2RjYzNzA3MDYA,573128438532,2025-02-20 16:51:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNTU1OTMwMjE5MhUCABIYIEUwOUVFNjY4MEY3QjA5NkRFRDNCNkNBNDkxODkyQUZGAA==,525559302192,2025-02-20 17:16:00,,Farmacovigilancia,Automática,Neutral,Solicitud de información,Asistencia Técnica
+wamid.HBgNNTIxNTU1OTMwMjE5MhUCABIYIDcwN0I0QUM4MTI0Mjg2NkFERDk3QUU5M0UzMUFFRjIxAA==,525559302192,2025-02-20 17:20:00,,Volver al menú,Automática,Neutral,Volver al menú,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIDQwRTc2MDY2NDdBQzc4MTYyM0RDRkM1RDUwQkJGQ0U5AA==,5491156338661,2025-02-25 10:22:00,,Buenas tardes,Automática,Positiva,Ninguna identificada,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIEJGNDQ0NzExRjAyNUEyQkE0RTQ0RjkxODBGRDZDMUJBAA==,5491156338661,2025-02-25 10:22:00,,Soy el Dr.Bertorello del Hospital Argerich,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NjMzODY2MRUCABIYIDFENDIzMTE2QzY3MzU0M0JGM0UxNzc4QzJGQjlCQUMwAA==,5491156338661,2025-02-25 10:23:00,,Necesito contactarme con algún APM,Automática,Neutral,Contacto con APM,Asistencia Personal
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBOUEwOUVDMkQwRDlDRDk3RjcyAA==,527224001278,2025-02-25 14:44:00,,Cardiovascular,Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBNTBEODc2QzgyRTQxRjA1MjFBAA==,525580051703,2025-02-25 17:48:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NTE0MTg4MBUCABIYIEE5RkJDQ0E4MzkzOUI1QjRDMTY4MkFEMTBBRERFMUI0AA==,5491155141880,2025-02-25 18:11:00,,Hola!,Escrita,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBRkVCNkZFQ0YyMjgwQTcyNUMwAA==,527224001278,2025-02-26 08:06:00,,Campus Sanofi,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBODA5Qjg0NUI4MUE5NUMyM0E5AA==,527224001278,2025-02-26 08:06:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTIxNzIyNDAwMTI3OBUCABIYFDNBMEMzODVEMjQyN0M2MEFDRDRBAA==,527224001278,2025-02-26 08:07:00,,Cardiovascular,Automática,Neutral,,Asistencia Técnica
+wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0E4NDU1QjQ3OTNFMkFCMDAzNjcA,573128438532,2025-03-04 09:57:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgMNTczMTI4NDM4NTMyFQIAEhgUM0FCNjFDMDM4MEQ1QTU5NTAxRUMA,573128438532,2025-03-04 10:05:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2OTMwOTU5MxUCABIYIDgyN0IxOEVDMTZGODcxRkE2QUIxQzZDQTZBNzAwQ0RDAA==,5491169309593,2025-03-08 08:27:00,,https://www.mercadolibre.com.ar/balanza-digital-bano-personal-corporal-personas-180-kg-sensor-temperatura-femmto-bws01/p/MLA15503957?pdp_filters=item_id%3AMLA1154216485#sid%3Dshare%26wid%3DMLA1154216485,Escrita,Neutral,Solicitud de Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBNUJBN0QzREQ4MzQxMTY0RjY1AA==,5491140881757,2025-03-10 06:16:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBOUUxQkU5Q0ZGMDk0Q0YxQ0Q0AA==,5491140881757,2025-03-10 06:17:00,,Endocrinología,Automática,Neutral,Más información,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBNUJBRDgyMjk1M0Y1QTVDNjgxAA==,5491140881757,2025-03-10 06:17:00,,Volver al menú,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBMzkxQjI4QjE2NzkwOEJCNzY4AA==,5491140881757,2025-03-10 06:17:00,,Campus Sanofi,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBMzc3RDE0MENCOEM2RUE3RkI4AA==,5491140881757,2025-03-10 06:18:00,,Campus Sanofi,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDg4MTc1NxUCABIYFDNBRUMxQjk2RTVCNzkzQTVGNDk2AA==,5491140881757,2025-03-10 06:18:00,,Vacunas,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NDEzNTA5NRUCABIYIDcxODNFMDAwQUZERUM5QjFBNTI2MzE2QTg1QUExQjEwAA==,5491154135095,2025-03-27 15:01:00,,"Lugares de atención.
 
 Miércoles. 9 a 12 hs ASIMRA. Paso 86. Tel. 423422
 
@@ -732,135 +739,128 @@ Bolívar 125   Tel 430567
 Viernes 11.30 a 15 hs
 bolívar 148. Tel 422252
 
-TURNOS WEB en Bolívar 125 y",Información sobre lugares de atención,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIDM5N0U5RTU2NEJD,5493512215289,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible ??.",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxMjIxNTI4ORUCABIYIEUyRDc2QTQ2NDU2,5493512215289,2024-11-04 16:29:00,,Automática,Positiva,Gracias por comunicarte con Endocrinóloga Garayalde María. ¿Cómo podemos ayudarte? Nos pondremos en contacto con usted tan pronto sea posible ??,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzg3MjI1OTYyMxUCABIYIEMwQ0MxMUUwMEU0,5493872259623,2024-11-04 16:29:00,,Automática,Neutral,"Hola . No se hacen consultas , no se dan turnos ni se reciben estudios por esta vía. Por Turnos y consultas comunicarse al 3875600466/3874675854",Información,Asistencia Técnica
-wamid.HBgNNTQ5Mzc1NTQzMzMxMRUCABIYIEZGMDI4RTVEQzUy,5493755433311,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por comunicarte con Biolacsrl. ¿Cómo podemos ayudarte?
+TURNOS WEB en Bolívar 125 y",Automática,Neutral,Informacion,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NDA4NjkxNxUCABIYIDY5Rjg5QjEzRTdGRDAyMTM4MUY3REE3QzIzREEwMDM0AA==,5493874086917,2025-03-27 15:01:00,,Gracias por comunicarte con Lourdes Loutayf. ¿Cómo podemos ayudarte?,Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGNDc3ODlGQ0Y5RkNBQjgxM0IyAA==,5492284575748,2025-03-27 15:01:00,,"???? NO ESTOY TRABAJANDO HASTA EL 23/04 
+Este celular no es para urgencias ni para turnos.  Por favor , no enviar audios.  Muchas gracias 
 
-??IMPORTANTE??Graba mi número de telefono en tus contactos para poder recibir mis mensajes de otra forma no te llegaran
+Turnos en Olavarria: 
+Teléfono fijo : 2284-410511
+Por WA : 2284-524267
+???? o puede sacar a través d",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MzQxNjU4MzU3NRUCABIYIEQ4NjA3N0EwM0ExNTYxMDE5QjY3MzZCM0U1OUQ0REREAA==,5493416583575,2025-03-27 15:01:00,,"Hola, para turnos podés comunicarte a:  IMEC 341 2985581/ WhatsApp 3416931680.
+Para recetas electrónicas deja número de DNI  y los medicamentos que necesitas. En el curso de las 72 ha horas siguientes serán realizadas.
+Muchas gracias",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjI4NDU3NTc0OBUCABIYFDJGMDAzNUIxMkQzOThBQTcxRDc3AA==,5492284575748,2025-03-27 15:01:00,,"????NO ESTOY TRABAJANDO HASTA EL 23/04 
+Este celular no es para urgencias  ni para sacar turnos ,
+No enviar mensajes de audio , por favor. Muchas gracias 
 
-Te podés comunicar también a los fijos:
+Por Turnos en Olavarría:  
+teléfono fijo : 2284-410511
+Mensaje al WA 2284524267 
+En",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NDg3MDExMxUCABIYIDc4MTk1NEIyNUE2RTBENkI5MzJDRUNENjU3Q0QxOThGAA==,5493874870113,2025-03-27 15:01:00,,"Me encuentro fuera de mi horario de atención (9-16 hs).
+                  *Respuesta automática*",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NTY4NTEyOBUCABIYFDJGM0MxOTZEMjlFNzVBOEJFMDBCAA==,5491165685128,2025-03-27 15:01:00,,"Te comunicaste con tu doc! Éste es mi número personal, déjame tu inquietud con respecto a tu salud y te responderé en cuanto pueda. 
 
-03755 406908/4",Comunicación personalizada,Asistencia Personal
-wamid.HBgNNTQ5MjkxNjQ0OTc1NRUCABIYIDgzRDQ3MTBGODc5,5492916449755,2024-11-04 16:29:00,,Automática,Neutral,"Para turnos y papeles (recetas, pedidos de estudios, etc) comunicarse con el Htal Italiano (wa 2915353475), CEMASUR (cemasur.com.ar o mail centromamariosur@gmail.com)  o MERIDIEM (2915320828).",Informacion,Asistencia Técnica
-wamid.HBgNNTQ5Mzc3NzU3NTc4NxUCABIYFDNBN0Q1NEQxMUEz,5493777575787,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por tu mensaje. En este momento no estamos disponibles, pero te responderemos tan pronto regresemos.",Contacto,Asistencia Personal
-wamid.HBgNNTQ5MzUxMjMxMTY2ORUCABIYIDhFQ0FCN0FCQUFC,5493512311669,2024-11-04 16:29:00,,Automática,Neutral,"*Mensaje automático*
-Hola! Me encuentro de licencia por vacaciones, cuando esté de regreso me contacto! ??",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzc3NzU3NTc4NxUCABIYFDNBNTdBQzg1RDA3,5493777575787,2024-11-04 16:29:00,,Automática,Positiva,"Gracias por comunicarte con Julieta Pitton. Por favor, haznos saber cómo podemos ayudarte. Si desea un turno recuerde aclarar su nombre y apellido y si el turno lo prefiere por la mañana o por la tarde.",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGREM2M0RBRjA1,5493816124405,2024-11-04 16:29:00,,Automática,Neutral,"*?? LEER*?????? *MUY IMPORTANTE*
-Sólo mensajes de WhatsApp- ??*NO* ?? llamadas. *NO* ??? Audios.
-Horario de Hoy de ? *11:00 a 19:00 Hs*
+Los turnos o recetas por favor solicítalos por WhatsApp al *11 6966-4334* para atenderte virtual , en Caballit",Automática,Neutral,Solicitud de comunicación,Asistencia Personal
+wamid.HBgNNTQ5MjY2NDU3MjM4OBUCABIYFDJGN0U1QTBCODg5NkYyMzMwNzlGAA==,5492664572388,2025-03-27 15:01:00,,"Hola, gracias por su contacto; el horario laboral es de 9 a 17 hs de lunes a viernes. 
 
-*VACACIONES* del 09/11 al 09/12*
+Es una respuesta automática.  *RE ENVÍE SU MENSAJE, por favor, en ese horario. Sino lo hace no lo veré*. 
 
-*_NO SE DAN TURNOS en este número sólo estará disponible para ENVIO D",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDdCMEI2NDlBQzhC,5493434508848,2024-11-02 16:32:00,,Escrita,Neutral,Perdon me equivoque,Solicita disculpas,Asistencia Técnica
-wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDA3RDdCRjk1QzE3,5493434508848,2024-11-02 08:16:00,,Escrita,Neutral,No te asustes,N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIDc2QkJCN0JBREI1,5493434508848,2024-11-02 08:16:00,,Escrita,Neutral,Zi,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIEREQ0I3NzQyRDQ4,5493434508848,2024-11-02 08:16:00,,Escrita,Neutral,"No se hi,o quilombo",No aplica,Asistencia Técnica
-wamid.HBgNNTQ5MzQzNDUwODg0OBUCABIYIEREMkU3QzA3MDBD,5493434508848,2024-11-02 08:16:00,,Escrita,Neutral,Si,,Asistencia Técnica
-wamid.HBgNNTQ5MjkxNDc3NDQ0ORUCABIYIDM1NDk1RUQ3OTI4,5492914774449,2024-11-01 15:37:00,,Automática,Positiva,Gracias !!!!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNDQwMjgxOBUCABIYIDFCNTNEMjJBMUY0,5493814402818,2024-11-01 15:32:00,,Automática,Positiva,Gracias!,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTY0Njc3MBUCABIYIDZDRjc1MjVDNEE4,5493815646770,2024-11-01 15:18:00,,Automática,Positiva,Perfecto,ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjEzODM4MRUCABIYIEI4RjJDQTU4RDQ2,5493516138381,2024-11-01 15:11:00,,Automática,Positiva,"Ok, muchas gracias",agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTA1ODcwNRUCABIYFDNBNjUzNDUwRDg5,5493815058705,2024-11-01 15:07:00,,Automática,Positiva,"Ok , muchas gracias",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzc5NDg2ODgyMxUCABIYIDQxQjJDNzcxOTRC,5493794868823,2024-11-01 15:07:00,,Automática,Positiva,Gracias Sanofi Arg siempre atentos.,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MjMxNzQwMjE5NBUCABIYFDJGRDQ3NTZDODAz,5492317402194,2024-11-01 15:06:00,,Automática,Positiva,"Gracias por comunicarte, por recetas y turnos comunicarse al consultorio correspondiente.
-Corpus. 2317523636. 2317446606
-Crek 2395424665
-Diagnos 2314427087",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5Mzc3NzU3NTcxMBUCABIYIEU1MDlDMTlCQUMx,5493777575710,2024-11-01 15:05:00,,Automática,Neutral,???? Dra Joerin . Pediatra de Corrientes,Pedir información,Asistencia Técnica
-wamid.HBgNNTQ5MzUyNTU0NDM3OBUCABIYIDFFNjY4REM3NDE0,5493525544378,2024-11-01 15:05:00,,Automática,Positiva,Gracias,N/A,Asistencia Técnica
-wamid.HBgNNTQ5Mzc2NDI3MDkyNBUCABIYIDIyQzE5OEFFNkQw,5493764270924,2024-11-01 15:01:00,,Automática,Positiva,Gracias por comunicarte .En este momento no puedo atenderte te escribo más tarde,Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE0NDA4MzYyNRUCABIYFDJGOEE0NDdDNTVE,5491144083625,2024-11-01 15:01:00,,Automática,Positiva,"Gracias por comunicarte. Por favor, sin audios. En cuanto pueda, me comunico. Podés mandarme un mail bonadeom@gmail.com
-Gracias ??",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE0MDcyNTQ3OBUCABIYIDQ3MDVCOTBGOUU2,5491140725478,2024-11-01 15:01:00,,Automática,Neutral,"Se ha comunicado con el celular de la Dra Andrea Dimango.Para turnos;recetas o consultas llame al 42003505,42540315. o x wapp al 1122546427.De lu a vi de 10 a 19hs.Las recetas se realizan SOLO en la consulta.No solicite recetas x wapp.",Información,Asistencia Técnica
-wamid.HBgNNTQ5MjgwNDcwNTQ5NhUCABIYFDNBNkE5RkRFQjY1,5492804705496,2024-11-01 15:01:00,,Automática,Neutral,"Hola ! Soy Cañadas Nadia médica dermatóloga, en qué puedo ayudarte ? 
+Antes de hacerlo, tenga en cuenta que:
+- Mi lí",Automática,Neutral,Información,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MTc5NzU2ORUCABIYIDIyQUE0NDM4MEMzM0M0RTU4QjI3Q0Q1RjU4RDM1RDMzAA==,5491151797569,2025-03-27 15:01:00,,Horario de atención de 7 a 19 hs de lunes a viernes. De 8 a 12 hs los sábados.,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzU2NDQ3MDAwMBUCABIYIDVEN0I2NjMxMTY2ODZFMzUwMEQ2RTFBNTIwQTc4NzQwAA==,5493564470000,2025-03-27 15:01:00,,"No sé realizan recetas, planillas.ni se ortogan turno por  este medio,para estos fines comunicarse al 434922 o con secretaria Fabiana,este teléfono es solo para consultas de urgencia!",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGMjMxNUIxNUFEMzU2RDc2NDRFAA==,5493816124405,2025-03-27 15:01:00,,"*Hola!*???? 
 
-1- Resultados de estudios envíalos a dermatologa.ayurmed@gmail.com
-2- Consultas ! Envía los datos a 2804957010 
+*Se responderá de ? 8:00 a 16:00 Hs*
+Le suplicamos *LEA ??* porque su respuesta puede estar acá
 
-Estamos en el consultorio CN Dermatología & Estética en c",Consultas y envío de resultados,Asistencia Personal
-wamid.HBgNNTQ5MjgwNDcwNTQ5NhUCABIYFDNBREIwODI0OTRD,5492804705496,2024-11-01 15:01:00,,Automática,Positiva,"Gracias por tu mensaje!  
-El horario de atención es lunes miércoles y viernes de 14-19hs, martes y jueves de 9-12hs.
-Si ya sos paciente y estás agendado podes enviar tus estudios a dermatologa.ayurmed@gmail.com y solicitar o modificar el turno",Solicitud de información,Asistencia Técnica
-wamid.HBgNNTQ5MjQ3NDY2NjMzMBUCABIYIDJDQzJFMjRENkYz,5492474666330,2024-11-01 15:01:00,,Automática,Neutral,".Este es un mensaje automático
-Para consultas en Chacabuco solicitar turnos al 2352-470780  La Rioja 158 de 9.30hs a 13.30hs, o podes entrar en la pagina gastoncapodarco.ar y sacar tu turno
-Lunes por la tarde centro cardiologico chacabuco
-Cons",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBNkVBRDM4NkM0,5493764688425,2024-11-01 15:01:00,,Automática,Positiva,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
-Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MjM2NDY5MzA1MRUCABIYFDNBMDQ1OERDNkVB,5492364693051,2024-11-01 15:01:00,,Automática,Neutral,"? Buenos días!  Estimados pacientes para solicitud de  TURNOS , TRÁMITES ADMINISTRATIVOS y RECETAS,   por MENSAJE de TEXTO de   WhatsApp al 2364534112 de  Lunes a Viernes, de 10 a 17 hs.",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEzMzMxMDc3MxUCABIYIDg4QUQ2RDMwMzA5,5491133310773,2024-11-01 15:01:00,,Automática,Neutral,"Dra. Daniela A Bruno
-Especialista 
-Hematología 
+Tenga paciencia ?? 
 
-??Consultorio particular 
-Atención Inmediata Lunes 14-16 hs  Paramaribo 888 
-Escribir al 11-25705589
+*ESTE ES UN MENSAJE AUTOMÁTICO*
 
-??Lunes: 9,30-13 hs Las Lomas San lsidro 
-??Martes: 9,00-12hs  Paramaribo 888 San Isid",Información sobre horarios y ubicaciones,Asistencia Técnica
-wamid.HBgNNTQ5Mzc2NDY4ODQyNRUCABIYFDNBMTFGRURDRjJG,5493764688425,2024-11-01 15:01:00,,Automática,Positiva,"Soy la Dra. Elizabet Mendez, Médica Diabetóloga, estoy para brindarte atención y asesoramiento en el manejo de la Diabetes.r
-Agradezco tu interés y confianza en mi atención. Espero poder ayudarte en tu camino hacia un mejor manejo y tratamiento",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MjY0ODg0MRUCABIYFDJGOEM2Qjg2RDc1,5491162648841,2024-11-01 15:01:00,,Automática,Positiva,"Gracias por comunicarte, el horario de respuesta rige entre las 8 hs y 19 hs, de lunes a viernes, gracias",Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzgxNTg0ODU2MBUCABIYFDNBMzQyQTRCMDY0,5493815848560,2024-10-31 16:39:00,,Escrita,Neutral,????,,Asistencia Técnica
-wamid.HBgNNTQ5MTE0OTc0MzU4NhUCABIYIEYwNTQ5Rjc4Rjcy,5491149743586,2024-10-31 16:15:00,,Automática,Positiva,Gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5Mzg3NTAwODU1MBUCABIYFDNBMjE3N0M3QzMx,5493875008550,2024-10-31 15:51:00,,Escrita,Neutral,Hola,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNTQ4NDQ4NhUCABIYIDY2NUYxQkI0RTZB,5493515484486,2024-10-31 15:43:00,,Automática,Neutral,"*Respuesta automática* 
-Estimado paciente para solicitar turnos, recuerde hacerlo con antelación, las agendas se abren los días 20 de cada mes. Comunicarse a CURF 4142121 o Centro Pedrazzoli 4517519. A este número comunicarse solo por urgencias.",N/A,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjY1Mzk0MBUCABIYFDNBOUQwRkJGNkQz,5493516653940,2024-10-31 15:17:00,,Automática,Positiva,Perfecto,,Asistencia Técnica
-wamid.HBgNNTQ5MjIzNTI4MDgzNBUCABIYIDg1Rjk1M0Y4QzYx,5492235280834,2024-10-31 15:10:00,,Automática,Positiva,Me gustaría tener muestras de vuestros productos...gracias,Solicitud de muestras,Asistencia Técnica
-wamid.HBgNNTQ5MzQ3MTY4NjIxMBUCABIYIDE5OTE1MzNDQUYw,5493471686210,2024-10-31 15:09:00,,Escrita,Negativa,Hace años que no me visita sanofi,Contacto,Asistencia Personal
-wamid.HBgNNTQ5MTE2NjM2NDU3OBUCABIYIEEzRDkxODgwQ0Mw,5491166364578,2024-10-31 15:09:00,,Automática,Positiva,Muchas gracias,Agradecimiento,Asistencia Técnica
-wamid.HBgNNTQ5MzUxNjc3NDA5MRUCABIYIDI3M0FCN0YyRURF,5493516774091,2024-10-31 15:04:00,,Automática,Positiva,Gracias,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTEzNjE4MzEyNRUCABIYFDNBNTA3QUJBQjZG,5491136183125,2024-10-31 15:01:00,,Automática,Positiva,Genial,,Asistencia Técnica
-wamid.HBgNNTQ5Mzg4NjMwMzY0OBUCABIYFjNFQjA1MDU5OTY3,5493886303648,2024-10-31 15:01:00,,Automática,Neutral,estamos buscando patrocinadotes,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5Mzg4NjMwMzY0OBUCABIYFjNFQjBDQkMzOEY0,5493886303648,2024-10-31 15:01:00,,Escrita,Neutral,hola,,Asistencia Técnica
-wamid.HBgNNTQ5MTE0NDE2NjczMRUCABIYIEIwNkVCOENCMDJB,5491144166731,2024-10-31 15:00:00,,Automática,Neutral,"Se comunicó con el Dr. Fernando Fernández.
-Su mensaje será respondido a la brevedad
+??No se dan turnos en este número.
+??No recibimos llamadas.
+??No envia",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE1NzYwNjU4MhUCABIYIDkwOEE3QUMxRThBQTA0Nzc4NDRCOThBOUY0Qjk5MjUwAA==,5491157606582,2025-03-27 15:01:00,,"Gracias por comunicarte! por la alta demanda, no puedo responder mensajes en forma inmediata. 
 
-Para consultas de turnos y horarios
-www.cmlibertador.com
-O comunicarse al consultorio 4743-5909 / 4742-9487
+Para reservar turnos particulares: 
+- Vicente Lopez: 11-4158-7397
+- CABA: 11 2513 7859
 
-El uso de este medio puede ser interpretado c",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MjIxNjE4MzM2NxUCABIYIDRGQjJGOTg3RTk3,5492216183367,2024-10-31 15:00:00,,Automática,Neutral,"Ante una urgencia concurrir a la guardia más cercana, a la brevedad será respondido su mensaje.",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MTE2NDE1NDU5NxUCABIYFDJGNzc4QkFBOUJB,5491164154597,2024-10-31 15:00:00,,Automática,Positiva,"Gracias por comunicarte. Este Número no es para urgencias. Ante cualquier situación urgente por favor dirigirse a una guardia médica.En este momento no estoy disponible, pero te responderé a la mayor brevedad dentro del horario de mi consulta méd",Comunicación,Asistencia Personal
-wamid.HBgNNTQ5MjIxNjE4MzM2NxUCABIYIDdDQzBENzczNzlC,5492216183367,2024-10-31 15:00:00,,Automática,Positiva,"Gracias por comunicarte con Romina Adorni. 
+Consultas vía mail: consultoriofabianavazquez@gmail.com",Automática,Positiva,Agradecimiento por la comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzQxMzE3MjEzMBUCABIYIEVGN0U0NzhEREMwMTE0QjI5MzhFQTY5OEM5RTc4MkEwAA==,5493413172130,2025-03-27 15:01:00,,"Gracias por comunicarte con el Buzón electrónico de recetas Pami. Debe enviar:
+*Nombre y apellido
+*DNI
+*N° de afiliado
+*Médico de cabecera
+SOLO EN EL CASO QUE HAYA ALGUNA MODIFICACIÓN EN SUS REMEDIOS INDIQUE CUÁL ES LA MISMA. 
+SÍ ES MEDICAC",Automática,Positiva,Solicita información y especificación sobre modificaciones a medicamentos.,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MzMxNjg5MBUCABIYIDFGQTI1RkJEQUJBQUI4NUNDNUNDODM1Qzc3QUUxRDA5AA==,5491153316890,2025-03-27 15:01:00,,"*Respuesta automática* 
+Estoy de vacaciones. Me reintegro el 08/04/25
+Por urgencias, pacientes de FEM, contactar a la Dra Mariela Schonfeld doctoramarielaenlomas@gmail.com",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNjEyNDQwNRUCABIYFDJGREU5MEYzOUUzMEI4MDVGODM2AA==,5493816124405,2025-03-27 15:01:00,,"_Gracias por comunicarte_ ??????
 
-Los turnos los deben solicitar los mismos pacientes a través de los siguientes métodos
+Nuestros días de atención: Lunes a Viernes de 8:00 a 16:00 Hs 
 
-Días y horarios de atención
+*MUY IMPORTANTE* ??
+El número
+??????*3816 48-7597*??????
+de calle Próspero Mena *????fue Hackeado*????!!! 
 
-Hospital Español lunes, jueves, viernes vía web https://www.hospitalespanol.or",Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MzQxNTgzMzQ4NhUCABIYFDJGRjhFMzA5MzM5,5493415833486,2024-10-31 15:00:00,,Automática,Neutral,"Hola! Te comunicaste con Dra Sandra Mazzetti Por turnos y temas administrativos comunicarse al telef 3412769151 
-Consultorio
-Calle ayacucho 1989 tercero B",Información,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDgyNTY4MxUCABIYFDJGQUZDRkEyNEFB,5491140825683,2024-10-31 15:00:00,,Automática,Positiva,"Gracias por comunicarte con Ana Barbarulo. No se realizan consultas por este medio . Las recetas son confeccionadas en el contexto de una consulta clinica. Turnos :  según correspondan a Pilar o Belgrano,  le enviaremos los datos para solicitarlo",ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE0MDgyNTY4MxUCABIYFDJGRTNGMDBFNjkw,5491140825683,2024-10-31 15:00:00,,Automática,Positiva,Gracias por tu mensaje. En este momento no estamos disponibles.,Ninguna,Asistencia Técnica
-wamid.HBgNNTQ5MTE2Njc4Nzg5NxUCABIYFDJGQjRCNUI2MTBC,5491166787897,2024-10-31 15:00:00,,Automática,Neutral,"*Estimados Pacientes*: para consultas relacionadas a recetas/órdenes, turnos,revisión de Estudios, tratamientos, etc *comunicarse vía mensaje de WhatsApp al 11 7072 7777.*
+Tiene un logo que dice CIMA
 
-??Turnos Osde Online y Pilar :https://linktr.ee/gastronutri
-
-??Para T",,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNTEwMDQ2NBUCABIYFDNBQUNGMDkxRjI0,5492615100464,2024-09-17 07:22:00,,Escrita,Negativa,"Hola buenos días, me das acceso, aparece esto",Problema,Asistencia Técnica
-wamid.HBgNNTQ5MTE2MTM1NjEwMRUCABIYIENBNDZBQ0Q2RkVF,5491161356101,2024-09-16 07:09:00,,Automática,Neutral,1,,Asistencia Técnica
-wamid.HBgNNTQ5MTE1NDYzOTI4OBUCABIYIDk2ODMyODRBOTBG,5491154639288,2024-08-20 12:33:00,,Automática,Positiva,Buenas tardes,,Asistencia Técnica
-wamid.HBgNNTQ5MjYxNjM3MTI2NBUCABIYIDE4OTIxRTYzOURE,5492616371264,2024-08-13 08:23:00,,Automática,Neutral,1,,Asistencia Técnica
-wamid.HBgNNTQ5MTEzNjA3MzA0NxUCABIYFDNBMEY1NTM3QUNE,5491136073047,2024-08-09 14:58:00,,Escrita,Negativa,"Buenas tardes
-No sé qué problema tendría pero no estoy pudiendo ingresar a la cuenta de página de uds para acceder a los diferentes artículos, en este caso los de la Ada",Solicita ayuda,Asistencia Técnica
-wamid.HBgNNTQ5Mjk4NDUwMDUwMBUCABIYFDNBOEY1MUNENzFE,5492984500500,2024-08-02 12:42:00,,Automática,Positiva,"Hola, buenas tardes. Dra Venchi Rosana, hematóloga de General Roca. Río Negro. Quería saber de algún visitador de la zona. Gracias",Contactar a un representante,Asistencia Personal
-01J42V5MTRA0YNXSSG0K81YW6Q,5492216022134,2024-07-30 16:11:00,,Escrita,Neutral,,N/A,Asistencia Técnica
-01J41TWCYVP4H5BZ94YP8W46QJ,5491144700861,2024-07-30 06:47:00,,Escrita,Positiva,"
+",Automática,Positiva,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjMxNzQwMjE5NBUCABIYFDJGQjNEMDU0MjA1NkQ3N0U3MDRDAA==,5492317402194,2025-03-27 15:02:00,,"Hola, por recetas y turnos comunicarse al 
+Consultorio correspondiente:
+9 de Julio. Corpus 523636/7/8
+Wa 2317446606.
+Https://consultoriocorpus.wiri.la
+C.Casares. Crek. Soler 21. ?? 2395424665
+Bolivar. Diagnos. Olavarria 99. ?? 2314427087",Automática,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzgxNTk1NjAyMxUCABIYFDNBRjU4Mzk5MjZCNUU0MUMwNTQwAA==,5493815956023,2025-03-27 15:02:00,,gracias,Automática,Positiva,agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzg1NDM4Njk5NxUCABIYIEZFNzk1OUY5RjcwMjlENEY5MDk4MUNEMUZCQkYyOUM5AA==,5493854386997,2025-03-27 15:03:00,,"Gracias por tu mensaje. No puedo atender tu mensaje hasta el día 7 de abril.
+Por recetas y /o derivaciones enviar mensaje al 3855020876 Alejandra Barron.
+O dirigirse a Azahares.",Automática,Positiva,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5Mzg1NTA3NDM5NhUCABIYIEYwNjJBNEU4OUIxRUQzRDhFM0MyNTA5ODUwQjBDQTg2AA==,5493855074396,2025-03-27 15:07:00,,Muchas gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTU2MTE2MxUCABIYFDNBNzY0NTc5RTIyNzQyRTMyQTM3AA==,5492215561163,2025-03-27 15:08:00,,Hola de Sanofi no nos visita nadie,Escrita,Negativa,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MzQxNjA2Nzc4OBUCABIYIDgzMDhDRjc0QzgyRjVDRTEyNzg2Q0UxRUUyNDE3MjkzAA==,5493416067788,2025-03-27 15:28:00,,Gracias!!,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5Mzc5NDc1MzE4NxUCABIYFjNFQjBCQTQxNDk3NzI4MTI1RTQ0QjcA,5493794753187,2025-03-27 15:28:00,,gracias!,Automática,Positiva,,Asistencia Técnica
+wamid.HBgNNTQ5Mzg3NTE2OTUzMRUCABIYFDNBNzUwRUM0OUI4RkQxQ0VFNjk1AA==,5493875169531,2025-03-27 15:58:00,,Gracias,Automática,Positiva,Agradecimiento,Asistencia Técnica
+wamid.HBgNNTQ5MTE2MjY5MDk4MxUCABIYIDdEOUZEQjQwNzY3NTE4QkM5OTZEODg5QzEzMkY5OUJDAA==,5491162690983,2025-03-27 19:43:00,,??,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE1MzMxNzM0OBUCABIYFDVFOUJDMDY4NDg5Q0M4QzVBRThGAA==,5491153317348,2025-03-28 17:45:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIDA1NzUyMTdBMzAxMTZCRENCQzNDNzI5MzYxMzUxRjBBAA==,5491169085500,2025-04-22 08:58:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIDYzRkMxRDYwODI4OEIzNDA0QzY5MTA5NTJCRUFGMEFEAA==,5491169085500,2025-04-22 08:59:00,,Ayuda,Escrita,Neutral,Ayuda,Asistencia Personal
+wamid.HBgNNTQ5MTE2OTA4NTUwMBUCABIYIEI5NzA3NDI4QjQwQ0JGOEE0NjYwRDNDRkFDRjYwMUVFAA==,5491169085500,2025-04-22 09:03:00,,Volver al menú,Automática,Neutral,Volver al menú,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTYxNDgwNRUCABIYIDE4RDRDOUJEMTlENDQwNTAzNUFEOEVDMDM0OTE0RThDAA==,5492215614805,2025-04-23 18:52:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjkxNjQ5MjYwNxUCABIYFDNBQUU4OUJENzE3NzcwNDAxMjNGAA==,5492916492607,2025-04-28 06:06:00,,Hola,Escrita,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE2NDAyMzExMhUCABIYIDQ2MDA2NEU2N0M0OEIwQkVGMUNFQkZFNUY3NEEzMUVDAA==,5491164023112,2025-04-28 13:48:00,,"61076323604 SOL KRASNIANSKY
+Recibidos
 
 
-",Agradecimiento,Asistencia Personal
-01J3ZFNS9XRQNTF46QYXY3J3G0,5491139049332,2024-07-29 08:52:00,,Escrita,Positiva,"Hola necesito comunicarme con alguien de vacunas antigripales
-Me podrían pasar algún contacto",Comunicación,Asistencia Personal
-01J3TYN6G3C4CRPBG10BE2FHQV,5491144700861,2024-07-27 14:38:00,,Escrita,Neutral,1 para si,N/A,Asistencia Técnica
-01J3NDXP5VJD2R79H2A0YF0DBH,5492215561163,2024-07-25 11:09:00,,Escrita,Neutral,Si,,Asistencia Técnica
-01J1QFZ2572FND7MGH9DWH6ZT2,5492901478660,2024-07-01 09:52:00,,Escrita,Neutral,,N/A,Asistencia Técnica
-01J15C801VHS8RYEABPP5F7BFN,5491154639288,2024-06-24 09:01:00,,Automática,Neutral,Buenos dias,N/A,Asistencia Técnica
-01J0R8M47VK1R9TPQC2HF61MTP,5493515216986,2024-06-19 06:47:00,,Escrita,Positiva,Hola cómo estás? Quería pedirte si llegan a tener becas para el congreso anual de pediatría. Muchas gracias!,Solicitud de información,Asistencia Técnica
+'Asistencia Domiciliaria OSDE' via Solicitud de Evaluacion
+Adjuntos
+16:24 (hace 10 minutos)
+para Solicitud
+
+Estimados buenas tardes
+
+desde asesoría médica , solicita que se justifique el cambio d",Automática,Neutral,Solicita justificación de un cambio,Asistencia Personal
+wamid.HBgNNTQ5MTE2NDAyMzExMhUCABIYIEUxOTZGM0VFQzZBOUY4QzdCMDdGMzM3NTJCQjdGM0FFAA==,5491164023112,2025-04-28 13:48:00,,"Hola San necesito q hagas un informe justificando el cambio de leche. Te envío acá lo q pide OSDE.
+Firmado y sellado",Escrita,Neutral,Solicitud de informe justificativo,Asistencia Personal
+wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBRTI3RkNGN0ZFNUQwNzYwQThCAA==,5492216022134,2025-05-09 07:34:00,,"1° Ateneo | Centro de Formación Profesional - Centro Médico Climed
+
+Creemos que la capacitación continua es fundamental para brindar la mejor atención a nuestros pacientes. Por eso, inauguramos este espacio de formación e innovación para manten",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNjAyMjEzNBUCABIYFDNBN0M0RTFBODc1MUI5NEFCNTFGAA==,5492216022134,2025-05-09 07:34:00,,Recurso multimedia enviado: video/mp4,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MjIxNTYxNDgwNRUCABIYIDE1N0E1RTQxN0UyQUNCQzQ0OEYwMTkwNDk1REE3NDE0AA==,5492215614805,2025-05-12 18:05:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzU0NzU5NzU1MhUCABIYFDNBMEFEQkYzQUI4NDI4ODY2RUJEAA==,5493547597552,2025-05-13 12:42:00,,"Progama Eencuentro Medico Alta Gracia.pdf
+Recurso multimedia enviado: application/pdf",Automática,Neutral,Solicitud de recurso,Asistencia Técnica
+wamid.HBgNNTQ5MzU0NzU5NzU1MhUCABIYFDNBRkRGNzM5MjU2Njc4MDUzOTcwAA==,5493547597552,2025-05-13 12:42:00,,"Programa definitivo, en unos 10 días confirmamos asistentes ",Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0NDA4MzYyNRUCABIYFDNBQ0M1RkVFNUQzOUMzNDlDNDlCAA==,5491144083625,2025-05-14 05:24:00,,"Buen día, quisiera saber si tenemos APM en el Hospital Elizalde. Soy Miriam Bonadeo, jefa de Unidad de Consultorios Externos de Clínica Pediátrica. Gracias",Escrita,Positiva,Información,Asistencia Técnica
+wamid.HBgNNTIxNTU4MDA1MTcwMxUCABIYFDNBRTA1MkNFNzM0NDQxMEQxNjdBAA==,525580051703,2025-05-15 10:26:00,,Hola,Escrita,Neutral,,Asistencia Técnica
+wamid.HBgNNTQ5MzgxNjQwOTU3NBUCABIYIEREQzQ4QUVGRUYxRERDNEY3MTVFMUY3REE0MzM1RDZGAA==,5493816409574,2025-05-26 06:38:00,,Recurso multimedia enviado: image/jpeg,Automática,Neutral,Ninguna,Asistencia Técnica
+wamid.HBgNNTQ5MTE0MDI1MDA1NhUCABIYIDMyQUYwMkY1MzBCNjY2MkU3NDY0NjJBQzdERkYzNTQyAA==,5491140250056,2025-05-26 10:04:00,,"Saluden a los valijas ??
+Recurso multimedia enviado: image/jpeg",Escrita,Neutral,Comunicación,Asistencia Personal
+wamid.HBgNNTQ5MTE2OTAyMjg3OBUCABIYIEIyQ0Y0ODY4QkJGNjY5MjYzQjY4Q0I4MzMwNUFFNzZGAA==,5491169022878,2025-05-26 17:08:00,,Felicidades en tu dia!!,Automática,Positiva,Ninguna,Asistencia Técnica

@@ -1,9 +1,10 @@
 import pandas as pd
 import json
 from datetime import datetime
+import re
+from Update_DB import update_db
 
-
-SAVE_PATH = 'WA_Campaigns_Report_Creation/data/processed'
+SAVE_PATH = 'C:/Users/choc-/OneDrive/Escritorio/WA_Campaigns_Report_Creation/data/inputs'
 COUNTRIES_LIST = ['ARG']
 
 
@@ -96,7 +97,7 @@ def transform_responses(responses_df: pd.DataFrame) -> pd.DataFrame:
     # Rename columns for clarity
     responses_df = responses_df.rename(columns={
         'mobile': 'mobile_number',
-        'message_hcp_reply': 'hcp_message_reply',
+        'message_hcp_reply': 'message',
         'ConversationId': 'conversation_id',
         'ChatMessagingMOLogId': 'message_log_id',
         'message_number': 'message_order',
@@ -108,16 +109,19 @@ def transform_responses(responses_df: pd.DataFrame) -> pd.DataFrame:
         'message_log_id',
         'conversation_id',
         'mobile_number',
-        'hcp_message_reply',
+        'message',
         'conversation_date',
         'message_order'
     ]]
+
+    responses_df['conversation_date'] = pd.to_datetime(responses_df['conversation_date'], errors='coerce')
+    responses_df = responses_df.sort_values(by='conversation_date', ascending=True).reset_index(drop=True)
 
     return responses_df
 
 def transform_conversations(responses_df: pd.DataFrame) -> pd.DataFrame:
 
-    conversations_df = responses_df[['conversation_id', 'mobile_number', 'message_date']].copy()
+    conversations_df = responses_df[['conversation_id', 'mobile_number', 'conversation_date']].copy()
 
     conversations_df  = conversations_df.drop_duplicates(subset=['conversation_id'], keep='first')
 
@@ -145,11 +149,35 @@ def transform_conversations(responses_df: pd.DataFrame) -> pd.DataFrame:
 
     conversations_ids = conversations_df['conversation_id'].unique().tolist()
 
+    for id in conversations_ids:
+        try:
+            messages_text = responses_df[responses_df['conversation_id'] == id].sort_values(by='message_order')['message'].astype(str).tolist()
+            if not messages_text:
+                raise ValueError("messages_text is an empty list")
+        except Exception as e:
+            print(f"Error processing conversation_id {id}: {e}")
+            messages_text = []
+        
+        final_message = '\n'.join(messages_text) if len(messages_text) > 0 else ''
+
+        conversations_df.loc[conversations_df['conversation_id'] == id, 'conversation'] = final_message
+        # Asegurarse que 'conversation_date' es tipo fecha
+        conversations_df['conversation_date'] = pd.to_datetime(conversations_df['conversation_date'], errors='coerce')
+        conversations_df = conversations_df.sort_values(by='conversation_date', ascending=True).reset_index(drop=True)
+    
+    return conversations_df
 
 
-for country in COUNTRIES_LIST:
-    df = pd.read_csv(f'{SAVE_PATH}/{country}_WA_Responses.csv', sep=',')
+def main():
+    for country in COUNTRIES_LIST:
+        df = pd.read_csv(f'{SAVE_PATH}/{country}_WA_Responses.csv', sep=',')
 
-    # DF with the transformed responses
-    responses_df = transform_responses(df)
+        # DF with the transformed responses
+        responses_df = transform_responses(df)
 
+        # DF with the transformed conversations
+        conversations_df = transform_conversations(responses_df)
+
+        update_db(responses_df, conversations_df)
+
+main()
