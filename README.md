@@ -1,4 +1,6 @@
-# Creación de reportes de Campañas WA + Análisis de Respuestas
+# Carga y analisis de respuestas WA
+
+Este proceso sirve para analizar las respuestas de WA de los canales de Sanofi y actualizar la fuente principal donde se guardan estos datos. A día de hoy los datos se tienen en archivos de texto plano. En un futuro, se presenten hacer una conexion a Sharepoint 
 
 
 ## Prerequisitos
@@ -9,13 +11,17 @@
 
 ## Flujo del proceso
 
-    1. Restructuración Archivo CSV
-        1. Se lee el archivo CSV sobre los datos de campaña.
-        1. Se aplica un ETL, el cual transforma los datos de una estructura a otra
+    1. Actualización Fuente
+        1. Se lee el arhivo con las conversaciones de los últimos N días
+        1. Se aplica un ETL, el cual transforma las estructura de estos a otros
+        1. Se verifica que esos registros de datos no existan dentro de sus conjuntos de datos correspondientes.
+          - Historic Messages
+          - Historic Conversations
+        1. Si no existen dentro de los registros, se actualizan
     
     2. Analisis de las respuestas (Clasificación)
-       1. Se lee el archivo txt con los datos de cada uno de los shots de la campaña
-       2. Se buscan dentro del histórico de las conversacion (API o leyendo un archivo), y se filtran aquellos mensajes por shot, que se encuentren dentro de las siguientes 24 horas de enviado después de que el shot se mando
+       1. Se lee el archivo que contiene las conversaciones (Cada lunes y miercoles)
+       2. Se buscan dentro del histórico de las conversaciones aquellas que no han sido clasificadas anteriormente
        3. Se pasan cada una de estas conversaciones al LLM para clasificar los textos
        4. Se actualiza la base de datos (o CSV con los nuevos datos de las conversaciones)
 
